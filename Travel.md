@@ -25,7 +25,7 @@ Camping requires no special skill, but the party should post watches. The order 
 
 If the watch-keeper succeeds (wins, in a Contest), the party isn’t surprised – although those who were asleep start combat lying down. Otherwise, everyone is asleep or stunned; each delver must make one IQ roll per turn, at +1 per turn after the first and +6 for Combat Reflexes, and can react only on the turn after succeeding.
 
-**Wilderness Camps**: If a nighttime encounter involves enemies that hunt by sight, the GM will roll a Quick Contest: the monsters’ Vision vs. the party’s highest Camouflage skill, at a penalty equal to the number of party members who have no points in that skill. Victory means the enemy spends enough time searching that any watch-keeper gets a second chance to detect them, as above.
+**Wilderness Camps**: If a nighttime encounter involves enemies that hunt by sight, the GM will roll a Quick Contest: the monsters’ Vision vs. the party’s highest Camouflage skill, at a penalty equal to the number of party members who have no points in that skill. Victory means the enemy spends enough time searching that any watch-keeper gets a second chance to detect them, as above. If the watcher succeeds on both perception checks then the party has enough time to start the fight standing but not readied.
 
 **Dungeon Camps**: When sleeping in a dungeon, camouflage won’t work – but if the room has doors, use the same rules with the party’s highest Traps (and no penalty) to set simple noise-makers. In that case, victory means the monsters awaken the party; the delvers won’t be surprised. Sleeping heroes still start combat lying down, though.
 

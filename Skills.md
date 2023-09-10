@@ -179,6 +179,12 @@ Sword - DX/A
 
 
 # Techniques
+You (or your GM!) may want a way to improve your ability with a specific application of a skill without increasing the overall skill level. Allowing this in the game makes play (and character sheets) more complex. As a result, the following section is purely optional.
+
+You need not buy a technique to use it. If you have even one point in a skill, you may use all that skill’s techniques at default. To avoid a cluttered character sheet, though, only note techniques that you know at better than default level.
+
+
+
 Blind Fighting - Per/VH
 
 Captivate - Will/H

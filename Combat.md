@@ -136,8 +136,8 @@ Grappling a foe lets you try special moves on later turns, provided your victim 
 A hand not committed to grappling can be used for an Attack, All-Out Attack, or Ready maneuver. You can bite even if your hands are busy. To Aim, Feint, Concentrate, Wait, or make a ranged attack, though, you must first pin your foe.
 
 You may also perform these free actions on your turn:
-• Release your grip with one or more hands.
-• Drag or carry your victim. Only after pinning your foe, unless you have more than twice your opponent’s ST. Just move or step normally, dragging or carrying your enemy (who counts as encumbrance, likely reducing your Move).
+- Release your grip with one or more hands.
+- Drag or carry your victim. Only after pinning your foe, unless you have more than twice your opponent’s ST. Just move or step normally, dragging or carrying your enemy (who counts as encumbrance, likely reducing your Move).
 
 ### Actions After Being Grappled
 If you’re grappled, you can’t take a Move maneuver unless your ST is more than twice your foe’s. Aim, Concentrate, Wait, and ranged attacks are impossible. If you’re pinned, you can’t take any maneuver that requires physical movement except to Break Free.

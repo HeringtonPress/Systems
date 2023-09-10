@@ -22,7 +22,7 @@ Note that these levels are numbered from 0 to 4. When a rule tells you to add or
 ## Acc (Accuracy)
 Add Accuracy to your weapon skill if you took an Aim maneuver on the turn prior to your attack. If you have Heroic Archer (p. 35) and are wielding a bow, you don’t need to Aim – add Acc to skill whenever you Attack or All-Out Attack outside of close combat!
 ## Bulk
-A measure of the weapon’s size and handiness. Bulk penalizes weapon skill during a Move and Attack maneuver or in close combat. If you have Heroic Archer (p. 35), you may ignore Bulk penalties for bows.
+A measure of the weapon’s size and handiness. Bulk penalizes weapon skill during a Move and Attack maneuver or in close combat.
 ## Parry
 A number, such as “+2” or “-1,” indicates the bonus or penalty to your Parry defense when using that weapon; see Parrying (p. XX).
 
@@ -38,7 +38,7 @@ The distance in hexes at which a melee weapon can strike; e.g., reach “2” me
 
 Some weapons have more than one reach; e.g. A spear with reach “1, 2” can strike targets either one or two hexes away. An asterisk (\*) next to reach means the weapon requires a Ready maneuver to change reach (e.g., between 1 and 2).
 ## Shots
-The number of shots the weapon gets between reloads. “1” means a missile weapon that can shoot one projectile and then needs reloading. A magical weapon might boast Shots 2 or more, shooting two or more times between reloads!
+The number of shots the weapon gets between reloads. “1” means a missile weapon that can shoot one projectile and then needs reloading.
 
 “T” indicates a thrown weapon. To “reload,” pick it up or ready a new weapon!
 
@@ -46,7 +46,7 @@ The parenthetical number after Shots is the number of one-second Ready maneuvers
 
 Blowpipes and Bows: “(2)” means one Ready to draw and position a dart or arrow, and another to prepare the loaded weapon for shooting. A successful Fast-Draw (Arrow) roll turns the first into a free action, making effective reload time (1).
 
-Crossbows and Prodds: “(4)” means two consecutive Ready maneuvers to cock the weapon, one to draw and load a bolt, and one to bring the weapon back into shooting position. This assumes the weapon’s ST is no greater than yours (see Bows, Crossbows, and ST, p. 98). If its ST is one or two greater, cocking takes six Ready maneuvers, so reload time is (8); if its ST is three or four greater, cocking takes 18 turns (and you need a “goat’s foot” device, and must be standing), so reload time is (20); and if its ST is five greater or more, you cannot cock it! A successful Fast-Draw (Arrow) roll shaves off one Ready maneuver.
+Crossbows and Prodds: “(4)” means two consecutive Ready maneuvers to cock the weapon, one to draw and load a bolt, and one to bring the weapon back into shooting position. This assumes the weapon’s ST is no greater than yours (see Bows, Crossbows, and ST, below). If its ST is one or two greater, cocking takes six Ready maneuvers, so reload time is (8); if its ST is three or four greater, cocking takes 18 turns (and you need a “goat’s foot” device, and must be standing), so reload time is (20); and if its ST is five greater or more, you cannot cock it! A successful Fast-Draw (Arrow) roll shaves off one Ready maneuver.
 ## ST (Strength)
 The minimum Strength needed to use the weapon properly. If you use a weapon that requires more ST than you have, you suffer -1 to weapon skill per point of ST deficit and lose one extra FP at the end of the fight.
 
