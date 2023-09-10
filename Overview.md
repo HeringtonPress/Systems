@@ -1,0 +1,8 @@
+# Overview
+GURPS only uses six-sided dice, and uses abbreviations for die rolls – for instance, a roll on three dice would be shown as “3d”.
+# Task Resolution
+The basic mechanic of GURPS is the success roll against a skill or attribute. To succeed, you (or the GM) must roll less than or equal to your skill or attribute level on 3d. The GM may assign modifiers to your skill from -10 (extremely hard) to +10 (extremely easy). A 3 on the dice always succeeds and an 18 always fails!
+
+Sometimes two characters are competing to do something very quickly – for instance, two enemies lunging for a gun. This is called a quick contest. Each competitor attempts a success roll. If one succeeds and the other fails, the winner is obvious. If both succeed, the winner is the one with the largest margin of success. If both fail the winner is the one with the smallest margin of failure. A tie means no one won – it's up to the GM to determine what happened.
+# Reaction Rolls
+If the PCs encounter a non-player character (NPC) whose relationship to the PCs has not already been determined, the GM may roll 3d6 for a reaction. On a roll 6 or below, the NPC is hostile and works against the PCs. A roll of 7-14 is neutral – he might talk and barter, but won't help. A roll of 15-18 is friendly, and means he actively helps the PCs. A reaction roll may be used as an immediate way to see how an NPC will interact with a character but should also be used after a question is asked or a conversation had.
