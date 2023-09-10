@@ -1,6 +1,6 @@
 [Overview](/Overview.md)
 
-[Character Creation](/Character%20Creation.md)
+[Character Creation](/CharacterCreation.md)
 
 [Skills](/Skills.md)
 
@@ -10,4 +10,4 @@
 
 [Travel](/Travel.md)
 
-[Guilds and Organisations](/Guilds%20and%20Organisations.md)
+[Guilds and Organisations](/GuildsandOrganisations.md)
