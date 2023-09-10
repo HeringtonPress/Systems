@@ -89,21 +89,21 @@ Various actions can be modified by pushing yourself, physically and mentally, be
 
 **Step**: When you Step you may spend 1 FP to move an additional hex.
 # Advanced Combat Rules
-### Banter
+## Banter
 Action heroes never shut up in combat – an actor has to earn his pay, after all. But it sometimes serves a purpose. Below, Psychology works like an Influence skill, because in the movies, skilled police psychologists and negotiators are good at this stuff!
 
 **Drawing Aggression**: You can use Fast-Talk or Psychology to unleash taunts and jibes calculated to draw an opponent’s aggression. Take a Concentrate maneuver and roll a Quick Contest of skill against the higher of the enemy’s IQ or Will. If you win, that foe comes after you, changing targets if necessary. A tie does nothing. If you lose, he targets a hurt or otherwise vulnerable team member just to spite you! Win, lose, or tie, if you roll a critical success, your mark also makes an All-Out Attack on his next turn.
 
 **Uttering Threats**: You can try Intimidation or Psychology to discourage an enemy, provided that he’s neither Indomitable nor Unfazeable. This works at -5 once combat has begun – but a gun gives you a bonus equal to the absolute value of its Bulk (e.g., +4 for a .50AE hand-cannon), and you get +1 if you light up your rival with a targeting laser. Then roll as for drawing aggression. Victory by 5 or more means he flees the fight. If you win by 1-4, your opponent hesitates, taking that many All-Out Defense maneuvers, but doesn’t leave. If you tie or lose, he comes after you! This trick only works while the team allows enemies to run away unscathed. Shooting one in the back dooms this option to failure for the rest of the encounter.
-### Close quarters
+## Close quarters
 When making an attack at a target closer then your reach, you have a penalty to hit equal to your maximum reach × 4. When parrying the penalty is max reach × 2. For weapons that require you to shift your reach use the current max reach for these calculations.
-### Under water
+## Under water
 - Default swimming speed is move/5 rounded down. Step grants no movement unless your swim speed is above 4.
 - Weapon skills are capped by the Swimming skill, unless you have the Swim spell on or are Aquatic or Amphibious.
 - Sw damage suffers a penalty of -2 x max reach. Thr damage suffers -1 x max reach.
 - Ranged attacks into and out of the water are at -4, 1/10 range, -1 per die of damage, some attacks can't penetrate.
 - No Parry except unarmed or close combat weapons, no Block (but you get DB), Dodge is normal for your move.
-### Grappling
+## Grappling
 If you have an empty hand, you can grab foes or their equipment. You must be in your opponent’s hex to try this.
 
 Each attempt requires an Attack, All-Out Attack, or Move and Attack maneuver, and is considered an attack. If your opponent is lying down or kneeling, you must kneel or lie down unless your rival’s Size Modifier is two or more greater than yours; however, you may do this as the step of an Attack maneuver.
@@ -126,7 +126,7 @@ If you grappled a body part other than the torso, all of the above applies and t
 
 Grappling someone doesn’t mean that person is grappling you! If your foe wants to do that, he must grapple on his turn. Grappling someone doesn’t give you defense penalties, either. However, you can’t parry with a limb without releasing its hold on your victim.
 
-#### Actions After a Grapple
+### Actions After a Grapple
 Grappling a foe lets you try special moves on later turns, provided your victim hasn’t broken free. Each requires an Attack or All-Out Attack maneuver, and counts as an attack.
 
 **Takedown**: Bear a standing opponent to the ground. Roll a Quick Contest, with each contestant using the highest of ST, DX, or best grappling skill. If you aren’t standing, you have the usual attack penalty for posture. If you’re grappling your enemy’s leg or foot, you get +3. If you win, your victim falls down in your hex, losing his grip if he was grappling you. If you lose, you suffer those effects! On a tie, nothing happens.
@@ -139,7 +139,7 @@ You may also perform these free actions on your turn:
 • Release your grip with one or more hands.
 • Drag or carry your victim. Only after pinning your foe, unless you have more than twice your opponent’s ST. Just move or step normally, dragging or carrying your enemy (who counts as encumbrance, likely reducing your Move).
 
-#### Actions After Being Grappled
+### Actions After Being Grappled
 If you’re grappled, you can’t take a Move maneuver unless your ST is more than twice your foe’s. Aim, Concentrate, Wait, and ranged attacks are impossible. If you’re pinned, you can’t take any maneuver that requires physical movement except to Break Free.
 
 **Break Free**: Attempt to end your enemy’s grapple or pin. This counts as an Attack maneuver. You may try every turn if grappled, every 10 turns if pinned. Roll a Quick Contest of ST. Your opponent gets +5 if grappling you with two hands or pinning you with one, +10 if pinning you with two. If either of you has three or more arms, each arm beyond the first two gives +2. If you win, you’re free and may step immediately. If your rival falls unconscious or dies, you’re automatically free at once; a stunned foe doesn’t let go but has ‑4 in the Contest.
