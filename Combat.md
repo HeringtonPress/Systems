@@ -63,7 +63,7 @@ Each maneuver allows for a different amount of movement based on your Basic Move
 ## Facing
 Whenever you have at least a step of movement you may shift your facing freely. You must always face toward one of the six hexes adjacent to your hex. Your facing defines your front, right, left, and back hexes (see illustration). Active defenses suffer a -2 when defending from the side and it is impossible to defend from the back. You may only attack into your front hexes.
 
-![[Pasted image 20230716211829.png|150]]
+![[Facing.png|150]]
 ## Posture
 **Prone**
 While prone you have a movement of 1. You have a -4 to hit with melee attacks. You have a -3 to Active Defense. ranged attacks have a -2 to hit you.
