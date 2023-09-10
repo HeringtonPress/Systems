@@ -1,6 +1,22 @@
 # Equipment
 All characters can use their starting money to outfit themselves. Any magical gear must be run by the GM before being bought as starting gear though really anything bought should be as well.
 ## Encumbrance
+Encumbrance and Move
+“Encumbrance” is a measure of the total weight you are carrying, relative to your ST. The effects of encumbrance are divided into five “encumbrance levels.” All but the lowest level will reduce your actual Move to a fraction of your Basic Move and give a penalty to Dodge, as follows:
+
+No Encumbrance (0): Weight up to Basic Lift. Move = Basic Move. Full Dodge.
+
+Light Encumbrance (1): Weight up to 2¥BL. Move = Basic Move ¥ 0.8. Dodge -1.
+
+Medium Encumbrance (2): Weight up to 3¥BL. Move = Basic Move ¥ 0.6. Dodge -2.
+
+Heavy Encumbrance (3): Weight up to 6¥BL. Move = Basic Move ¥ 0.4. Dodge -3.
+
+Extra-Heavy Encumbrance (4): Weight up to 10¥BL. Move = Basic Move ¥ 0.2. Dodge -4.
+
+Drop all fractions. Encumbrance can never reduce Move or Dodge below 1.
+
+Note that these levels are numbered from 0 to 4. When a rule tells you to add or subtract your encumbrance level from a die roll, this is the number to use. For instance, encumbrance gives a penalty to Climbing, Stealth, and Swimming skills.
 
 # Weapon Stats
 ## Acc (Accuracy)
