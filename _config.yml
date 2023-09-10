@@ -14,3 +14,6 @@ include:
   - PULL_REQUEST_TEMPLATE.md
   - jekyll-remote-theme
 remote_theme: pages-themes/slate@v0.2.0
+
+title: GURPS Simple Fantasy
+description: [A short description of your site's purpose]
