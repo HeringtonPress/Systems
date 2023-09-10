@@ -129,11 +129,11 @@ Grappling someone doesn’t mean that person is grappling you! If your foe wants
 ### Actions After a Grapple
 Grappling a foe lets you try special moves on later turns, provided your victim hasn’t broken free. Each requires an Attack or All-Out Attack maneuver, and counts as an attack.
 
-**Takedown**: Bear a standing opponent to the ground. Roll a Quick Contest, with each contestant using the highest of ST, DX, or best grappling skill. If you aren’t standing, you have the usual attack penalty for posture. If you’re grappling your enemy’s leg or foot, you get +3. If you win, your victim falls down in your hex, losing his grip if he was grappling you. If you lose, you suffer those effects! On a tie, nothing happens.
+**Takedown**: Bear a standing opponent to the ground. Roll a Quick Contest, with each contestant using the highest of ST, DX, or best grappling skill. If you aren’t standing, you have the usual attack penalty for posture. If you’re grappling your enemy’s leg you get +3. If you win, your victim falls down in your hex, losing his grip if he was grappling you. If you lose, you suffer those effects! On a tie, nothing happens.
 
 **Pin**: Prevent an opponent who’s lying down from acting. You must be grappling your foe’s torso. Roll a Regular Contest of ST. The larger fighter gets +3 per point of Size Modifier difference. The fighter with the most free hands has +3. If you win, your foe is now helpless; you must stay there to hold him down, but you can free one hand for other actions. If you lose or tie, nothing happens.
 
-A hand not committed to grappling can be used for an Attack, All-Out Attack, or Ready maneuver. You can bite even if your hands are busy. To Aim, Feint, Concentrate, Wait, or make a ranged attack, though, you must first pin your foe.
+A hand not committed to grappling can be used for an Attack, All-Out Attack, or Ready maneuver. You can bite even if your hands are busy. To Aim, Feint, Concentrate, Wait, or make a ranged attack you must first pin your foe.
 
 You may also perform these free actions on your turn:
 - Release your grip with one or more hands.
