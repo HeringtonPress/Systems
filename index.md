@@ -1,13 +1,13 @@
-[[Overview]]https://github.com/HeringtonPress/HeringtonPress.github.io/blob/main/Overview.md
+[Overview](/Overview.md)
 
-[[Character Creation]]https://github.com/HeringtonPress/HeringtonPress.github.io/blob/main/Character%20Creation.md
+[Character Creation](/Character%20Creation.md)
 
 [Skills](/Skills.md)
 
-[[Equipment]]https://github.com/HeringtonPress/HeringtonPress.github.io/blob/main/Equipment.md
+[Equipment](/Equipment.md)
 
-[[Combat]]https://github.com/HeringtonPress/HeringtonPress.github.io/blob/main/Combat.md
+[Combat](/Combat.md)
 
-[[Travel]]https://github.com/HeringtonPress/HeringtonPress.github.io/blob/main/Travel.md
+[Travel](/Travel.md)
 
-[[Guilds and Organisations]]https://github.com/HeringtonPress/HeringtonPress.github.io/blob/main/Guilds%20and%20Organisations.md
+[Guilds and Organisations](/Guilds%20and%20Organisations.md)
