@@ -47,6 +47,7 @@ These are derived from attributes, as follows.
 | 14  | 1d     | 1d+2  |    | 20  | 2d-1   | 2d+1  |
 
 >Example: We want to make a warrior with 100 points. Warriors tend to have high strength but low intelligence. We spend 50 points to raise our ST to 15, since it costs 10 points per level. We lower our IQ to 8, returning 40 points, since it refunds 20 points per level. We keep DX and HT at their default values of 10. We have spent a net total of 10 points and have 90 points left to spend.
+
 ## Skills
 Skills govern what your character is good at. Skill costs depend on their controlling attribute and their difficulty (Easy, Average, Hard or Very Hard). This is usually written in the form “IQ/E” for, as an example, an Intelligence/Easy skill. 
 
