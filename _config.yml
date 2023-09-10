@@ -12,4 +12,5 @@ include:
   - CONTRIBUTING.md
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
-theme: tactile
+  - jekyll-remote-theme
+remote_theme: pages-themes/tactile@v0.2.0
