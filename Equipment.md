@@ -223,20 +223,18 @@ Requires two hands to ready, but only one hand to attack.
 # Armor
 
 ## Shields
-DB: Defense Bonus, tennis number is added to all of your active defense role from attacks to your front or shield side. This bonus is only applicable if the shield is readied. To ready or store a shield takes an amount of ready maneuvers equal to its DB.
+**DB**: Defense Bonus, this number is added to all of your active defense role from attacks to your front or shield side. This bonus is only applicable if the shield is readied. To ready or store a shield takes an amount of ready maneuvers equal to its DB.
 
 | Shield        | DB  | Cost | Weight | Notes  |
 | ------------- | --- | ---- | ------ | ------ |
 | Light Cloak   | 1   | 20   | 2      | [1]    |
 | Heavy Cloak   | 2   | 50   | 5      | [1]    |
-| Small Shield  | 1   | $40  | 8      | [2][3] |
-| Medium Shield | 2   | $60  | 15     | [2][3] |
-| Large Shield  | 3   | $90  | 25     | [2][4] |
+| Small Shield  | 1   | $40  | 8      | [2]    |
+| Medium Shield | 2   | $60  | 15     | [2]    |
+| Large Shield  | 3   | $90  | 25     | [2][3] |
 
 [1] Can be used offensively to Feint or grapple at reach C, 1 (but not for a shield bash or rush). A cloak occupies a hand, and a failed block may endanger your arm.
 
 [2] Can be used offensively, see Shield Bash on the melee weapons table. A spike that gives +1 to damage adds $20 to cost and 5 lbs. to weight before shield modifiers.
 
-[3] Also available as a buckler. You can ready a buckler with one Ready maneuver and drop it as a free action, like a weapon – but it occupies a hand, can be dropped, and doesn’t allow a shield rush. Use Shield (Buckler) skill instead of Shield skill. No effect on statistics.
-
-[4] Large shields get in the way: -2 to all attacks with the other hand (but not with the shield) unless you have Shield-Wall Training. In close combat, apply -3 for DB instead.
+[3] Large shields get in the way: -2 to all attacks with the other hand (but not with the shield) unless you have Shield-Wall Training. In close combat, apply -3 for DB instead.
