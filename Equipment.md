@@ -191,12 +191,12 @@ You can “crack” a whip at -4 to hit, for +2 damage. Make this a technique.
 # Ranged Weapon Tables
 ## BOW (DX-5)
 
-| Weapon        | Damage    | Acc | Range   | Weight  | Shots | Cost | ST  | Bulk | Notes |
-| ------------- | --------- | --- | ------- | ------- | ----- | ---- | --- | ---- | ----- |
-| Bow           | thr+1 imp | 2   | x15/x20 | 2/0.1   | 1(2)  | $100 | 10† | -7   |       |
-| Composite Bow | thr+3 imp | 3   | x20/x25 | 4/0.1   | 1(2)  | $900 | 10† | -7   |       |
-| Longbow       | thr+2 imp | 3   | x15/x20 | 3/0.1   | 1(2)  | $200 | 11† | -8   |       |
-| Shortbow      | thr imp   | 1   | x10/x15 | 1.5/0.1 | 1(2)  | $50  | 7†  | -6   |       |
+| Weapon        | Damage    | Acc | Range   | Weight  |  Cost | ST  | Bulk | Notes |
+| ------------- | --------- | --- | ------- | ------- |  ---- | --- | ---- | ----- |
+| Bow           | thr+1 imp | 2   | x15/x20 | 2/0.1   |  $100 | 10† | -7   |       |
+| Composite Bow | thr+3 imp | 3   | x20/x25 | 4/0.1   |  $900 | 10† | -7   |       |
+| Longbow       | thr+2 imp | 3   | x15/x20 | 3/0.1   |  $200 | 11† | -8   |       |
+| Shortbow      | thr imp   | 1   | x10/x15 | 1.5/0.1 |  $50  | 7†  | -6   |       |
 
 ## CROSSBOW (DX-4)
 
