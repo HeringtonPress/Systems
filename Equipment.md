@@ -191,36 +191,34 @@ You can “crack” a whip at -4 to hit, for +2 damage. Make this a technique.
 # Ranged Weapon Tables
 ## BOW (DX-5)
 
-| Weapon        | Damage    | Acc | Range   | Weight  |  Cost | ST  | Bulk | Notes |
-| ------------- | --------- | --- | ------- | ------- |  ---- | --- | ---- | ----- |
-| Bow           | thr+1 imp | 2   | x15/x20 | 2/0.1   |  $100 | 10† | -7   |       |
-| Composite Bow | thr+3 imp | 3   | x20/x25 | 4/0.1   |  $900 | 10† | -7   |       |
-| Longbow       | thr+2 imp | 3   | x15/x20 | 3/0.1   |  $200 | 11† | -8   |       |
-| Shortbow      | thr imp   | 1   | x10/x15 | 1.5/0.1 |  $50  | 7†  | -6   |       |
+| Weapon        | Damage    | Acc | Range   | Weight  | Cost | ST  | Bulk |
+| ------------- | --------- | --- | ------- | ------- | ---- | --- | ---- |
+| Bow           | thr+1 imp | 2   | x15/x20 | 2/0.1   | $100 | 10† | -7   |
+| Composite Bow | thr+3 imp | 3   | x20/x25 | 4/0.1   | $900 | 10† | -7   |
+| Longbow       | thr+2 imp | 3   | x15/x20 | 3/0.1   | $200 | 11† | -8   |
+| Shortbow      | thr imp   | 1   | x10/x15 | 1.5/0.1 | $50  | 7†  | -6   |
 
 ## CROSSBOW (DX-4)
 
-| Weapon   | Damage | Acc | Range   | Weight | Shots | Cost | ST  | Bulk | Notes |
-| -------- | ------ | --- | ------- | ------ | ----- | ---- | --- | ---- | ----- |
-| Crossbow | thr+4  | 4   | x20/x25 | 6/0.06 | 1(4)  | $150 | 7†  | -6   |       |
+| Weapon   | Damage    | Acc | Range   | Weight | Cost | ST  | Bulk | 
+| -------- | --------- | --- | ------- | ------ | ---- | --- | ---- | 
+| Crossbow | thr+4 imp | 4   | x20/x25 | 6/0.06 | $150 | 7†  | -6   | 
 
 ## NET (DX-6)
+May entangle or ensnare target.
 
-| Weapon | Damage | Acc | Range | Weight | Shots | Cost | ST  | Bulk | Notes  |
-| ------ | ------ | --- | ----- | ------ | ----- | ---- | --- | ---- | ------ |
-| Net    | -      | 1   | Spec. | 5      | T(1)  | $20  | 8   | -4   | [3][4] |
+Range is (ST + Skill/5); round down. Can also be held and used as a melee weapon with reach 1, 2.
+
+| Weapon | Damage | Acc | Range | Weight | Cost | ST  | Bulk |
+| ------ | ------ | --- | ----- | ------ | ---- | --- | ---- |
+| Net    | -      | 1   | Spec. | 5      | $20  | 8   | -4   |
 
 ## SLING (DX-6)
+Requires two hands to ready, but only one hand to attack.
 
-| Weapon | Damage | Acc | Range  | Weight   | Shots | Cost | ST  | Bulk | Notes |
-| ------ | ------ | --- | ------ | -------- | ----- | ---- | --- | ---- | ----- |
-| Sling  | sw pi  | 0   | x6/x10 | 0.5/0.05 | 1(2)  | $20  | 6   | -4   | [2]   |
-
-[2] Requires two hands to ready, but only one hand to attack.
-
-[3] May entangle or ensnare target; see Special Rules for Thrown Weapons (Exploits, pp. 43-45).
-
-[4] Range is (ST + Skill/5) for a net; round down. Can also be held and used as a melee weapon with reach 1, 2.
+| Weapon | Damage | Acc | Range  | Weight   | Cost | ST  | Bulk |
+| ------ | ------ | --- | ------ | -------- | ---- | --- | ---- |
+| Sling  | sw pi  | 0   | x6/x10 | 0.5/0.05 | $20  | 6   | -4   |
 
 # Armor
 
