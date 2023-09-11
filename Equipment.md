@@ -233,7 +233,7 @@ Requires two hands to ready, but only one hand to attack.
 | Medium Shield | 2   | $60  | 15     | [2]    |
 | Large Shield  | 3   | $90  | 25     | [2][3] |
 
-[1] Can be used offensively to Feint or grapple at reach C, 1 (but not for a shield bash or rush). A cloak occupies a hand, and a failed block may endanger your arm.
+[1] Can be used offensively to Feint or grapple at reach C, 1 (but not for a shield bash). A cloak occupies a hand, and a failed block may endanger your arm.
 
 [2] Can be used offensively, see Shield Bash on the melee weapons table. A spike that gives +1 to damage adds $20 to cost and 5 lbs. to weight before shield modifiers.
 
