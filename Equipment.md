@@ -37,16 +37,7 @@ If a weapon has only one range number, this is the Maximum Range (Max) in hexes 
 The distance in hexes at which a melee weapon can strike; e.g., reach “2” means the weapon can only strike foes two hexes away, not closer or more distant ones. “C” indicates you can use the weapon for Close Combat (p. XX).
 
 Some weapons have more than one reach; e.g. A spear with reach “1, 2” can strike targets either one or two hexes away. An asterisk (\*) next to reach means the weapon requires a Ready maneuver to change reach (e.g., between 1 and 2).
-## Shots
-The number of shots the weapon gets between reloads. “1” means a missile weapon that can shoot one projectile and then needs reloading.
 
-“T” indicates a thrown weapon. To “reload,” pick it up or ready a new weapon!
-
-The parenthetical number after Shots is the number of one-second Ready maneuvers needed to reload a missile weapon or pull out another thrown weapon.
-
-Blowpipes and Bows: “(2)” means one Ready to draw and position a dart or arrow, and another to prepare the loaded weapon for shooting. A successful Fast-Draw (Arrow) roll turns the first into a free action, making effective reload time (1).
-
-Crossbows and Prodds: “(4)” means two consecutive Ready maneuvers to cock the weapon, one to draw and load a bolt, and one to bring the weapon back into shooting position. This assumes the weapon’s ST is no greater than yours (see Bows, Crossbows, and ST, below). If its ST is one or two greater, cocking takes six Ready maneuvers, so reload time is (8); if its ST is three or four greater, cocking takes 18 turns (and you need a “goat’s foot” device, and must be standing), so reload time is (20); and if its ST is five greater or more, you cannot cock it! A successful Fast-Draw (Arrow) roll shaves off one Ready maneuver.
 ## ST (Strength)
 The minimum Strength needed to use the weapon properly. If you use a weapon that requires more ST than you have, you suffer -1 to weapon skill per point of ST deficit and lose one extra FP at the end of the fight.
 
@@ -189,6 +180,15 @@ At the start of your next turn, you must either relinquish your weapon, leaving 
 
 You can “crack” a whip at -4 to hit, for +2 damage. Make this a technique.
 # Ranged Weapon Tables
+## Reloading
+The parenthetical number represents the number of ready actions needed to reload. 
+
+**Thrown Weapons**: pick it up or ready a new weapon!
+
+**Bows and Slings**: (2) means one Ready to draw and position a stone or arrow, and another to prepare the loaded weapon for shooting. A successful Fast-Draw roll turns the first into a free action, making effective reload time (1).
+
+**Crossbows**: “(4)” means two consecutive Ready maneuvers to cock the weapon, one to draw and load a bolt, and one to bring the weapon back into shooting position. This assumes the weapon’s ST is no greater than yours (see Bows, Crossbows, and ST, above). If its ST is one or two greater, cocking reload time is (8); if its ST is three or four greater, you need a “goat’s foot” device and must be standing, reload time is (20); and if its ST is five greater or more, you cannot cock it! A successful Fast-Draw roll shaves off one Ready maneuver.
+
 ## BOW (DX-5)
 
 | Weapon        | Damage    | Acc | Range   | Weight  | Cost | ST  | Bulk |
