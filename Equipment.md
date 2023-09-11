@@ -227,6 +227,8 @@ DB: Defense Bonus, tennis number is added to all of your active defense role fro
 
 | Shield        | DB  | Cost | Weight | Notes  |
 | ------------- | --- | ---- | ------ | ------ |
+| Light Cloak   | 1   | 20   | 2      | [1]    |
+| Heavy Cloak   | 2   | 50   | 5      | [1]    |
 | Small Shield  | 1   | $40  | 8      | [2][3] |
 | Medium Shield | 2   | $60  | 15     | [2][3] |
 | Large Shield  | 3   | $90  | 25     | [2][4] |
