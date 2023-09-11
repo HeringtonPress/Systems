@@ -151,3 +151,21 @@ Meta-Traits are a collection of Traits that function as one trait. Meaning that 
 ## Modifiers
 Modifiers are extra details about Traits that shift the overall price. Typically represented by a positive or negative percentage. 
 > Example: A creature with flight must pay 40 Points. If this flight is granted by wings the price is modified by -25% due to the risks and requirements of winged flight. Meaning a winged creature only needs to pay 30 points for flight.
+
+
+# Starting From Scratch
+If you lose a character and have to make a new one you go through character creation just as you had before. Starting with the same amount of points everyone else started with.
+
+If, however, your previous character receives a funeral you will receive a portion of Character Points to use on your new character.
+
+- For no funeral you receive 0 character points.
+
+- For a quick and cheap/free funeral you receive 1/5 of the difference between starting points and previous points.
+
+- For a planned but inexpensive funeral you receive 1/4 of the difference.
+
+- For a typical, expensive funeral you receive 1/3.
+
+- For an honorable, luxurious funeral you receive 1/2.
+
+If the body is unavailable a token of them may be used in its place. Doing so reduces the Points received to the previous tier. Without a token or body reduce it by 2 tiers. If the funeral rites don't match the character's faith or culture reduce it by another tier.
