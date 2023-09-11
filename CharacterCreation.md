@@ -152,7 +152,7 @@ Meta-Traits are a collection of Traits that function as one trait. Meaning that 
 Modifiers are extra details about Traits that shift the overall price. Typically represented by a positive or negative percentage. 
 > Example: A creature with flight must pay 40 Points. If this flight is granted by wings the price is modified by -25% due to the risks and requirements of winged flight. Meaning a winged creature only needs to pay 30 points for flight.
 
-
+---
 # Starting From Scratch
 If you lose a character and have to make a new one you go through character creation just as you had before. Starting with the same amount of points everyone else started with.
 
