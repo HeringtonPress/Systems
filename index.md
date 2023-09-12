@@ -10,7 +10,8 @@ Just as all things GURPS Game masters are encouraged to rip and tear till this c
 
 [Equipment](/Equipment.md)
 
-[Combat](/Combat.md)
+[Combat](/Combat/Combat.md)
+	[Advanced Combat](/Combat/AdvancedCombat.md)
 
 [Magic And Miracles](MagicandMiracles)
 

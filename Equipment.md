@@ -221,6 +221,7 @@ Requires two hands to ready, but only one hand to attack.
 | Sling  | sw pi  | 0   | x6/x10 | 0.5/0.05 | $20  | 6   | -4   |
 
 # Armor
+**Armor**: grant a damage resistance (DR) value. Any successful attack will have its damage reduced by the character's DR. If an attack does the character's DR or less in damage, then the character takes no damage at all.
 
 ## Shields
 **DB**: Defense Bonus, this number is added to all of your active defense role from attacks to your front or shield side. This bonus is only applicable if the shield is readied. To ready or store a shield takes an amount of ready maneuvers equal to its DB.
