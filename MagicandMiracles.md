@@ -26,22 +26,18 @@ Perk-level spells that are taken as learned spells can be maintained indefinitel
 Obvious spells and spells that require components(see wizardry) make it clear to anyone with any awareness of how magic works that a spell is being cast. Someone may roll vs. an applicable skill (Thaumatology/Occultism or IQ) as a free action to estimate what the spell will do. This roll is at -4 if the spell is only verbal/somatic/material/obvious, or at no penalty if more then one of the 4.
 
 ---
-## Casting
-To build a character with access to Spells but without the ability to "Improvise" simply buy spells as alternate abilities to each other. It is still important to establish the Source of these abilities as you and the GM will work to establish the Limitations of the spell selection as you would with Sorcerous Empowerment. When buying a Talent for your source price it with the guidance of Sorcerous Talent.
+## Mana and Sanctity
+Mana is the ambient energy that underlies wizardly spells. Sanctity is the measure of a specific entities influence in an area. Their levels and effects are as follows:
 
----
-## Mana
-Mana is the ambient energy that underlies wizardly spells. Its levels and effects are as follows:
+**Very High**: Rare and unstable places where mana is pushing into the world. A wizard who casts a wizardly spell recovers any personal FP used (not other energy) a second later. However, all failures are treated as critical failures – and actual critical failures produce spectacular disasters of the GM’s choosing!
 
-**Very High Mana**: Rare and unstable places where mana is pushing into the world. A wizard who casts a wizardly spell recovers any personal FP used (not other energy) a second later. However, all failures are treated as critical failures – and actual critical failures produce spectacular disasters of the GM’s choosing!
+**High**: Not uncommon and seemingly random sites where magical power pools. Spells have a +4 to skills for all purposes. Magic items are similarly affected. More over, activating magic items costs 1 less FP.
 
-**High Mana**: Not uncommon and seemingly random sites where magical power pools. Spells have a +4 to skills for all purposes. Magic items are similarly affected. More over, activating magic items costs 1 less FP.
+**Normal**: The usual assumption when the GM hasn’t specifically adjusted the mana level. Magic works normally.
 
-**Normal Mana**: The usual assumption when the GM hasn’t specifically adjusted the mana level. Magic works normally.
+**Low**: Places where magic is weak – which, like high-mana areas, seem to be random and not especially rare. Spells have -5 to skill for all purposes. Magic items are similarly affected.
 
-**Low Mana**: Places where magic is weak – which, like high-mana areas, seem to be random and not especially rare. Spells have -5 to skill for all purposes. Magic items are similarly affected.
-
-**No Mana**: Extremely uncommon locales where mana is utterly absent. Wizardly magic won’t work, and ongoing spells are instantly dispelled. Exception: The effects of permanent spells and magic items are merely suspended, and resume once taken to an area with mana.
+**None**: Extremely uncommon locales where mana is utterly absent. Wizardly magic won’t work, and ongoing spells are instantly dispelled. Exception: The effects of permanent spells and magic items are merely suspended, and resume once taken to an area with mana.
 
 Mana is normal on average, but low- and high-mana spots are far more common than low- or high-sanctity ones. In some places, mana level fluctuates over time! Very high and no mana are plot devices best used sparingly by the GM.
 ___
@@ -88,7 +84,6 @@ Sorcery Talent adds to every roll made to cast a sorcerous spell or to use that 
 The GM must determine the maximum level of Sorcery Talent in the campaign. For most games, four levels is a reasonable limit. In a cinematic or over-the-top setting, the GM may wish to raise this to six levels, 10 levels, or no limits at all!
 
 ---
-
 ## Wizardry
 
 Every spell cast through Wizardry requires a roll from a relevant School of Magic skill. The Schools of magic are IQ/VH skills that default to Thaumatology -6. If a Spell falls under multiple Schools a Wizard may use the Skill of their choosing.
@@ -125,7 +120,6 @@ Wizardly Talent adds to every roll made to cast a Wizardly spell or to use that 
 The GM must determine the maximum level of Wizardly Talent in the campaign. For most games, four levels is a reasonable limit. In a cinematic or over-the-top setting, the GM may wish to raise this to six levels, ten levels, or no limits at all!
 
 ---
-
 ## Clerical
 
 ### Clerical Empowerment
@@ -164,7 +158,10 @@ Clerical Talent adds to every roll made to cast a miracle or to use that miracle
 The GM must determine the maximum level of Talent in the campaign. For most games, four levels is a reasonable limit. In a cinematic or over-the-top setting, the GM may wish to raise this to six levels, ten levels, or no limits at all!
 
 ---
+## Caster
+To build a character with access to Spells but without the ability to "Improvise" simply buy spells as alternate abilities to each other. It is still important to establish the Source of these abilities as you and the GM will work to establish the Limitations of the spell selection as you would with Sorcerous Empowerment. When buying a Talent for your source price it with the guidance of Sorcerous Talent.
 
+---
 # Imbuement
 
 ## Imbue
