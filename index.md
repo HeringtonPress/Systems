@@ -2,8 +2,6 @@ All of the rules in use for our game. Functioning as a living growing resource t
 
 Just as all things GURPS Game masters are encouraged to rip and tear till this collection is perfect for the game.
 
-[Complete Document](/CompleteDocument.md)
-
 [Overview](/Overview.md)
 
 [Character Creation](/CharacterCreation.md)
@@ -22,3 +20,4 @@ Just as all things GURPS Game masters are encouraged to rip and tear till this c
 
 [Age and Aging](/AgeandAging.md)
 
+[Complete Document](/CompleteDocument.md)

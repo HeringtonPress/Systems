@@ -99,6 +99,22 @@ Reaction modifiers due to appearance only affect humans or beings that finds hum
 **Very Handsome** (or Very Beautiful): You could win beauty contests – regularly. This gives +6 on reaction rolls made by those attracted to members of your gender, +2 from others. Exception: Members of the same gender with reason to dislike you (more than -4 in reaction penalties, regardless of bonuses) resent your good looks, and react at -2 instead. As well, talent scouts, friendly drunks, slave traders, and other nuisances are liable to become a problem for you. 16 points.
 ##### Special Option
 **Androgynous**: If your appearance is Handsome (Beautiful) or better, you may specify that your looks appeal equally to all sexualities. You get a flat reaction modifier instead of a gender dependent bonus: +3 for Handsome, +4 for Very Handsome.
+
+### Age and Aging
+You can start at any age that falls within your Kin’s usual lifespan. However, unless you are Unaging, you will experience gradual decline once you age past a certain point.
+
+Beginning at age 50, make a series of “aging rolls” each year to see if old age is taking its toll. At age 70, roll every six months. At age 90, roll every three months!
+
+- Starting at or above one of these age thresholds is a disadvantage costing -2 for each threshold.
+
+Aging rolls are a series of four HT rolls – one for each of your four Basic Attributes, in the following order: ST, DX, IQ, then HT. You may not use any form of Luck on these rolls.
+> Modifiers: +2 if you are Very Fit, +1 if Fit, -1 if Unfit, or -2 if Very Unfit.
+
+On a failure, reduce the attribute in question by one level. A critical failure, or any roll of 17 or 18, causes the loss of two levels.
+
+When you lose an attribute level to age, reduce your point value accordingly. Reduce all secondary characteristics reflect the new level. If any Basic Attribute reaches 0 from aging, you die a “natural” death.
+
+With the GM's permission, you may lose advantages or gain disadvantages of equivalent point value instead of losing an attribute point. For example, your Appearance could decline, or you could gain Hard of Hearing.
 ### Language
 Assuming most characters can read and write their “native” language. This ability costs no points, but you should note your native language on your character sheet; e.g., “Common (Native) [0].” Less comprehension is a disadvantage worth negative points.
 #### Comprehension Levels
