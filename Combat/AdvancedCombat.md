@@ -1,3 +1,4 @@
+# Advanced Combat
 ## Extra effort
 Various actions can be modified by pushing yourself, physically and mentally, beyond your regular limits. Extra Effort must be declared before resolving any part of an action. E.g. you must declare extra effort melee before rolling to hit.
 
