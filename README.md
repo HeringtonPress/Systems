@@ -1,2 +1,0 @@
-# HeringtonPress.github.io
- 
