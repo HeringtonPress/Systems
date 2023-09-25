@@ -1,4 +1,4 @@
 # Systems
-## [GURPS](GURPSIndex.md)
+## [GURPS](Index.md)
 ## One Last Coin
 
