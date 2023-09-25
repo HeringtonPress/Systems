@@ -71,7 +71,7 @@ The chart below shows the cost of skills. To determine the cost, find the skill 
 
 While every character should have at least one weapon skill, you need more than just weapons to survive.
 
-For a full list of Skills check [here](/Skills.md).
+For a full list of Skills check [here](Skills.md).
 
 ## Traits
 Traits are details about your character and how they interact with the game world and system. Certain traits are required to establish the fundamentals of your character while even more can be taken to extrapolate. Below is a checklist of important traits you should take even just to clarify a default.
