@@ -2,7 +2,7 @@ All of the rules in use for our game. Functioning as a living growing resource t
 
 Just as all things GURPS Game masters are encouraged to rip and tear till this collection is perfect for the game.
 
-# [Overview](GURPS/Overview.md)
+# [Overview](Overview.md)
 
 # [Character Creation](CharacterCreation.md)
 
