@@ -2,21 +2,21 @@ All of the rules in use for our game. Functioning as a living growing resource t
 
 Just as all things GURPS Game masters are encouraged to rip and tear till this collection is perfect for the game.
 
-# [Overview](GURPS/Overview.md)
+# [Overview](Overview.md)
 
-# [Character Creation](GURPS/CharacterCreation.md)
+# [Character Creation](CharacterCreation.md)
 
-# [Skills](GURPS/Skills.md)
+# [Skills](Skills.md)
 
-# [Equipment](GURPS/Equipment.md)
+# [Equipment](Equipment.md)
 
-# [Combat](GURPS/Combat/Combat.md)
-### [Advanced Combat](GURPS/Combat/AdvancedCombat.md)
+# [Combat](Combat/Combat.md)
+### [Advanced Combat](Combat/AdvancedCombat.md)
 
-# [Magic And Miracles](GURPS/MagicandMiracles.md)
+# [Magic And Miracles](MagicandMiracles.md)
 
-# [Travel](GURPS/Travel.md)
+# [Travel](Travel.md)
 
-# [Guilds and Organisations](GURPS/GuildsandOrganisations.md)
+# [Guilds and Organisations](GuildsandOrganisations.md)
 
-# [Complete Document](GURPS/CompleteDocument.md)
+# [Complete Document](CompleteDocument.md)
