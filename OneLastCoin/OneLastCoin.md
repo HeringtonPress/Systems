@@ -14,6 +14,7 @@ Saves are often modified by a Challenge Rating (CR) or a negative number (i.e. -
 
 **Easy = 0 | Medium = 4 | Hard = 6 | “Impossible” = 8**
 ## INVENTORY SLOTS
+
 |                |            |                  |
 | -------------- | ---------- | ---------------- |
 | Can contain:   | 1 stress   | 1 medium weapon  |
@@ -30,6 +31,7 @@ Begin play with 90 Gold Pieces or inheritance. This is your wager. The House alw
 ## Stats
 You have 40 points that can be distributed between your four stats. No stat may begin higher then 14 or lower then 6.
 ## Kin
+
 | 2d6   | Kin       | Boon                                           | Bane                         |
 | ----- | --------- | ---------------------------------------------- | ---------------------------- |
 | 2     | Gnome     | Invisible while holding breath and eyes closed | Punch those who side eye you |
