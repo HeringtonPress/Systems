@@ -13,7 +13,7 @@ Make a Failed Save successful by subtracting the difference needed to succeed fr
 Saves are often modified by a Challenge Rating (CR) or a negative number (i.e. -4). Roll your Save as normal, subtracting the CR from the Stat being saved.
 
 **Easy = 0 | Medium = 4 | Hard = 6 | “Impossible” = 8**
-## INVENTORY SLOTS
+## Inventory Slots
 
 |                |            |                  |
 | -------------- | ---------- | ---------------- |
@@ -82,3 +82,57 @@ Stats can never be higher then 18 or lower then 6.
 
 Your class will determine your Prime Stat which you instead roll 4d6 and keep the highest 3 on when Testing.
 
+
+# Fighting
+## Rounds
+Each Round the Guide describes what it appears like the monsters are going to do. Save Cunning plus the highest HD amongst the enemies to act first.
+## On Your Turn
+You take two actions per round.
+
+Move to an adjacent zone, Strike, trip, get infront of an ally, fetch an item. You may only Strike once.
+
+Get creative.
+## Attacking
+Save the relevant Stat, dealing damage on a success.
+
+Brawn for melee, Cunning for ranged.
+
+Being attacked? Save Dexterity or take damage.
+## Zweihand
+When wielding 2 weapons or a weapon with 2 hands, roll a d4, adding the result to the Attack and Damage.
+## Armour
+Gives you a ‘pool’ of Armour Dice (AD) equal to the Armour Value (AV). Each AD is a d6.
+
+When taking damage, you gamble AD. Roll the AD you gambled, reducing the incoming damage by the result. ADs that roll a 5 or 6 are marked as Chipped.
+
+Chipped ADs are put aside and can’t be used. During a Long Rest, with a smithing kit you can try to fix them. Roll above the AV and the die is no-longer Chipped, else the die is Broken and needs to be repaired by a Smith.
+
+Shields and helmets add +1 each to the AD pool.
+## Zones
+When combat starts the Table will divide the location into at least 3 Zones. Each zone signifying a sort of Landmark in the area.
+## Death & Dying
+When taking damage beyond 0 HP, gain a Scar.
+## Scars
+Scars are horrifying and beautiful reminders of the dangerous life you live. When you gain a Scar make note of what it looks like and how you got it. Mark it as open and make a Deathroll.
+
+Closing Scars depends on the capabilities of the Guild.
+## Deathrolls
+Save 3d3 under open Scars dying on a failure. Overexerting subtracts from your Max HP which does not recover. Forgo the Deathroll to instead suffer a Major Scar or fall unconscious.
+## Major Scars
+Debilitating trauma that often serve a new challenge to overcome for the rest of your life. They cannot be closed. Often things such as missing limbs or lost senses, it is up to you and the Guide to figure out how it manifests.
+## Rest & Healing
+**SAFE REST**: A weeks rest in a safe location. Heal all HP, remove all stress, and roll Recovery. Dividing the Recovery result among the Stats that have been overexerted.
+
+**SHORT REST**: Consume a ration and rest an hour. Doing so recovers 2 HP, once a day.
+
+**LONG REST**: When camping out, roll Recovery to remove stress and heal 2 HP for every Boon you have. Reduce the amount of healing received by 2 for every Bane.
+
+**BOONS**
+- Bedroll   • Booze/Drugs
+- Shelter   • Fire
+- Freshly cooked meal
+
+**BANES**
+- Wet/Cold • Sick
+- Hungry    • Combat
+- Evil environment
