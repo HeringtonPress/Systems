@@ -16,7 +16,7 @@ Saves are often modified by a Challenge Rating (CR) or a negative number (i.e. -
 ## Inventory Slots
 
 | Can contain:   | 1 stress   | 1 medium weapon  |
-| Bundle of rope | Ud8 arrows | 1/2 heavy weapon |
+| Bundle of rope | Quiver of arrows | 1/2 heavy weapon |
 | 3 rations      | 1 treasure | 2 light weapons  |
 
 You have 2 additional QUICK-DRAW Slots.
