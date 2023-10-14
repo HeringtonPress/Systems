@@ -4,6 +4,7 @@
 - **Brawn** Break, lift and push, resist.
 - **Cunning** Spot, aim, wield magic, trick.
 - **Dexterity** Dodge, tumble and sneak, run.
+
 ## Saves
 Whenever the outcome of an action is uncertain, with success and failure both interesting. Roll equal to or under the relevant Stat to succeed. Roll over, and you fail.
 ## Overexert
@@ -67,14 +68,15 @@ You may spend a sum of Gold over 50 to train with an expert. You gain an additio
 
 | Level | EXP  | HP  | Recovery | Slots |
 | ----- | ---- | --- | -------- | ----- |
-| 1     | -    | -   | 1d3      |       |
-| 2     | 400  |     | 1d3      |       |
-| 3     | 800  |     | 1d3+1    |       |
-| 4     | 1200 |     | 1d3+1    |       |
-| 5+    | +500 |     | 1d3+2    |       |
+| 1     | -    | -   | 1d3      | 8     |
+| 2     | 400  |     | 1d3      | 8     |
+| 3     | 800  |     | 1d3+1    | 10    |
+| 4     | 1200 |     | 1d3+1    | 10    |
+| 5+    | +500 |     | 1d3+2    | 12    |
 ## Strengthen
 When you level up, Test your Stats for improvement. Roll 3d6 for each Stat. If the result of the roll is equal to or higher than your max, increase the Stat by 1. If the result of the roll is 5 or more below, reduce the Stat by 1.
 
 Stats can never be higher then 18 or lower then 6.
 
 Your class will determine your Prime Stat which you instead roll 4d6 and keep the highest 3 on when Testing.
+
