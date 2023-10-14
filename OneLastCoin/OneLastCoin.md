@@ -12,11 +12,13 @@ Make a Failed Save successful by subtracting the difference needed to succeed fr
 ## Challenge
 Saves are often modified by a Challenge Rating (CR) or a negative number (i.e. -4). Roll your Save as normal, subtracting the CR from the Stat being saved.
 
-**Easy = 0 | Medium = 4 | Hard = 6 | “Impossible” = 8**
+Easy = 0 | Medium = 4 | Hard = 6 | “Impossible” = 8
 ## Inventory Slots
 
+|                |            |                  |
+| -------------- | ---------- | ---------------- |
 | Can contain:   | 1 stress   | 1 medium weapon  |
-| Bundle of rope | Quiver of arrows | 1/2 heavy weapon |
+| Bundle of rope | 20 arrows  | 1/2 heavy weapon |
 | 3 rations      | 1 treasure | 2 light weapons  |
 
 You have 2 additional QUICK-DRAW Slots.
@@ -30,19 +32,21 @@ Begin play with 90 Gold Pieces or inheritance. This is your wager. The House alw
 You have 40 points that can be distributed between your four stats. No stat may begin higher then 14 or lower then 6.
 ## Kin
 
-| 2d6   | Kin       | Boon                                           | Bane                         |
-| 2     | Gnome     | Invisible while holding breath and eyes closed | Punch those who side eye you |
-| 3-4   | Halfling  | Re-roll a roll of 20, keep result              | Eat twice as much            |
-| 5-7   | Foulkn    | Detect undead as a chill                       | -4 vs mutations              |
-| 8-9   | Orc       | Roll 4d3 on a Deathroll                        | Hated by the Authority       |
-| 10-11 | Dwarrow   | Start with Wrote known                       | Sink like a stone            |
-| 12    | Beastfolk | -                                              | -                            |
+|  2d6  | Kin       | Boon                                           | Bane                         |
+|:-----:| --------- | ---------------------------------------------- | ---------------------------- |
+|   2   | Gnome     | Invisible while holding breath and eyes closed | Punch those who side eye you |
+|  3-4  | Halfling  | Re-roll a roll of 20, keep result              | Eat twice as much            |
+|  5-7  | Foulkn    | Detect undead as a chill                       | -4 vs mutations              |
+|  8-9  | Orc       | Roll 4d3 on a Deathroll                        | Hated by the Authority       |
+| 10-11 | Dwarrow   | Start with Wrote known                         | Sink like a stone            |
+|  12   | Beastfolk | -                                              | -                            |
 ## Alignment
 Every Character bar the rare exceptions begin play with a Neutral Alignment. Your alignment determines what you can do with your Miracles. Alignment with Law and Chaos comes at a cost. Members of the apposing Alignment see you no longer as a bystander but as a foot soldier of the enemy.
 ## Miracles
 You have a max amount of Miracles equal to your level. Regaining an amount equal to your recovery die after expending them all and resting. Miracles can be spent to do the following.
 
 | Lawful                          | Neutral                            | Chaotic                |
+| ------------------------------- | ---------------------------------- | ---------------------- |
 | Re-roll a save (Someon else's)  | Deal maximum damage with an attack | <--                    |
 | Lower damage dealt to you by d6 | <--                                | Re roll a save (Yours) |
 | Lower CR by 4                   | Lower CR by 2                      | Lower CR by d6         |
@@ -64,12 +68,13 @@ You gains a point of EXP for every Gold Piece you spend.
 ## Training
 You may spend a sum of Gold over 50 to train with an expert. You gain an additional 25% EXP of whatever you spend on Training.
 
-| Level | EXP  | HP  | Recovery | Slots |
-| 1     | -    | -   | 1d3      | 8     |
-| 2     | 400  |     | 1d3      | 8     |
-| 3     | 800  |     | 1d3+1    | 10    |
-| 4     | 1200 |     | 1d3+1    | 10    |
-| 5+    | +500 |     | 1d3+2    | 12    |
+| Level |  EXP  | HP (Max 20) | Templates | Recovery | Slots |
+|:-----:|:-----:|:-----------:|:---------:|:--------:|:-----:|
+|   1   |   -   |      -      |     1     |   1d3    |   8   |
+|   2   | 2000  |     +2      |     2     |   1d3    |   8   |
+|   3   | 4000  |     +2      |     3     |  1d3+1   |  10   |
+|   4   | 6000  |     +2      |     4     |  1d3+1   |  10   |
+|  5+   | +4000 |     +4      |           |  1d3+2   |  12   |
 ## Strengthen
 When you level up, Test your Stats for improvement. Roll 3d6 for each Stat. If the result of the roll is equal to or higher than your max, increase the Stat by 1. If the result of the roll is 5 or more below, reduce the Stat by 1.
 
@@ -115,35 +120,35 @@ Traveling in Winter will cause night to fall much earlier in the day. In summer 
 During the Fellnight, all watches of each day are night as the moon refuses to slumber till Mistfall.
 
 Any actions taken while the moon holds the sky have an increased likely hood for dangerous encounters as the moon allows the villainy of the underdark to climb free of their prisons.
-# DELVING
-## TURNS
+# Delving
+## Turns
 Crawls are tracked in 10 minute Turns. There is a 1-6 chance of an Omen each Turn. An Omen left ignored will quickly become an Encounter.
 
 In an especially dangerous location the chance of an omen may increase with each lucky roll.
-## MOVEMENT
+## Movement
 You can move from one room to another and explore the new room in 1 turn. Moving through 2 explored rooms in a turn assumes moving with caution.
 
 You could move through 6 rooms in a turn. Doing so, Omens become Encounters and Traps go unnoticed.
-## OTHER ACTIVITIES
+## Other Activities
 - Identifying magic takes a Turn.
 - Deciphering something/reading a book takes 3 Turns.
 - Combat and looting takes a Turn.
-## LIGHT
+## Light
 Light sources state how many people they provide for.
 
 Without enough light for everyone, Omens become Encounters and Traps go unnoticed.
-## MARCHING ORDER
+## Marching Order
 - **SCOUT**: You are exploring ahead of the group. Encounters and omens are found by you first. If encountered, you are allowed to make a check to hide.
 - **VAN**: You are in the front line and generally end up in melee. You are the first to interact with any hazards or details such as traps, characters, and treasures.
 - **MAIN**: You are the middle rank of the group and will find yourself behind the front row in combat.
 - **REAR**: in an encounter, you will often have to resort to ranged weapons, and sorceries.
-## DOORS
+## Doors
 Opening a stuck door is CR 4 by base, though this may increase if the door is heavy, large, and/or obstructed. Using a prybar reduces the CR by 4.
 
 Trying to force a stuck door open takes one turn.
 
 You may also choose to break it down. This takes some time and causes much more noise.
-## LOCKS
+## Locks
 Requires Thieves’ tools and selecting the correct actions in order. These actions are TWIST, TAP, and TURN. Always 3 never 2 in a row. Upon selecting the wrong action, the lock will become stiff. If the lock was already stiff, the lock is jammed and becomes unable to unlock.
 
 Each failed attempt takes 1 turn.
@@ -155,7 +160,7 @@ Some Modifiers that can diversify the locks are below:
 - WEATHERED: Ignore the first time a lock would jam.
 - SECURED: The first wrong action causes the lock to jam.
 - SPIKED: Wrong actions deals d4 damage to the picker.
-## STEALTH
+## Stealth
 Moving silently and unseen is a Dexterity Save with a CR equal to your total filled slots, excluding Quick Slots.
 
 When attempting to sneak as a group, one member of the group Saves. The CR is equal to the total filled Slots of the group, divided by half of the group, rounded up.
@@ -174,8 +179,8 @@ Save the relevant Stat, dealing damage on a success.
 Brawn for melee, Cunning for ranged.
 
 Being attacked? Save Dexterity or take damage.
-## Zweihand
-When wielding 2 weapons or a weapon with 2 hands, roll a d4, adding the result to the Attack and Damage.
+
+If you are dual wielding roll both damage dice and take the higher result.
 ## Armour
 Gives you a ‘pool’ of Armour Dice (AD) equal to the Armour Value (AV). Each AD is a d6.
 
@@ -212,3 +217,111 @@ Debilitating trauma that often serve a new challenge to overcome for the rest of
 - Wet/Cold • Sick
 - Hungry    • Combat
 - Evil environment
+
+# Equipment
+
+| Adventuring Gear | Cost (gp) |
+| ---------------- |:---------:|
+| Air Bladder      |     5     |
+| Bedroll          |     5     |
+| Bucket           |     5     |
+| Caltrops         |    10     |
+| Chain (10ft)     |    10     |
+| Chalk            |     1     |
+| Chisel           |     5     |
+| Crowbar          |    10     |
+| Drill            |    10     |
+| Fire Kit         |     2     |
+| Fishing Gear     |    10     |
+| Marbles          |     5     |
+| Glue             |     5     |
+| Grapple Hook     |    25     |
+| Grease           |    10     |
+| Hammer           |     2     |
+| Holy Symbol      |    25     |
+| Holy Water       |    25     |
+| Horn             |    10     |
+| Hourglass        |    50     |
+| Ladder (slt/5ft) |     5     |
+| Lens             |    10     |
+| Lockpicks        |    25     |
+| Manacles         |    10     |
+| Metal File       |     5     |
+| Mirror           |     5     |
+| Net              |    10     |
+| Oilskin Bag      |     5     |
+| Pulley           |    10     |
+| Pole (10ft)      |     2     |
+| Quill & Ink      |    10     |
+| Rope (40ft)      |     5     |
+| Saw              |     5     |
+| Sack             |     1     |
+| Soap             |     1     |
+| Spike (4)        |     1     |
+| Sponge           |     5     |
+| Spyglass         |    40     |
+| Tar              |    10     |
+| Tent (fits 2)    |    20     |
+
+| Light                              | GP  |
+| ---------------------------------- | --- |
+| Torches (3) (Light for 3) (1 Hour) | 1   |
+| Lantern (Light for 2)              | 10  |
+| Oil Flask Oil Flask (2 Hours)      | 2   |
+
+| Provisions      | GP     |
+| --------------- | ------ |
+| Rations (4)     | 8      |
+| Wine (2)        | 3      |
+| Pipe Weed (4)   | 12     |
+| Beast Feed (3)  | 3      |
+| **Cooking**     | **GP** |
+| Cheese (3)      | 20     |
+| Cook Pot        | 10     |
+| Dried Fruit (3) | 12     |
+| Lard            | 1      |
+| Seasoning (6)   | 10     |
+
+| Animals       | Tack | GP  |
+| ------------- |:----:|:---:|
+| Cattle/Donkey |  2   | 30  |
+| Chicken       |      |  2  |
+| Dog           |  1   | 20  |
+| Hawk          |      | 15  |
+| Hog/Sheep     |  1   | 10  |
+| Horse (Draft) |  3   | 50  |
+| Horse (War)   |  4   | 100 |
+
+| Accessories  |   Tack   |   GP   |
+| ------------ |:--------:|:------:|
+| Barding      |    1     |   40   |
+| Saddle       |    2     |   25   |
+| Bags         |    1     |   5    |
+| **Vehicles** | **Tack** | **GP** |
+| Cart (14)    |    3     |  100   |
+| Wagon (24)   |    6     |  200   |
+
+## Weapons and Armour
+
+| Melee   |  cost  |
+| ------- |:------:|
+| Light   |   5    |
+| Medium  |   10   |
+| Heavy   |   15   |
+
+| Ranged    | cost |
+| --------- |:----:|
+| Light     |  5   |
+| Medium    |  15  |
+| Heavy     |  25  |
+| Ammo (20) | 5     |
+- Using a light weapon reduces the damage by one step.
+- Using a heavy weapon increases the damage by one step.
+- Ranged Weapons require an additional slot for Ammo.
+
+| Armour      | Slots |   AV   | Cost |
+| ----------- |:-----:|:------:|:----:|
+| Leather     |   2   |   2    |  20  |
+| Chain       |   3   |   3    |  40  |
+| Plate       |   5   |   4    |  60  |
+| Shield/Helm |   1   | +1 die |  15  |
