@@ -23,7 +23,7 @@ Easy = 0 | Medium = 4 | Hard = 6 | “Impossible” = 8
 
 You have 2 additional QUICK-DRAW Slots.
 
-Spend an action trying to retrieve an item, that is not in a quick slot, to roll a d12. If the roll is equal to or higher then the slot you are retrieving you succeed.
+Spend an action to retrieve an item, that is not in a quick slot.
 
 # Character Creation
 ## Starting Wealth
@@ -50,10 +50,11 @@ You have a max amount of Miracles equal to your level. Regaining an amount equal
 | Re-roll a save (Someon else's)  | Deal maximum damage with an attack | <--                    |
 | Lower damage dealt to you by d6 | <--                                | Re roll a save (Yours) |
 | Lower CR by 4                   | Lower CR by 2                      | Lower CR by d6         |
-## Background
-Who were you before your career as an adventurer.
 
-Backgrounds are just a word that describes something a PC knows and can do without saves. Typically a failed profession or area of knowledge.
+## Background
+Who were you before your career as an adventurer. When making a save you may bargain with the Guide to subtract the value of one of your backgrounds from the CR.
+
+You start with 4 Background points that can be distributed as you like. A single Background can never be raised above 4.
 ## Tongues
 You know Common and one additional Language.
 - **COMMON**: Understood by all sentient creatures.
@@ -101,34 +102,15 @@ Easy = 0 | Neutral = 1 | Difficult = 2 | Treacherous = 3
 ## Mounts & Vehicles
 Mounts and Vehicles reduces stress from moving by 1.
 
-Mounts and other similar creatures have Tack. Tack is denoted as a sort of carrying capacity.
-
 Vehicles moving through Difficult or worse terrain have a 1-6 chance of breaking, which requires a Watch to fix.
-## Cooking
-Done as part of a Long rest or any reasonable Watch. Requiring at least 2 unique ingredients and creating a serving for each ingredient used.
 
-Monster parts and other Arcane ingredients typically grant magical effects.
-
-1-6 chance of success with +1 for each of the following.
-
-• Fire • Water • Cookware • Seasoning
-## Moonlight
-You will have to take into account the effects that time will have on your journey in order to be successful.
-
-Traveling in Winter will cause night to fall much earlier in the day. In summer only the last two watches of a day are night, while in winter the last four are.
-
-During the Fellnight, all watches of each day are night as the moon refuses to slumber till Mistfall.
-
-Any actions taken while the moon holds the sky have an increased likely hood for dangerous encounters as the moon allows the villainy of the underdark to climb free of their prisons.
 # Delving
 ## Turns
 Crawls are tracked in 10 minute Turns. There is a 1-6 chance of an Omen each Turn. An Omen left ignored will quickly become an Encounter.
 
 In an especially dangerous location the chance of an omen may increase with each lucky roll.
 ## Movement
-You can move from one room to another and explore the new room in 1 turn. Moving through 2 explored rooms in a turn assumes moving with caution.
-
-You could move through 6 rooms in a turn. Doing so, Omens become Encounters and Traps go unnoticed.
+You can move from one room to another and explore the new room in 1 turn. Moving through 2 explored rooms in a turn assumes moving with caution. You could move through 6 rooms in a turn. Doing so, Omens become Encounters and Traps go unnoticed.
 ## Other Activities
 - Identifying magic takes a Turn.
 - Deciphering something/reading a book takes 3 Turns.
@@ -137,11 +119,6 @@ You could move through 6 rooms in a turn. Doing so, Omens become Encounters and 
 Light sources state how many people they provide for.
 
 Without enough light for everyone, Omens become Encounters and Traps go unnoticed.
-## Marching Order
-- **SCOUT**: You are exploring ahead of the group. Encounters and omens are found by you first. If encountered, you are allowed to make a check to hide.
-- **VAN**: You are in the front line and generally end up in melee. You are the first to interact with any hazards or details such as traps, characters, and treasures.
-- **MAIN**: You are the middle rank of the group and will find yourself behind the front row in combat.
-- **REAR**: in an encounter, you will often have to resort to ranged weapons, and sorceries.
 ## Doors
 Opening a stuck door is CR 4 by base, though this may increase if the door is heavy, large, and/or obstructed. Using a prybar reduces the CR by 4.
 
@@ -170,7 +147,7 @@ Each Round the Guide describes what it appears like the monsters are going to do
 ## On Your Turn
 You take two actions per round.
 
-Move to an adjacent zone, Strike, trip, get infront of an ally, fetch an item. You may only Strike once.
+Move to an adjacent zone, Strike, trip, get infront of an ally, fetch an item, or raise a shield. You may only Strike once.
 
 Get creative.
 ## Attacking
@@ -178,17 +155,12 @@ Save the relevant Stat, dealing damage on a success.
 
 Brawn for melee, Cunning for ranged.
 
-Being attacked? Save Dexterity or take damage.
+Being attacked? Save Defense or take damage.
 
 If you are dual wielding roll both damage dice and take the higher result.
-## Armour
-Gives you a ‘pool’ of Armour Dice (AD) equal to the Armour Value (AV). Each AD is a d6.
 
-When taking damage, you gamble AD. Roll the AD you gambled, reducing the incoming damage by the result. ADs that roll a 5 or 6 are marked as Chipped.
-
-Chipped ADs are put aside and can’t be used. During a Long Rest, with a smithing kit you can try to fix them. Roll above the AV and the die is no-longer Chipped, else the die is Broken and needs to be repaired by a Smith.
-
-Shields and helmets add +1 each to the AD pool.
+## Sunder Shields
+Raised shields reduce damage by their roll but splinter on a max roll.
 ## Zones
 When combat starts the Table will divide the location into at least 3 Zones. Each zone signifying a sort of Landmark in the area.
 ## Death & Dying
@@ -217,6 +189,15 @@ Debilitating trauma that often serve a new challenge to overcome for the rest of
 - Wet/Cold • Sick
 - Hungry    • Combat
 - Evil environment
+
+## Cooking
+Done as part of a Long rest or any reasonable Watch. Requiring at least 2 unique ingredients and creating a serving for each ingredient used.
+
+Monster parts and other Arcane ingredients typically grant magical effects.
+
+1-6 chance of success with +1 for each of the following.
+
+• Fire • Water • Cookware • Seasoning
 
 # Equipment
 
@@ -319,9 +300,12 @@ Debilitating trauma that often serve a new challenge to overcome for the rest of
 - Using a heavy weapon increases the damage by one step.
 - Ranged Weapons require an additional slot for Ammo.
 
-| Armour      | Slots |   AV   | Cost |
-| ----------- |:-----:|:------:|:----:|
-| Leather     |   2   |   2    |  20  |
-| Chain       |   3   |   3    |  40  |
-| Plate       |   5   |   4    |  60  |
-| Shield/Helm |   1   | +1 die |  15  |
+| Armour  | Defense Bonus | Cost |
+| ------- |:-------------:|:----:|
+| None    |      10       |  0   |
+| Light   |      +2       |  20  |
+| Medium  |      +4       |  40  |
+| Heavy   |      +6       |  60  |
+| Buckler |      d4       |  4   |
+| Shield  |      d6       |  10  |
+| Tower   |      d8       | 18     |
