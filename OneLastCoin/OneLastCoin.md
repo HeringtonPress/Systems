@@ -15,8 +15,6 @@ Saves are often modified by a Challenge Rating (CR) or a negative number (i.e. -
 **Easy = 0 | Medium = 4 | Hard = 6 | “Impossible” = 8**
 ## Inventory Slots
 
-|                |            |                  |
-| -------------- | ---------- | ---------------- |
 | Can contain:   | 1 stress   | 1 medium weapon  |
 | Bundle of rope | Ud8 arrows | 1/2 heavy weapon |
 | 3 rations      | 1 treasure | 2 light weapons  |
@@ -33,7 +31,6 @@ You have 40 points that can be distributed between your four stats. No stat may 
 ## Kin
 
 | 2d6   | Kin       | Boon                                           | Bane                         |
-| ----- | --------- | ---------------------------------------------- | ---------------------------- |
 | 2     | Gnome     | Invisible while holding breath and eyes closed | Punch those who side eye you |
 | 3-4   | Halfling  | Re-roll a roll of 20, keep result              | Eat twice as much            |
 | 5-7   | Foulkn    | Detect undead as a chill                       | -4 vs mutations              |
@@ -46,7 +43,6 @@ Every Character bar the rare exceptions begin play with a Neutral Alignment. You
 You have a max amount of Miracles equal to your level. Regaining an amount equal to your recovery die after expending them all and resting. Miracles can be spent to do the following.
 
 | Lawful                          | Neutral                            | Chaotic                |
-| ------------------------------- | ---------------------------------- | ---------------------- |
 | Re-roll a save (Someon else's)  | Deal maximum damage with an attack | <--                    |
 | Lower damage dealt to you by d6 | <--                                | Re roll a save (Yours) |
 | Lower CR by 4                   | Lower CR by 2                      | Lower CR by d6         |
@@ -69,7 +65,6 @@ You gains a point of EXP for every Gold Piece you spend.
 You may spend a sum of Gold over 50 to train with an expert. You gain an additional 25% EXP of whatever you spend on Training.
 
 | Level | EXP  | HP  | Recovery | Slots |
-| ----- | ---- | --- | -------- | ----- |
 | 1     | -    | -   | 1d3      | 8     |
 | 2     | 400  |     | 1d3      | 8     |
 | 3     | 800  |     | 1d3+1    | 10    |
@@ -89,7 +84,7 @@ Days spent Traveling are split into 6 Watches. Your Guide rolls an Omen each Wat
 ## Actions
 **MOVE** a hex and see all non-hidden features in it. Receiving stress based on the difficulty of the terrain.
 
-**Easy = 0 | Neutral = 1 | Difficult = 2 | Treacherous = 3**
+Easy = 0 | Neutral = 1 | Difficult = 2 | Treacherous = 3
 
 **SEARCH** a hex. 2-6 chance for each hidden feature of the Hex. 4-6 with direction.
 
@@ -107,7 +102,7 @@ Vehicles moving through Difficult or worse terrain have a 1-6 chance of breaking
 ## Cooking
 Done as part of a Long rest or any reasonable Watch. Requiring at least 2 unique ingredients and creating a serving for each ingredient used.
 
-Monster parts and other Arcane ingredients typically grant magical effects, though these can be just as dangerous as they are rewarding.
+Monster parts and other Arcane ingredients typically grant magical effects.
 
 1-6 chance of success with +1 for each of the following.
 
@@ -120,10 +115,50 @@ Traveling in Winter will cause night to fall much earlier in the day. In summer 
 During the Fellnight, all watches of each day are night as the moon refuses to slumber till Mistfall.
 
 Any actions taken while the moon holds the sky have an increased likely hood for dangerous encounters as the moon allows the villainy of the underdark to climb free of their prisons.
-## Navigation
-One member of the party is designated as Pathfinder. When Moving hexes, without road or river to follow, the Pathfinder will save Cunning with a CR based upon terrain, weather, and time.
+# DELVING
+## TURNS
+Crawls are tracked in 10 minute Turns. There is a 1-6 chance of an Omen each Turn. An Omen left ignored will quickly become an Encounter.
 
-On a failed Save the party will move to a random Hex determined by the Guide. Spend a watch backtracking.
+In an especially dangerous location the chance of an omen may increase with each lucky roll.
+## MOVEMENT
+You can move from one room to another and explore the new room in 1 turn. Moving through 2 explored rooms in a turn assumes moving with caution.
+
+You could move through 6 rooms in a turn. Doing so, Omens become Encounters and Traps go unnoticed.
+## OTHER ACTIVITIES
+- Identifying magic takes a Turn.
+- Deciphering something/reading a book takes 3 Turns.
+- Combat and looting takes a Turn.
+## LIGHT
+Light sources state how many people they provide for.
+
+Without enough light for everyone, Omens become Encounters and Traps go unnoticed.
+## MARCHING ORDER
+- **SCOUT**: You are exploring ahead of the group. Encounters and omens are found by you first. If encountered, you are allowed to make a check to hide.
+- **VAN**: You are in the front line and generally end up in melee. You are the first to interact with any hazards or details such as traps, characters, and treasures.
+- **MAIN**: You are the middle rank of the group and will find yourself behind the front row in combat.
+- **REAR**: in an encounter, you will often have to resort to ranged weapons, and sorceries.
+## DOORS
+Opening a stuck door is CR 4 by base, though this may increase if the door is heavy, large, and/or obstructed. Using a prybar reduces the CR by 4.
+
+Trying to force a stuck door open takes one turn.
+
+You may also choose to break it down. This takes some time and causes much more noise.
+## LOCKS
+Requires Thieves’ tools and selecting the correct actions in order. These actions are TWIST, TAP, and TURN. Always 3 never 2 in a row. Upon selecting the wrong action, the lock will become stiff. If the lock was already stiff, the lock is jammed and becomes unable to unlock.
+
+Each failed attempt takes 1 turn.
+
+Locks of the same type are all opened the same way.
+
+Some Modifiers that can diversify the locks are below:
+- CRACKED: On the first action, any action taken is correct.
+- WEATHERED: Ignore the first time a lock would jam.
+- SECURED: The first wrong action causes the lock to jam.
+- SPIKED: Wrong actions deals d4 damage to the picker.
+## STEALTH
+Moving silently and unseen is a Dexterity Save with a CR equal to your total filled slots, excluding Quick Slots.
+
+When attempting to sneak as a group, one member of the group Saves. The CR is equal to the total filled Slots of the group, divided by half of the group, rounded up.
 # Fighting
 ## Rounds
 Each Round the Guide describes what it appears like the monsters are going to do. Save Cunning plus the highest HD amongst the enemies to act first.
