@@ -83,6 +83,47 @@ Stats can never be higher then 18 or lower then 6.
 Your class will determine your Prime Stat which you instead roll 4d6 and keep the highest 3 on when Testing.
 
 
+# Exploring
+## Watches
+Days spent Traveling are split into 6 Watches. Your Guide rolls an Omen each Watch and an Omen rolled twice in a journey becomes an Encounter.
+## Actions
+**MOVE** a hex and see all non-hidden features in it. Receiving stress based on the difficulty of the terrain.
+
+**Easy = 0 | Neutral = 1 | Difficult = 2 | Treacherous = 3**
+
+**SEARCH** a hex. 2-6 chance for each hidden feature of the Hex. 4-6 with direction.
+
+**CONFRONT** an Omen or roll a new encounter.
+
+**MAKE CAMP**. Watches taken in camps don’t roll Omens.
+
+**SLEEP** for 2 watches. Counts as a Long rest. Going a day without sleep gets you one fewer watch next day.
+## Mounts & Vehicles
+Mounts and Vehicles reduces stress from moving by 1.
+
+Mounts and other similar creatures have Tack. Tack is denoted as a sort of carrying capacity.
+
+Vehicles moving through Difficult or worse terrain have a 1-6 chance of breaking, which requires a Watch to fix.
+## Cooking
+Done as part of a Long rest or any reasonable Watch. Requiring at least 2 unique ingredients and creating a serving for each ingredient used.
+
+Monster parts and other Arcane ingredients typically grant magical effects, though these can be just as dangerous as they are rewarding.
+
+1-6 chance of success with +1 for each of the following.
+
+• Fire • Water • Cookware • Seasoning
+## Moonlight
+You will have to take into account the effects that time will have on your journey in order to be successful.
+
+Traveling in Winter will cause night to fall much earlier in the day. In summer only the last two watches of a day are night, while in winter the last four are.
+
+During the Fellnight, all watches of each day are night as the moon refuses to slumber till Mistfall.
+
+Any actions taken while the moon holds the sky have an increased likely hood for dangerous encounters as the moon allows the villainy of the underdark to climb free of their prisons.
+## Navigation
+One member of the party is designated as Pathfinder. When Moving hexes, without road or river to follow, the Pathfinder will save Cunning with a CR based upon terrain, weather, and time.
+
+On a failed Save the party will move to a random Hex determined by the Guide. Spend a watch backtracking.
 # Fighting
 ## Rounds
 Each Round the Guide describes what it appears like the monsters are going to do. Save Cunning plus the highest HD amongst the enemies to act first.
