@@ -77,6 +77,7 @@ You may spend a sum of Gold over 50 to train with an expert. You gain an additio
 |   3   | 4000  |     +2      |     3     |  1d3+1   |  10   |
 |   4   | 6000  |     +2      |     4     |  1d3+1   |  10   |
 |  5+   | +4000 |     +4      |           |  1d3+2   |  12   |
+
 ## Strengthen
 When you level up, Test your Stats for improvement. Roll 3d6 for each Stat. If the result of the roll is equal to or higher than your max, increase the Stat by 1. If the result of the roll is 5 or more below, reduce the Stat by 1.
 
@@ -297,6 +298,7 @@ Monster parts and other Arcane ingredients typically grant magical effects.
 | Medium    |  15  |
 | Heavy     |  25  |
 | Ammo (20) | 5     |
+
 - Using a light weapon reduces the damage by one step.
 - Using a heavy weapon increases the damage by one step.
 - Ranged Weapons require an additional slot for Ammo.
