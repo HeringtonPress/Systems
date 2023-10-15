@@ -15,8 +15,6 @@ Saves are often modified by a Challenge Rating (CR) or a negative number (i.e. -
 Easy = 0 | Medium = 4 | Hard = 6 | “Impossible” = 8
 ## Inventory Slots
 
-|                |            |                  |
-| -------------- | ---------- | ---------------- |
 | Can contain:   | 1 stress   | 1 medium weapon  |
 | Bundle of rope | 20 arrows  | 1/2 heavy weapon |
 | 3 rations      | 1 treasure | 2 light weapons  |
