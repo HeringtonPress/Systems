@@ -250,18 +250,20 @@ Monster parts and other Arcane ingredients typically grant magical effects.
 | Lantern (Light for 2)              | 10  |
 | Oil Flask Oil Flask (2 Hours)      | 2   |
 
-| Provisions      | GP     |
-| --------------- | ------ |
-| Rations (4)     | 8      |
-| Wine (2)        | 3      |
-| Pipe Weed (4)   | 12     |
-| Beast Feed (3)  | 3      |
-| **Cooking**     | **GP** |
-| Cheese (3)      | 20     |
-| Cook Pot        | 10     |
-| Dried Fruit (3) | 12     |
-| Lard            | 1      |
-| Seasoning (6)   | 10     |
+| Provisions      | GP  |
+| --------------- | --- |
+| Rations (4)     | 8   |
+| Wine (2)        | 3   |
+| Pipe Weed (4)   | 12  |
+| Beast Feed (3)  | 3   |
+
+| Cooking         | GP  |
+| --------------- | --- |
+| Cheese (3)      | 20  |
+| Cook Pot        | 10  |
+| Dried Fruit (3) | 12  |
+| Lard            | 1   |
+| Seasoning (6)   | 10  |
 
 | Animals       | Tack | GP  |
 | ------------- |:----:|:---:|
@@ -284,18 +286,18 @@ Monster parts and other Arcane ingredients typically grant magical effects.
 
 ## Weapons and Armour
 
-| Melee   |  cost  |
-| ------- |:------:|
-| Light   |   5    |
-| Medium  |   10   |
-| Heavy   |   15   |
+| Melee  | Damage | cost |
+| ------ |:------:|:----:|
+| Light  |   d6   |  5   |
+| Medium |   d8   |  10  |
+| Heavy  |  d12   |  15  |
 
-| Ranged    | cost |
-| --------- |:----:|
-| Light     |  5   |
-| Medium    |  15  |
-| Heavy     |  25  |
-| Ammo (20) | 5     |
+| Ranged    | Damage | cost |
+| --------- |:------:|:----:|
+| Light     |   d4   |  5   |
+| Medium    |   d6   |  15  |
+| Heavy     |  d10   |  25  |
+| Ammo (20) |        |  5   |
 
 - Using a light weapon reduces the damage by one step.
 - Using a heavy weapon increases the damage by one step.
