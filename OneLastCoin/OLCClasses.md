@@ -57,6 +57,32 @@ D: Double Attack
 
 **Double attack**: You can attack twice in one action.
 
+## Ranger
+
+You have wilderness expertise and some fighting skill.
+
+Starting Equipment:
+A: Silent Walk, Practiced Eye  
+B: Shelter, Tracking  
+C: Forager, Animal Whisperer  
+D: Silent Walk+, Opportunist
+
+**Silent Walk**: You can move silently when outdoors in a natural environment, except when moving over/through really loud surfaces like gravel.
+
+**Practiced Eye**: If you miss with an attack, your next attack against that target has advantage.
+
+**Shelter**: You can always quickly (1d6 x 10 minutes) find or make shelter in the wilderness.
+
+**Tracking**: When you confront an Omen you always find them in a favourable situation.
+
+**Forager**: You have a +2 bonus on rolls relating to foraging.
+
+**Animal Whisperer**: Non-sapient wild animals have a more trusting view of you, as long as you do nothing to counter this view. You can easily infer what they want and what they don’t want.
+
+**Silent Walk+**: You can move silently even on loud surfaces when outdoors in a natural environment.
+
+**Opportunist**: 
+
 # Wizards
 
 # Specialists
