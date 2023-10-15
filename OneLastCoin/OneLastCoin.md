@@ -40,6 +40,7 @@ You have 40 points that can be distributed between your four stats. No stat may 
 |  8-9  | Orc       | Roll 4d3 on a Deathroll                        | Hated by the Authority       |
 | 10-11 | Dwarrow   | Start with Wrote known                         | Sink like a stone            |
 |  12   | Beastfolk | -                                              | -                            |
+
 ## Alignment
 Every Character bar the rare exceptions begin play with a Neutral Alignment. Your alignment determines what you can do with your Miracles. Alignment with Law and Chaos comes at a cost. Members of the apposing Alignment see you no longer as a bystander but as a foot soldier of the enemy.
 ## Miracles
@@ -308,4 +309,4 @@ Monster parts and other Arcane ingredients typically grant magical effects.
 | Heavy   |      +6       |  60  |
 | Buckler |      d4       |  4   |
 | Shield  |      d6       |  10  |
-| Tower   |      d8       | 18     |
+| Tower   |      d8       |  18  |
