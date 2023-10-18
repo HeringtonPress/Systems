@@ -176,11 +176,15 @@ Following our example above, let's zoom in on each member of the party and see h
 	    - Marcille rolls an 8 for her Vitamins. Since this is lower than her current Cunning score she gains no checks.
 
 ## Experience
-You gain experience through indulging in the spoils of your questing.
+You gain experience through indulging in the spoils of your quests and exploration. Gain 1XP for every Gold Piece (GP) spent.
 
-Gain 1XP for every Gold Piece (GP) spent. You may spend XP in the following ways.
-- Spend 2000 XP to gain an additional Class Template. Up to a Max of 4.
-- Spend 2000 XP to gain an additional Slot. May only take this advancement 4 times.
+| Level |  EXP  | Templates | Slots |
+|:-----:|:-----:|:---------:|:-----:|
+|   1   |   -   |     1     |   8   |
+|   2   | 2000  |     2     |   8   |
+|   3   | 4000  |     3     |  10   |
+|   4   | 6000  |     4     |  10   |
+|  5+   | +4000 |           |  12   |
 
 ## Exploring
 ### Watches
@@ -338,7 +342,7 @@ When combat starts the Table will divide the location into at least 3 Zones. Eac
 | Beast Feed (3)  |  X  |  X  |  X  |  X  |  3  |
 | Cheese (3)      |  2  | 0.5 | 0.5 |  1  | 20  |
 | Dried Fruit (3) | 0.4 |  1  |  1  |  0  | 12  |
-| Lard            |  2  |  0  | 0.2 | 0.4 |  1  |
+| Lard            | 0.5 | 0.4 | 0.4 | 0.4 |  1  |
 
 | Cooking       | GP  |
 | ------------- |:---:|
