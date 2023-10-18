@@ -31,6 +31,10 @@ Easy = 0 | Medium = 4 | Hard = 6 | “Impossible” = 8
 | 10-11 | Dwarrow   | Start with Wrote known                         | Sink like a stone            |
 |  12   | Beastfolk | -                                              | -                            |
 
+## Class
+[Classes](OneLastCoin/OLCClasses.md) are broken up into Templates which are denoted as A, B, C, and D. You begin play with the A template of a Class and as you progress you can unlock more. When you buy additional templates with Experience you may take the next alphabetical template in a class you have or take A in a new class that makes sense for your character. A character may never have more the 4 templates, though you could swap two templates at the cost of buying a new one.
+
+You gain access to all the parts of a class when you have that letter template. For example. Laius is a level 1 Slayer, meaning he get both Critical Hits and Attack Surge. 
 ## Background
 Who were you before your career as an adventurer. When making a save you may bargain with the Guide to add the Background value to a Stat you are Saving, maintaining the Max of 18.
 
