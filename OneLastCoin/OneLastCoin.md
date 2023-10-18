@@ -78,7 +78,7 @@ To create a feast, you require:
 - **Two unique ingredients**
 - **One portion per character**
 
-In addition, you must fulfill **two** of the following five criteria:
+In addition, you must fulfill **two** of the following four criteria:
 - Fire
 - Water
 - Cooking gear
@@ -94,7 +94,7 @@ The GM should add together any nutritional benefits from the two ingredients use
 
 The GM does not need to elaborate about which ingredient provided which benefit.
 
-**Example:** After a battle with a basilisk, the party cooks an omelette out of the basilisk's eggs, basilisk bacon, and sliced shambling mound. They cook the omelette in Senshi's wok (cooking gear), flavor it with salt, pepper, and ketchup (spices), over a fire. This fulfills 3 out of 5 of the cooking requirements.
+**Example:** After a battle with a basilisk, the party cooks an omelette out of the basilisk's eggs, basilisk bacon, and sliced shambling mound. They cook the omelette in Senshi's wok (cooking gear), flavor it with salt, pepper, and ketchup (spices), over a fire. This fulfills 3 out of 4 of the cooking requirements.
 ### Leveling Up - Eat Your Way to Glory 
 Characters grow and become stronger if they eat well-balanced, healthful, and magical meals. 
 
