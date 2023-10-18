@@ -1,4 +1,33 @@
 # Fighters
+## Slayer
+You are a dedicated warrior, focusing on the killing of your enemies to the exclusion of the development of wider abilities.
+
+**Starting Equipment**: Any weapon of your choice, Light Armour, and either a shield or second weapon.
+A: Critical Hits, Attack Surge  
+B: Called Attack, Named Weapon  
+C: Feud, Focus+
+D: Double Attack
+
+**Critical Hits**: When rolling to hit a natural 1 results in you Impairing the target or dealing damage as though you where bolstered.
+
+**Attack Surge**: When you defeat an enemy, or crit, you may make an additional attack. This can trigger a number of times equal to your slayer templates in a turn.
+
+**Called attack**: You can choose a particular spot on your target to strike at when attacking. You get a -2 modifier (-4 if it is the head) to your attack roll but if you hit the attack will inflict an additional debilitating effect appropriate for the location.
+
+**Named Weapon**: Name your weapon, when you kill a new type of enemy with it you can increase its damage or attack bonus by 1 up to a maximum of +3 each.
+
+**Feud**: You gain advantage when attacking individuals you have previously fought against in deadly combat.
+
+**Brutal Critical**: You now crit on a result of 1 and 20. A crit now always deals +2 damage.
+
+**Double attack**: You can attack twice in one action.
+
+
+# Wizards
+
+# Specialists
+
+# Workshop
 ## Fighter
 Starting Equipment: leather armor, sword, bow, 20 arrows
 A: Parry, +1 attack per round
@@ -32,36 +61,10 @@ Whenever you win a fight against challenging foes, people who don't like you mak
 D: Cleave
 Whenever you reduce a creature to 0 HP with an attack, you can make another attack with the same weapon against a target within 5’. You can only cleave an number of targets equal to your Level in a single round.
 
-
-
-## Slayer
-You are a dedicated warrior, focusing on the killing of your enemies to the exclusion of the development of wider abilities.
-
-**Starting Equipment**:
-A: Critical Hits, Attack Surge  
-B: Called Attack, Named Weapon  
-C: Feud, Focus+
-D: Double Attack
-
-**Critical Hits**: When rolling to hit a natural 1 results in you applying a negative status to the target or deal +4 damage.
-
-**Attack Surge**: When you defeat an enemy, or crit, you may make an additional attack.
-
-**Called attack**: You can choose a particular spot on your target to strike at when attacking. You get a -2 modifier (-4 if it is the head) to your attack roll but if you hit the attack will inflict an additional debilitating effect appropriate for the location.
-
-**Named Weapon**: Name your weapon, when you kill a new type of enemy with it you can increase its damage or attack bonus by 1 up to a maximum of +3 each.
-
-**Feud**: You gain advantage when attacking individuals you have previously fought against in deadly combat.
-
-**Brutal Critical**: You now crit on a result of 1 and 20. A crit now always deals +2 damage.
-
-**Double attack**: You can attack twice in one action.
-
 ## Ranger
-
 You have wilderness expertise and some fighting skill.
 
-Starting Equipment:
+**Starting Equipment**: A bow with ammo, 2 Hand Weapons or a Hefty Weapon.
 A: Silent Walk, Practiced Eye  
 B: Shelter, Tracking  
 C: Forager, Animal Whisperer  
@@ -82,7 +85,3 @@ D: Silent Walk+, Opportunist
 **Silent Walk+**: You can move silently even on loud surfaces when outdoors in a natural environment.
 
 **Opportunist**: 
-
-# Wizards
-
-# Specialists
