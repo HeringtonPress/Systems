@@ -2,11 +2,11 @@
 ## Slayer
 You are a dedicated warrior, focusing on the killing of your enemies to the exclusion of the development of wider abilities.
 
-**Starting Equipment**: Any weapon of your choice, Light Armour, and either a shield or second weapon.
-A: Critical Hits, Attack Surge  
-B: Called Attack, Named Weapon  
-C: Feud, Focus+
-D: Double Attack
+- **Starting Equipment**: Any weapon of your choice, Light Armour, and either a shield or second weapon.
+- A: Critical Hits, Attack Surge  
+- B: Called Attack, Named Weapon  
+- C: Feud, Focus+
+- D: Double Attack
 
 **Critical Hits**: When rolling to hit a natural 1 results in you Impairing the target or dealing damage as though you where bolstered.
 
@@ -64,11 +64,11 @@ Whenever you reduce a creature to 0 HP with an attack, you can make another atta
 ## Ranger
 You have wilderness expertise and some fighting skill.
 
-**Starting Equipment**: A bow with ammo, 2 Hand Weapons or a Hefty Weapon.
-A: Silent Walk, Practiced Eye  
-B: Shelter, Tracking  
-C: Forager, Animal Whisperer  
-D: Silent Walk+, Opportunist
+- **Starting Equipment**: A bow with ammo, 2 Hand Weapons or a Hefty Weapon.
+- A: Silent Walk, Practiced Eye  
+- B: Shelter, Tracking  
+- C: Forager, Animal Whisperer  
+- D: Silent Walk+, Opportunist
 
 **Silent Walk**: You can move silently when outdoors in a natural environment, except when moving over/through really loud surfaces like gravel.
 
