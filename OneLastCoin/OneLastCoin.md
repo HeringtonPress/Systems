@@ -269,7 +269,134 @@ Brawn for melee, Cunning for ranged.
 Being attacked? Save Defense or take damage.
 
 If you are dual wielding roll both damage dice and take the higher result.
+### Impaired vs Bolstered
+Attacks may become Impaired by circumstances within the fiction. I.e. fighting with a polearm in a narrow tunnel, using a knife against an acidic ooze, firing a bow into melee, swinging your sword while laying prone. Similarly some attacks may have reason to be more effective then they regularly are.
+
+When making an attack while impaired your damage die becomes a d4. While Bolstered add a d6 to the damage roll.
 ### Sunder Shields
 Raised shields reduce damage by their roll but splinter on a max roll.
 ### Zones
 When combat starts the Table will divide the location into at least 3 Zones. Each zone signifying a sort of Landmark in the area.
+## Equipment
+
+| Adventuring Gear | Cost (gp) |
+| ---------------- |:---------:|
+| Air Bladder      |     5     |
+| Bedroll          |     5     |
+| Bucket           |     5     |
+| Caltrops         |    10     |
+| Chain (10ft)     |    10     |
+| Chalk            |     1     |
+| Chisel           |     5     |
+| Crowbar          |    10     |
+| Drill            |    10     |
+| Fire Kit         |     2     |
+| Fishing Gear     |    10     |
+| Marbles          |     5     |
+| Glue             |     5     |
+| Grapple Hook     |    25     |
+| Grease           |    10     |
+| Hammer           |     2     |
+| Holy Symbol      |    25     |
+| Holy Water       |    25     |
+| Horn             |    10     |
+| Hourglass        |    50     |
+| Ladder (slt/5ft) |     5     |
+| Lens             |    10     |
+| Lockpicks        |    25     |
+| Manacles         |    10     |
+| Metal File       |     5     |
+| Mirror           |     5     |
+| Net              |    10     |
+| Oilskin Bag      |     5     |
+| Pulley           |    10     |
+| Pole (10ft)      |     2     |
+| Quill & Ink      |    10     |
+| Rope (40ft)      |     5     |
+| Saw              |     5     |
+| Sack             |     1     |
+| Soap             |     1     |
+| Spike (4)        |     1     |
+| Sponge           |     5     |
+| Spyglass         |    40     |
+| Tar              |    10     |
+| Tent (fits 2)    |    20     |
+
+| Light                      | GP  |
+| -------------------------- |:---:|
+| Torch (Light for 3) (UD12) |  1  |
+| Lantern (Light for 2)      | 10  |
+| Oil Flask Oil Flask (UD12) |  2  |
+
+| Provisions      |  E  |  M  |  V  |  P  | GP  |
+| --------------- |:---:|:---:|:---:|:---:|:---:|
+| Rations (4)     |  X  |  X  |  X  |  X  |  8  |
+| Beast Feed (3)  |  X  |  X  |  X  |  X  |  3  |
+| Cheese (3)      |  2  | 0.5 | 0.5 |  1  | 20  |
+| Dried Fruit (3) | 0.4 |  1  |  1  |  0  | 12  |
+| Lard            |  2  |  0  | 0.2 | 0.4 |  1  |
+
+| Cooking       | GP  |
+| ------------- |:---:|
+| Cook Pot      | 10  |
+| Fire Kit      |  2  |
+| Seasoning (6) | 10  |
+
+| Animals       | Tack | GP  |
+| ------------- |:----:|:---:|
+| Cattle/Donkey |  2   | 30  |
+| Chicken       |      |  2  |
+| Dog           |  1   | 20  |
+| Hawk          |      | 15  |
+| Hog/Sheep     |  1   | 10  |
+| Horse (Draft) |  3   | 50  |
+| Horse (War)   |  4   | 100 |
+
+| Accessories  |   Tack   |   GP   |
+| ------------ |:--------:|:------:|
+| Barding      |    1     |   40   |
+| Saddle       |    2     |   25   |
+| Bags         |    1     |   5    |
+
+| Vehicles   | Tack | GP  |
+| ---------- |:----:|:---:|
+| Cart (14)  |  3   | 100 |
+| Wagon (24) |  6   | 200 |
+
+### Weapons and Armour
+#### Wielding Weapons
+If no type is noted assume the weapon uses one hand and has no other restrictions. If wielding more then one weapon at a time roll both dice and use the higher.
+**Hefty** weapons require one hand. Only one Hefty item can be wielded at once.
+**Long** weapons require both hands and are Impaired in confined environments.
+**Slow** weapons take an action to ready after an attack. They are also Long.
+
+| Weapon       | Damage | Tags       | Cost |
+| ------------ |:------:| ---------- |:----:|
+| Hefty Tool   |   d6   | Hefty      |  2   |
+| Long Tool    |   d8   | Long       |  5   |
+| Hand Weapon  |   d6   |            |  5   |
+| Hefty Weapon |   d8   | Hefty      |  10  |
+| Long Weapon  |  d12   | Long       |  15  |
+| Sling        |   d4   | Hefty      |  5   |
+| Bow          |   d6   | Long, Ammo |  15  |
+| Crossbow     |  2d6   | Slow, Ammo |  25  |
+| Ammo (UD10)  |        |            |  5   |
+
+##### Specialty Weapons
+Take an existing weapon with and establish what it was made for. When you are bolstered in that way gain +d8 instead of +d6 to damage. Ordering a weapon this way increases it's cost by 2x.
+
+#### WEARING ARMOUR
+Armour takes up an amount of slots equal to the bonus it grants to Defense.
+
+| Armour  | Defense Bonus | Cost |
+| ------- |:-------------:|:----:|
+| None    |      10       |  0   |
+| Light   |      +2       |  20  |
+| Medium  |      +4       |  50  |
+| Heavy   |      +6       | 120  |
+
+| Shield  | Reduction | Cost |
+| ------- |:---------:|:----:|
+| Buckler |    d4     |  4   |
+| Shield  |    d6     |  10  |
+| Tower   |    d8     |  18  |
