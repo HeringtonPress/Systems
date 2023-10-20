@@ -1,9 +1,51 @@
 # Fighters
+## Slayer
+You are a dedicated warrior, focusing on the killing of your enemies to the exclusion of the development of wider abilities.
 
+**Starting Equipment**: Any weapon of your choice, Light Armour, and either a shield or second weapon.
+- A: Critical Hits, Parry
+- B: Notches
+- C: Called Attack
+- D: Cleave
+
+**Critical Hits**: When rolling to hit a natural 1 results in you Impairing the target or dealing damage as though you where bolstered.
+
+**Parry**: You may raise any weapon as a shield. Reducing damage with the weapons die the weapon breaking on a maximum roll. When a Magic Weapon would break in this way make an Allure Save to attempt to save it.
+
+**Notches**: Each time you attain a total of 10, 20, 30, and 50 kills with a weapon type (such as 10 kills with a dagger), you unlock a new ability for that weapon, chosen from the list below.
+- +1 Damage
+- Expanded critical range (+1)
+- Special ability (negotiated with GM, one per weapon).
+Examples: ability to draw the weapon from any slot, knock a target prone on a critical, wield a two-handed weapon in one hand, gain a bonus to use the weapon as a tool, etc.
+
+**Called attack**: You can choose a particular spot on your target to strike at when attacking. You get a -2 modifier (-4 if it is the head) to your attack roll but if you hit the attack will inflict an additional debilitating effect appropriate for the location.
+
+**Cleave**: When you defeat a foe you may make an additional attack as part of this action. This may only trigger a maximum amount equal to your templates.
 
 # Wizards
 
 # Specialists
+## Thief
+**Starting Equipment**: Caltrops, lockpicks, dagger.
+- You gain +1 to Stealth for each Thief template you possess.
+- A: Always Prepared, Wall Crawler
+- B: Lucky, Quick Draw
+- C: Backstab
+- D: Great Escape, Very Lucky
+
+**Always Prepared**: In town, you may buy "Supply". Supply costs 10 GP per slot and at anytime in play Supply can be converted to any mundane item of equivalent value. Once Supply is converted it cannot become Supply again.
+
+**Wall Crawler**: You can climb as well without climbing gear as most people can with climbing gear. Simple climbs do not require a test. You can attempt impossible climbs.
+
+**Lucky**: Once per day you may reroll any save and keep the result of your choice
+
+**Deep Pockets**: 2 of your Slots become additional Quick Draw Slots.
+
+**Backstab**: Whenever your attack is bolstered due to surprise or overwhelming your foe you roll +d8 instead of a d6.
+
+**Great Escape**: Once per day, you can automatically escape from something that is restraining you and that you could plausibly escape from. This includes grapples, nooses, pit traps, and awkward social situations, but not sealed coffins.
+
+**Very Lucky**: You may use your Lucky ability twice per day. You may also allow an adjacent ally to use one of your rerolls, provided you could have plausibly assisted them.
 
 # Workshop
 ## Fighter
@@ -64,21 +106,3 @@ You have wilderness expertise and some fighting skill.
 
 **Opportunist**: 
 
-## Slayer
-You are a dedicated warrior, focusing on the killing of your enemies to the exclusion of the development of wider abilities.
-
-- **Starting Equipment**: Any weapon of your choice, Light Armour, and either a shield or second weapon.
-- A: Critical Hits, Attack Surge  
-- B: 
-- C: Brutal Critical
-- D: Named Weapon, Called Attack
-
-**Critical Hits**: When rolling to hit a natural 1 results in you Impairing the target or dealing damage as though you where bolstered.
-
-**Attack Surge**: When you defeat an enemy, or crit, you may make an additional attack. This can trigger a number of times equal to your slayer templates in a turn.
-
-**Named Weapon**: 
-
-**Brutal Critical**: You now crit on a result of 1 and 20. A crit now always deals +2 damage.
-
-**Called attack**: You can choose a particular spot on your target to strike at when attacking. You get a -2 modifier (-4 if it is the head) to your attack roll but if you hit the attack will inflict an additional debilitating effect appropriate for the location.

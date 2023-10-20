@@ -290,7 +290,6 @@ When combat starts the Table will divide the location into at least 3 Zones. Eac
 | Adventuring Gear | Cost (gp) |
 | ---------------- |:---------:|
 | Air Bladder      |     5     |
-| Bedroll          |     5     |
 | Bucket           |     5     |
 | Caltrops         |    10     |
 | Chain (10ft)     |    10     |
