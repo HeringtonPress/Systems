@@ -361,19 +361,19 @@ You suffer your dooms in chronological order. Dooms may only be reversed with th
 | Lantern (Light for 2)      | 10  |
 | Oil Flask Oil Flask (UD12) |  2  |
 
-| Provisions      |  E  |  M  |  V  |  P  | GP  |
-| --------------- |:---:|:---:|:---:|:---:|:---:|
-| Rations (4)     |  X  |  X  |  X  |  X  |  8  |
-| Beast Feed (3)  |  X  |  X  |  X  |  X  |  3  |
-| Cheese (3)      |  2  | 0.5 | 0.5 |  1  | 20  |
-| Dried Fruit (3) | 0.4 |  1  |  1  |  0  | 12  |
-| Lard            | 0.5 | 0.4 | 0.4 | 0.4 |  1  |
+| Provisions      | En  | Mi  | Vi  | Pr  | Port | GP  |
+| --------------- |:---:|:---:|:---:|:---:|:----:|:---:|
+| Rations (4)     |  X  |  X  |  X  |  X  |  X   |  8  |
+| Beast Feed (3)  |  X  |  X  |  X  |  X  |  X   |  3  |
+| Cheese (3)      |  2  | 0.5 | 0.5 |  1  |  1   | 20  |
+| Dried Fruit (3) | 0.4 |  1  |  1  |  0  |  0   | 12  |
+| Lard            | 0.5 | 0.4 | 0.4 | 0.4 |  3   |  1  |
 
-| Cooking       | GP  |
-| ------------- |:---:|
-| Cook Pot      | 10  |
-| Fire Kit      |  2  |
-| Seasoning (6) | 10  |
+| Cooking         | GP  |
+| --------------- |:---:|
+| Cook Pot        | 10  |
+| Fire Kit        |  2  |
+| Seasoning (UD6) | 10  |
 
 | Animals       | Tack | GP  |
 | ------------- |:----:|:---:|
