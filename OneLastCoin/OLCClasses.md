@@ -23,7 +23,6 @@ Examples: ability to draw the weapon from any slot, knock a target prone on a cr
 **Cleave**: When you defeat a foe you may make an additional attack as part of this action. This may only trigger a maximum amount equal to your templates.
 
 # Wizards  
-
 ## Base Wizard
 Most Caster type classes are labled as "Wizard". Anything with Wizard in it's name includes these following templates unless otherwise stated.
 
@@ -71,10 +70,10 @@ You cannot bathe. You cannot return another person’s love.
 #### Cantrips
 1. Transform into an oily formless creature with your face that has either
 	- a fly speed of 2x Movement
-	- b) 3x Movement
-	- c) a swim speed of 2x Movement
-	- d) a burrow speed of Movement
-	- e) the ability to squeeze through gaps smaller than a human head.
+	- 3x Movement
+	- a swim speed of 2x Movement
+	- a burrow speed of Movement
+	- the ability to squeeze through gaps smaller than a human head.
 2. Dim or extinguish all non-magical light sources in a 20’ radius.
 3. Touch someone to learn if they have killed another sentient creature in the last 24hrs.
 
@@ -97,99 +96,62 @@ You cannot bathe. You cannot return another person’s love.
 1. Powerful Presence
 - R: 0 T: self D: [dice] hours
 
-You seem to grow in magni�cence and poise, and gains +2x[dice] bonus to Save
-vs Domination, Charm, or Fear effects. Easily frightened creatures (horses, mice,
-guilt-ridden murderers) must test Morale or �ee.
+You seem to grow in magnificence and poise, and gains +2x[dice] bonus to Save vs Domination, Charm, or Fear effects. Easily frightened creatures (horses, mice, guilt-ridden murderers) must test Morale or flee.
 
 2. Telekinetic Shove
-R: 50‘ T: creature or object D: 0
-An object or creature within range is hurled through the air. Save negates. A
-human-sized creature travels 10’ per [dice], and takes 1d6 damage for every 10'
-travelled. A creature thrown at another creature requires an Attack roll to hit and
-in�icts 1d6 damage for every 10' travelled. This spell will also blow open all the
-closed but unlocked doors in a room, shatter all the windows in a building, or
-knock the thatched roof off a peasant's shack.
+- R: 50‘ T: creature or object D: 0
+
+An object or creature within range is hurled through the air. Save negates. A human-sized creature travels 10’ per [dice], and takes 1d6 damage for every 10' travelled. A creature thrown at another creature requires an Attack roll to hit and inflicts 1d6 damage for every 10' travelled. This spell will also blow open all the closed but unlocked doors in a room, shatter all the windows in a building, or knock the thatched roof off a peasant's shack.
 
 3. Shrivel
-R. 50' T: [dice] creatures D: 1d6 rounds / permanent
-Target loses half of its current HP and loses 6 Strength (affecting the damage it
-deals). Save negates. When the spell ends, the lost HP and Strength return. If
-this spell is cast this spell with 3 or more [dice] against a single target, the lost
-HP does not return, and the Strength damage is permanent. The apparent age of
-the target increases considerably for the spell's duration.
+- R. 50' T: [dice] creatures D: 1d6 rounds / permanent
+
+Target loses half of its current HP and loses 6 Strength (affecting the damage it deals). Save negates. When the spell ends, the lost HP and Strength return. If this spell is cast this spell with 3 or more [dice] against a single target, the lost HP does not return, and the Strength damage is permanent. The apparent age of the target increases considerably for the spell's duration.
 
 4. Charm Person
-R: 50' T: person D: [dice] hours
-Target person regards the caster as a good friend and ignores the obvious spell
-you just cast on them. If you invest 4 [dice] or more into this spell, the duration
-becomes permanent.
+- R: 50' T: person D: [dice] hours
+
+Target person regards the caster as a good friend and ignores the obvious spell you just cast on them. If you invest 4 [dice] or more into this spell, the duration becomes permanent.
 
 5. Control Water
-R: 50’ T: a bucket’s worth of water D: concentration
-Control a bucket’s worth of water. At one [die]: (a) propel a small boat, (b) carry a
-small item through the water, (c) allow someone to swim at 2x speed, (d) force
-someone to swim at half speed, (e) splash something no more than 5' away, (f)
-dry something that is wet. Each [dice] you invest increases the effects. At 4
-[dice], sink ships or move small lakes.
+- R: 50’ T: a bucket’s worth of water D: concentration
+
+Control a bucket’s worth of water. At one [die]: (a) propel a small boat, (b) carry a small item through the water, (c) allow someone to swim at 2x speed, (d) force someone to swim at half speed, (e) splash something no more than 5' away, (f) dry something that is wet. Each [dice] you invest increases the effects. At 4 [dice], sink ships or move small lakes.
 
 6. Sleep
-R: 50' T: [sum] HD of creatures D: 10 min / permanent
-Target falls into a magical slumber, and can't be awoken by anything less
-vigorous than a slap. Save negates. Non-alert, unaware targets do not get a
-Save. If [sum] is at least 4 times the creature's HD, the duration becomes
-permanent (until slapped) and the creature no longer needs to eat or drink while
-sleeping. If you also invested 3 [dice] or more into this spell, the duration
-becomes permanent, and you can set the only condition that will cause the
-creature to awake (the sunrise before the apocalypse, true love’s kiss, etc.)
+- R: 50' T: [sum] HD of creatures D: 10 min / permanent
+
+Target falls into a magical slumber, and can't be awoken by anything less vigorous than a slap. Save negates. Non-alert, unaware targets do not get a Save. If [sum] is at least 4 times the creature's HD, the duration becomes permanent (until slapped) and the creature no longer needs to eat or drink while sleeping. If you also invested 3 [dice] or more into this spell, the duration becomes permanent, and you can set the only condition that will cause the creature to awake (the sunrise before the apocalypse, true love’s kiss, etc.)
 
 7. Dream Eater
-R: 50‘ T: creature D: 0
-A sleeping creature within 50' takes [sum] damage. The caster heals for the
-same amount. No Save. When you gain this spell, if you don't know sleep
-already, you learn it the next time you would roll to gain a spell. It replaces one of
-the spells you'd roll for.
+- R: 50‘ T: creature D: 0
+
+A sleeping creature within 50' takes [sum] damage. The caster heals for the same amount. No Save. When you gain this spell, if you don't know sleep already, you learn it the next time you would roll to gain a spell. It replaces one of the spells you'd roll for.
 
 8. Scorching Ray
-R: 100' T: creatures or objects D: 0
-Fire a ray at a target, dealing 1d10 �re damage with a successful attack roll.
-Each [dice] you invest in this spell allow you to �re an additional ray at the same
-target or at a new target. Creatures are not set on �re, but very �ammable
-objects such as candles, dry straw, or paper will catch �re 1 round after being
-struck. Instead of using this spell to deal damage, you can instead use it to light
-all the candles in a single room.
+- R: 100' T: creatures or objects D: 0
+
+Fire a ray at a target, dealing 1d10 fire damage with a successful attack roll. Each [dice] you invest in this spell allow you to fire an additional ray at the same target or at a new target. Creatures are not set on fire, but very flammable objects such as candles, dry straw, or paper will catch fire 1 round after being struck. Instead of using this spell to deal damage, you can instead use it to light all the candles in a single room.
 
 9. Scry
-R: [dice]x100' T: point in space D: concentration
-You conjure an invisible, intangible, �oating eyeball to a point in space that you
-designate. Unlike most spells, you do not have to have line of sight to cast it. As
-long as you maintain concentration, you can see through this sensor with your
-normal senses. This spell requires something to scry on, usually a mirror, quiet
-pool, clouds, or bon�re. If you invest 2 or more [dice], you can also hear through
-the sensor (it grows an ear). If you invest at 3 or more [dice], you can also speak
-through the sensor (it grows a dribbly little mouth). If you use an actual crystal
-ball when casting this spell, the range is instead [dice] miles. Crystal balls are
-rare enough that they are never offered for sale, but are worth upwards of
-3,000gp. Most are ancestral relics.
+- R: [dice]x100' T: point in space D: concentration
+
+You conjure an invisible, intangible, floating eyeball to a point in space that you designate. Unlike most spells, you do not have to have line of sight to cast it. As long as you maintain concentration, you can see through this sensor with your normal senses. This spell requires something to scry on, usually a mirror, quiet pool, clouds, or bonfire. If you invest 2 or more [dice], you can also hear through the sensor (it grows an ear). If you invest at 3 or more [dice], you can also speak through the sensor (it grows a dribbly little mouth). If you use an actual crystal ball when casting this spell, the range is instead [dice] miles. Crystal balls are rare enough that they are never offered for sale, but are worth upwards of 3,000gp. Most are ancestral relics.
 
 10. Alter Self
-R: 0 T: self D: [dice]x10 minutes
-Alter your form to resemble that of another creature of your type (usually
-humanoid). You do not gain any special abilities from this transformation.
+- R: 0 T: self D: [dice]x10 minutes
+
+Alter your form to resemble that of another creature of your type (usually humanoid). You do not gain any special abilities from this transformation.
 
 11. Doom
-R: 50' T: creature D: concentration
-Target feels cold. If you invest 3 [dice] or more, and you loudly pronounce doom
-on them for the next 2 turns (without being interrupted or breaking line of sight),
-target dies on the 3rd turn. You need to truly hate the target for this spell to work,
-or convince yourself that you hate the target. Even a sliver of pity cancels the
-spell.
+- R: 50' T: creature D: concentration
+
+Target feels cold. If you invest 3 [dice] or more, and you loudly pronounce doom on them for the next 2 turns (without being interrupted or breaking line of sight), target dies on the 3rd turn. You need to truly hate the target for this spell to work, or convince yourself that you hate the target. Even a sliver of pity cancels the spell.
 
 12. Curse
-R: 50' T: mortal creature D: permanent
-You in�ict a Minor or Major curse on the target. Save negates. For a minor curse,
-you must invest 2 [dice]. For a major curse, you must invest 4 [dice]. Dice used
-to cast this spell are automatically exhausted. You cannot dispel your own curses
-but you must set a thematically appropriate cure or method of breaking it.
+- R: 50' T: mortal creature D: permanent
+
+You inflict a Minor or Major curse on the target. Save negates. For a minor curse, you must invest 2 [dice]. For a major curse, you must invest 4 [dice]. Dice used to cast this spell are automatically exhausted. You cannot dispel your own curses but you must set a thematically appropriate cure or method of breaking it.
 
 # Specialists
 ## Thief
@@ -273,3 +235,112 @@ You have wilderness expertise and some fighting skill.
 
 **Opportunist**: 
 
+
+
+## Alchemist
+For each Alchemist template, you can use 1 CD per concoction (max 4) You learn two formulas per template (see below).
+
+Starting equipment: Thick leather gloves, dagger, portable lab (2 slot), 2d6 ingredients (see below), lots of vials.
+**A**:  Alchemy,  Stabilize, Alchemical tricks
+**B**:  Scrounge, Reclamation
+**C**:  Potion Maker, Precise Measurements
+**D**: Discovery, Immunity
+
+**Alchemy:** An alchemist's wondrous abilities are powered by "special ingredients".  They could be gems, special herbs, dragon scales, rare metals or spices... the exact nature of these can be defined with your GM, or stay vague. A single dose of "special ingredient' is represented by a **Chemical Dice, or CD** and you may fit 4 in a Slot.  These work similarly to Mage Dice (MD).
+
+An alchemist does not cast spells. They create concoctions - potions, bombs, ointments - short term, one-use quasi-magical objects that the alchemist uses to create magic-like effects, based on formulas they know. The more CD the alchemist invests into a concoction, the more powerful it will be. An alchemist therefore needs time to prepare their concoctions in advance.  
+  
+*Using Concoctions*: Most require 1 action to activate, light a fuse and throw, drink, etc. When a concoction is used; 1d6 is rolled per CD invested during the concoction's reaction, and the effect is based on this result (as MD). On a roll of 1-3, the CD is "returned" to the alchemist - they were stingy with the ingredients, and still has some left. On a 4-6 the CD is lost - more ingredients were used for a bigger bang.   
+
+Other people can use your concoctions, but it is risky - they roll +2d6 that add no power to the effect but can trigger a mishap or doom (see below).
+
+1d6 alchemist mishaps  
+1.  The concoction doesn't quite work right and there is a minor explosion or acid splash.  Take 1d6 damage.  
+2.  The concoction worked normally, but regain no CDs on a 1-3 for this one.  
+3.  Coughing fit for 1d6 round.  
+4.  A *hideous* smell is released.  People shout in panic, zombies gag. How embarrassing!  
+5.  The fumes give you a vicious headache.  You can use concoctions but are in no shape to prepare new ones for the rest of the day.  
+6.  You drop the concoction and it goes off, to potentially disastrous results.  
+  
+Alchemist Dooms
+1.  Countless mishaps have permanently damaged your senses. Lose your sense of smell.  
+2.  Exposure to noxious chemicals have affected your health.  Lose 1d3 HP permanently.  
+3.  You have contracted a long wasting illness from years of exposure to toxic metals.  Lose 1 HP permanently each month. There are no know cure... but perhaps the Elixir of Life could save you!  But the formula has been long lost...  
+
+_Making concoctions_: A concoction takes 1 hour per CD invested to prepare (some take longer).  This is careful work that needs quiet, some shelter and light to do. Most alchemists carry a portable lab that is sufficient for most alchemical work. If the process is interrupted the CDs are lost. Unlike a wizard, there is no limit to the number of concoctions an alchemist can prepare - but it would not be wise for them to use all their CD in advance, as concoctions are not stable.
+
+Each morning, the concoction **has a 1 in 6 chance of losing one CD of power.**  A concoction with no CD left has fully degraded and is essentially useless. Some alchemists deal with this problem with stabilization (see below).
+
+_Regaining CDs_:  An alchemist starts at level 1 with 2d6 CDs, and gains 1d6 more CDs each time they level up.  Furthermore, when returning to town to re-supply, a level 1 alchemist *can* regain 1d4 CDs, at a cost of 10 gp per CD.  At level 2 and 3 resupplying will yield 1d6 CDs, and a master alchemist will be able to gather 1d8 CDs.
+
+_Formulas:_   An alchemist begins the game with two known formulas, each determined randomly by rolling 1d6 and consulting the list (reroll any duplicates).  At template B they gain two more formulas (roll 1d8 twice), at Template C they gain two more (roll 1d10 twice) and at template D they get another two (roll 1d12 once and select another).  An alchemist can also gain further formulas by consulting alchemical tomes and learning their formulas.  Doing so is difficult, taking a day (or more!) per new formula.
+
+**Stabilize :** To avoid the rapid degradation of a prepared concoction, an alchemist can spend one hour carefully neutralizing it. The concoction, if kept dry and away from extreme temperatures, will remain inert and stable for several years. Another hour of work is required to re-activate it. Once this is done, the concoction cannot be neutralized a second time, and must be used soon or it will degrade (as per standard rules).  
+
+**Alchemical tricks:** You know one of the following minor alchemical feats (and learn one per template).  These do not require CDs:  
+
+- Matches.  You have created small fire sticks, that are useful to start fires.  You can use them to light a fire in most circumstances, or provide candle-level illumination for till light would roll UD. If the precise number of matches becomes important, you have 2d6 matches, and creating a new batch takes 1 hour.
+
+- Small firework display.  A sparkler or 3, a whistler, a half dozen firecrackers, a couple of bottle rockets, a cone fountain... it will entertain the children or make a heck of a distraction.  An alchemist investing large sums and sufficient time could make a display suitable for larger audiences, of course.
+
+- Planetary Charm:  A small plate of lead with protective symbols. They provide you with a +2 save bonus vs a specific thing (fire, fear, brigand attacks, poison, illness....).  Re-aligning the save takes 1 hour but must be done on the proper day of the week (roll 1d7 to determine which day).
+
+**Scrounge**:  An alchemist with _no remaining CDs_ can spend an hour searching an area (a cavern with strange mushrooms, a wooded area, an abandoned lich lab, even a small village) and gain 1 CD.  At template C this increased to 1d2 CD, and at template D this increases to 1d3 CD.  This can only be performed once a day.  This search triggers a roll on the Underclock die. Scrounging is free, unless in a Civilized location.
+
+**Reclamation**:  An alchemist can take apart an already prepared concoction and extract remaining CDs from them. Roll 1d6 per CD, you regain it on a 1-4.  If the concoction is not stabilized, this roll may trigger mishaps/dooms in case of doubles or triples. This process takes an hour.
+
+**Potion Maker**: You learn the craft of making magical potions (potions of healing, giant strength etc). You may craft any potion for half the retail cost. This takes an amount of time equal to a week per 500 GP.
+
+**Precise Measurement**: Instead of rolling, you can decide that a CD will be 2 (you conserved on ingredients) or 5 (you didn't skimp). Not all dice can be determined at least one CD must be random (precise measurement can only be used on 2D or stronger concoctions). Having multiple 2s or 5s can trigger a mishap or doom.
+
+**Discovery**:  You rediscover an ancient secret of the past. You (THE PLAYER) do some research in old grimoires etc, find a formula or spell you like, and transcribe it into the GLOG format. You can do it! Your character will thank you.  
+
+**Immunity:** Years of exposure to strange substances and dangerous experiments have granted you a+3 bonus to saves vs poison, gas, fire or acid.
+### Formulas  
+1. Fire Projector: This concoction is a tube that projects one or more fiery projectiles, each doing 1d6 points of damage to target and cast light as a torch (it can be use to set fires).  It shoots [dice] number of projectiles.  Hits are automatic within 30 feet, after that an attack roll is required (treat as a ranged weapon with range increment of 30 feet).  The alchemist can set a fast fuse (shooting all projectiles in 1 round) or slow (shoot one per round).  Also known as the Roman Candle.  You can choose the color of each projectile.  
+
+This concoction is easier to make than most, CDs are regained on 1-4, not 1-3.
+
+2. Alchemical Lard: This concoction is a simple ingredient that can be used in cooking. It creates a number of portions equal to 4x[dice]. It has 0.4 value in each nutrient. Though the Alchemist can add 1 to a nutrient of their choice for each [dice]. This ingredient counts as Exotic for sake of FD. This Concoction does not deteriorate but also cannot return CD on low rolls.
+
+3. Celestial Perfume: This perfume is most auspicious and pleasant, making the wearer seems interesting, charismatic and worthy of assistance. It provides a +4 bonus to an Allure saves and it also keeps miasmas and plagues at bay, providing a +2 bonus to saves vs diseases. Gnomes are particularly fond of the perfume. Once applied, the perfume lasts for [sum] hours.  
+
+4. Smoke Pot: Upon ignition, this clay pot emits copious amounts of smoke, generating a cloud of [dice]x5 feet radius, lasting [sum]/2 round (only 1 round in a stiff wind). By varying the fillers in the pot, the alchemist can choose to generate one of two types of smoke. The smoke can be opaque, blocking vision - the smoke is unpleasant but mostly harmless. Or the smoke can be thinner but noxious. Those inside the infernal stink must make a constitution save or be sickened, suffering a -4 penalty to attack rolls and ability/skill checks while they remain in the smoke and for [dice] thereafter.
+
+An alchemist can choose to have the bomb go off almost immediately after thrown or add a fuse that will delay its activation by up to [dice] rounds.
+
+5.  Vitriol: The alchemist generates [dice] vials of strong acid. This acid can be thrown at an enemy (attack roll required, [sum] damage on round 1 and [dice] damage for the following [dice] rounds). It can also be used to destroy metals (gold is immune) - a single vial is sufficient to wreck a lock, melt an iron bar etc, in about a minute.
+
+This concoction is particularly stable, and only requires a check vs degradation every month.
+
+6.  Theriac: The alchemist takes a large onion, cuts off the top and carefully opens it up. Spices, poisons and other exotic ingredients are inserted between the layers, and the whole thing is slowly and gently cooked in boiling honey. Some alchemists believe that keeping a stabilized Theriac for very long periods of time (years or even decades) enhances the effect - the flavor certainly is something.
+
+This powerful concoction can stop illness or poison dead in their tracks. Upon eating this panacea, the patient may remake a save vs illness or poison with a +4 bonus. Furthermore, they regain 1d3 hp per CD used.
+
+The Theriac takes two hours per CD to prepare, not one.
+
+7. The Great Petard: A metal sphere or tube (or a very thick glass bottle) is filled with fiery ingredients, a fuse is lit, and KABOOM. Does [sum] damage in a 20 feet radius. If well placed against a structure (gate etc) does double damage to the structure (DM should be generous in its breaching power. Something like 1D will blow up a solid door, 2D a postern, 3D a stout postern or a small gate 4D all but the greatest gates). The bomb can be thrown up to 50 feet with a running start. The fuse can be almost immediate, or burn for up to [dice]X2 rounds.
+
+8. Sword of St Germain: This concoction is a bit different from most. A 7 pointed star made of a thin sheet of pure tin is inscribed with potent symbols under the light of the full moon. This star must then be wrapped around the tang of a single handed sword. The grip is then re-installed over the star.
+
+The star will be inert (and stable) for several years until its power is invoked. The user will then be victorious in battle. The sword becomes a +2 weapon for [sum] hours, but only for the alchemist.
+
+9. Mercury invisibility ring: This ring is made with solidified quicksilver and mounted with a small stone found in the nest of a hoopoe. To be used, the ring must be worn with the stone facing outwards - by wearing it with the stone hidden, its power is suppressed. The invisibility granted by the ring lasts [sum]+[dice] minutes, but it can be split up into up to [dice] uses. A violent action by the alchemist, the use of magic, rapid motion (running vs walking) or even loud speech by the alchemist will disrupt the invisibility for 1d6 rounds.
+
+This concoction does not expire (i.e. is stable) until it time/number of uses runs out, when the ring melts. This concoction *must* be prepared on a Wednesday.
+
+10. Killing Miasma: In a glass bottle, the alchemist mixes water, salt, distilled vinegar, old urine, styrax and other things, and exposes it to the light of the sun, then seals with with a good cork and bee's wax. Upon breaking, the vial releases a cloud of noxious fumes, [dice]X5 feet radius, lasting [sum]/2 round. While a strong wind will disperse the cloud in a single round, a gentle breeze will push it along, moving it 1d3X10 feet per round. Anyone inside the cloud take [dice] damage. Furthermore, anyone in the fumes for longer than their hit dice (or level) rounds must make a Brawn Save or die.  Woe upon the alchemist who breaks his bottle by accident. It can be thrown up to 40 feet, 60 with a running start.
+
+11.  Homunculus: The alchemist has gained mastery over life itself! Using clay, bile and a drop of their blood; and with a full day of sculpting and gentle baking, they has created a new living organism, the homunculus.
+
+The homunculus can speak Common. It is not particularly intelligent but is cunning and is able to improvise. It is fairly loyal as long as it's treated reasonably well. Its life span and potency depends on how many CDs were invested:
+- 1D  Defense 10, 3 HP, 1d4 dmg, All stats 8.  Lives [sum] hours.
+- 2D  Defense 12, HP 5, 1d6 dmg, +4 to stealth check, All stats 10. Lives [sum] days.
+- 3D  Defense 13, HP 6, 1d6 dmg, stealth as above + can use a bow.  All stats 11, Lives, [sum] weeks.
+- 4D  Defense 14, HP 8, 1d6 dmg, stealth + bow as above, can fly mediocrely, all stats 12, lives [dice] years. Can use your concoctions.
+
+Alchemists hotly contest claims that they are merely hiring small ugly(er) goblins.
+
+12.  Philosopher's stone. The Grand Work. Takes a full month and *must* invest 4 CD for it to work, along with a pound of lead, a pound of silver and one thousand ants, as well as access to a full alchemical lab - a portable one simply won't do. Through a series of sublimations, condensations, combustions, fermentations, precipitations and paying close attention to planetary alignments, the alchemist prepares the philosopher's stone, the culmination of his art, a golden brown stone the size of a baby's fist. This stone is stable until used.  
+
+But what does it do?!? Some say that when crushed and mixed with a pound of lead, it will generate a pound of gold. Some say that if put in the mouth of a creature that recently died (no more than a week ago), the creature will be resurrected. Some say that if shallowed by a dragon, the stone will allow it to assume human form for [sum] days, and that dragons will grant anyone bringing them such a stone a wish. Some say that that if dissolved in a perfect alcohol then drunk, it will instantly grant a wizard template to the drinker.
