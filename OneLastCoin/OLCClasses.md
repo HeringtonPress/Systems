@@ -8,7 +8,7 @@ You are a dedicated warrior, focusing on the killing of your enemies to the excl
 - C: Called Attack
 - D: Cleave
 
-**Critical Hits**: When rolling to hit a natural 1 results in you Impairing the target or dealing damage as though you where bolstered.
+**Critical Hits**: When rolling to hit a natural 1 results in you Impairing one of the targets attacks or dealing damage as though you where bolstered.
 
 **Parry**: You may raise any weapon as a shield. Reducing damage with the weapons die the weapon breaking on a maximum roll. When a Magic Weapon would break in this way make an Allure Save to attempt to save it.
 
@@ -176,6 +176,118 @@ You inflict a Minor or Major curse on the target. Save negates. For a minor curs
 
 **Very Lucky**: You may use your Lucky ability twice per day. You may also allow an adjacent ally to use one of your rerolls, provided you could have plausibly assisted them.
 
+## Alchemist
+Starting Equipment: 1 Potion of each colour (plus their recipe), a miniature lab (2 slots), a knife.
+- A: Lesser Brews, Bombs
+- B: Antidotes, Chug
+- C: Explosive Infusion
+- D: Greater Brews
+
+**Lesser Brews**: You can turn monster corpses into extracts. Each corpse takes 10 minutes to render and is destroyed by the process. Each HD of corpse yields one extract (no partial extractions). There are three different colours of extracts. Animal-based monsters tend to give red extracts; oozes and insects tend to give green extracts; undead monsters tend to give blue extracts. The colours correspond to the different lists of brews below. One extract can be used to make a brew. 6 can be used to learn a new brew with a month's time. Extracts don’t take up inventory slots as long as you have a miniature lab. Three brews take up one inventory slot but can only be stacked with brews of the same colour.
+
+You can only make brews that you know the recipe for. It takes 10 minutes to make a brew. Brews with the throwable tag can be thrown 30’ and and all brews can be consumed or splashed on targets within 5’. Throwing or Splashing a brew requires a Cunning Save.
+
+**Bombs**: In addition to your three starting brews, you also know how to make Bombs. Made the same way as brews, bombs take can also fit 3 in a slot. Throw them 30’ with a Cunning Save. Different extracts have different effects in a 5’ radius (2x2 squares)
+- **Blue**: 2d4 damage, on max damage roll targets killed reanimate as mindless killers.
+- **Red**: deals 1d6, targets killed explode for 1d4.
+- **Green**: deals 1d6 damage, targets killed are transmuted into movement-blocking, writhing vines.
+
+**Antidotes**: You are an expert in antidotes. You can turn any brew into an antidote to itself, which automatically stops ongoing effects. This does not apply to most brews that have instant effects. 
+
+**Chug**: Trough uncomfortable route practice you can drink faster than most people, especially thick and vile brews. You can consume a single brew as a free action per round.
+
+**Explosive Infusion**: You can combine your bombs and brews together. When a brew-infused bomb explodes, its effects apply to the targets. You can choose whether the brew-bomb deals damage on its creation.
+
+**Greater Brews**: You can harvest greater extracts from creatures that are HD 4 or higher (1 extract per 4 HD). It takes one greater extract to make a greater brew and 4 to learn a new greater brew. They take 10 minutes to extract and each one can be converted to 3 lesser extractions. 
+#### Brews
+
+| d20 | Lesser Red Brews                                                 |
+|:---:| ---------------------------------------------------------------- |
+|  1  | fresh blood (attracts wildlife)                                  |
+|  2  | grease                                                           |
+|  3  | acid (Eats away at metal, except gold)                           |
+|  4  | Flash juice (blinds within 10', or gives enough light for 2 0UD) |
+|  5  |                                                                  |
+|  6  | frost bomb (Throwable, 1d6, extinguishes nearby fires)           |
+|  7  | liquid spikes (caltrops)                                         |
+|  8  | Bottled Bonfire                                                  |
+|  9  | laughing gas (Throwable)                                         |
+| 10  | darkness (10')                                                   |
+| 11  | false life (Grants 1d6 Grit)                                     |
+| 12  |                                                                  |
+| 13  | Brawn (+1)                                                       |
+| 14  | Dexterity (+1)                                                   |
+| 15  | Poison (Next attack is Bolstered, only red extract enemies)       |
+| 16  | jump (50' jump)                                                  |
+
+| d20 | Lesser Green Brews                                           |
+|:---:| ------------------------------------------------------------ |
+|  1  | super glue                                                   |
+|  2  | pourable ice                                                 |
+|  3  | fog (10')                                                    |
+|  4  | Allure (+1)                                                  |
+|  5  | Venom (Next attack is Bolstered, only green extract enemies) |
+|  6  | alarm dust (sings when stepped on)                           |
+|  7  | liquid horse                                                 |
+|  8  | liquid oozeling                                              |
+|  9  | lead legs                                                    |
+| 10  | sleep                                                        |
+| 11  | reduce person                                                |
+| 12  | enlarge person                                               |
+| 13  | see invisibility                                             |
+| 14  | comprehend languages                                         |
+| 15  | feather fall                                                 |
+
+| d20 | Lesser Blue Brews                                                                    |
+|:---:| ------------------------------------------------------------------------------------ |
+|  1  | cure light wounds (heal 1d4)                                                         |
+|  2  | dash (Move twice as fast)                                                            |
+|  3  | restoration (heal 1 or if negative bring to 0)                                       |
+|  4  |                                                                                      |
+|  5  | hide from undead (undead ignore you)                                                 |
+|  6  | mind blank                                                                           |
+|  7  | endure elements (+2 to save against elements)                                        |
+|  8  | Darkvision (Don't count towards needed light, can't see details)                     |
+|  9  | minor invisibility (targets must be objects small enough to fit into your inventory) |
+| 10  | stasis                                                                               |
+| 11  | alchemical iron (cold iron)                                                          |
+| 12  | anti-petrification (also works on paralysis)                                         |
+| 13  | regeneration (Slow and requiring multiple doses)                                     |
+|     |                                                                                      |
+
+#### Greater Brews
+
+| d8  | Greater Red Brews                                          |
+|:---:| ---------------------------------------------------------- |
+|  1  | grenado (Throwable, 2d6, chance of exploding as bomb Brew) |
+|  2  | faerie fire                                                |
+|  3  | incendiary cloud (Throwable, 1d6)                          |
+|  4  | Stink cloud (Throwable)                                    |
+|  5  | Rapid Acid                                                 |
+|  6  | big frost bomb                                             |
+|  7  | Jekylyde (+3 Brawn, -3 Cunning, Become mean)               |
+|  8  | dispel magic                                               |
+
+| d8  | Greater Green Brews                 |
+|:---:| ------------------------------------- |
+|  1  | invisibility                          |
+|  2  | webbing (as web)                      |
+|  3  | animate object                        |
+|  4  | mirror image                          |
+|  5  | fusion Brew (requires two drinkers) |
+|  6  | water breathing                       |
+
+| d8  | Greater Blue Brews                                     |
+|:---:| -------------------------------------------------------- |
+|  1  | protection from fire                                     |
+|  2  | protection from cold                                     |
+|  3  | escape (freedom of movement 1 round)                     |
+|  4  | cure moderate (2d6)                                      |
+|  5  | inflict moderate (2d6)                                   |
+|  6  | restoration                                              |
+|  7  | shared blood (allows two people to pool their HP as one) |
+
+
 # Workshop
 ## Fighter
 Starting Equipment: leather armor, sword, bow, 20 arrows
@@ -342,113 +454,3 @@ Alchemists hotly contest claims that they are merely hiring small ugly(er) gobli
 But what does it do?!? Some say that when crushed and mixed with a pound of lead, it will generate a pound of gold. Some say that if put in the mouth of a creature that recently died (no more than a week ago), the creature will be resurrected. Some say that if shallowed by a dragon, the stone will allow it to assume human form for [sum] days, and that dragons will grant anyone bringing them such a stone a wish. Some say that that if dissolved in a perfect alcohol then drunk, it will instantly grant a wizard template to the drinker.
 
 ---
-## Alchemist
-Starting Equipment: 1 Potion of each colour (plus their recipe), a miniature lab (2 slots), a knife.
-- A: Lesser Brews, Bombs
-- B: Antidotes, Chug
-- C: Explosive Infusion
-- D: Greater Brews
-
-**Lesser Brews**: You can turn monster corpses into extracts. Each corpse takes 10 minutes to render, and is destroyed by the process. Each HD of corpse yields one extract (no partial extractions). There are three different colours of extracts. Animal-based monsters tend to give red extracts; oozes and insects tend to give green extracts; undead monsters tend to give blue extracts. The colours correspond to the different lists of brews below. One extract can be used to make a brew. 6 can be used to learn a new brew with a month's time. Extracts don’t take up inventory slots as long as you have a miniature lab. Three brews take up one inventory slot but can only be stacked with brews of the same colour.
-
-You can only make brews that you know the recipe for. It takes 10 minutes to make a brew. Brews with the throwable tag can be thrown 30’ and and all brews can be consumed or splashed on targets within 5’. Throwing or Splashing a brew requires a Cunning Save.
-
-**Bombs**: In addition to your three starting brews, you also know how to make Bombs. Made the same way as brews, bombs take can also fit 3 in a slot. Throw them 30’ with a Cunning Save. Different extracts have different effects in a 5’ radius (2x2 squares)
-- **Blue**: 2d4 damage, on max damage roll targets killed reanimate as mindless killers.
-- **Red**: deals 1d6, targets killed explode for 1d4.
-- **Green**: deals 1d6 damage, targets killed are transmuted into movement-blocking, writhing vines.
-
-**Antidotes**: You are an expert in antidotes. You can turn any brew into an antidote to itself, which automatically stops ongoing effects. This does not apply to most brews that have instant effects. 
-
-**Chug**: Trough uncomfortable route practice you can drink faster than most people, especially thick and vile brews. You can consume a single brew as a free action per round.
-
-**Explosive Infusion**: You can combine your bombs and brews together. When a brew-infused bomb explodes, its effects apply to the targets. You can choose whether the brew-bomb deals damage on its creation.
-
-**Greater Brews**: You can harvest greater extracts from creatures that are HD 4 or higher (1 extract per 4 HD). It takes one greater extract to make a greater brew and 4 to learn a new greater brew. They take 10 minutes to extract and each one can be converted to 3 lesser extractions. 
-#### Brews
-
-| d20 | Lesser Red Brews                                                 |
-|:---:| ---------------------------------------------------------------- |
-|  1  | fresh blood (attracts wildlife)                                  |
-|  2  | grease                                                           |
-|  3  | acid (Eats away at metal, except gold)                           |
-|  4  | Flash juice (blinds within 10', or gives enough light for 2 0UD) |
-|  5  |                                                                  |
-|  6  | frost bomb (Throwable, 1d6, extinguishes nearby fires)           |
-|  7  | liquid spikes (caltrops)                                         |
-|  8  | Bottled Bonfire                                                  |
-|  9  | laughing gas (Throwable)                                         |
-| 10  | darkness (10')                                                   |
-| 11  | false life (Grants 1d6 Grit)                                     |
-| 12  |                                                                  |
-| 13  | Brawn (+1)                                                       |
-| 14  | Dexterity (+1)                                                   |
-| 15  | Poison (Next attack is Bolstered, only red extract enemies)       |
-| 16  | jump (50' jump)                                                  |
-
-| d20 | Lesser Green Brews                                           |
-|:---:| ------------------------------------------------------------ |
-|  1  | super glue                                                   |
-|  2  | pourable ice                                                 |
-|  3  | fog (10')                                                    |
-|  4  | Allure (+1)                                                  |
-|  5  | Venom (Next attack is Bolstered, only green extract enemies) |
-|  6  | alarm dust (sings when stepped on)                           |
-|  7  | liquid horse                                                 |
-|  8  | liquid oozeling                                              |
-|  9  | lead legs                                                    |
-| 10  | sleep                                                        |
-| 11  | reduce person                                                |
-| 12  | enlarge person                                               |
-| 13  | see invisibility                                             |
-| 14  | comprehend languages                                         |
-| 15  | feather fall                                                 |
-
-| d20 | Lesser Blue Brews                                                                    |
-|:---:| ------------------------------------------------------------------------------------ |
-|  1  | cure light wounds (heal 1d4)                                                         |
-|  2  | dash (Move twice as fast)                                                            |
-|  3  | restoration (heal 1 or if negative bring to 0)                                       |
-|  4  |                                                                                      |
-|  5  | hide from undead (undead ignore you)                                                 |
-|  6  | mind blank                                                                           |
-|  7  | endure elements (+2 to save against elements)                                        |
-|  8  | Darkvision (Don't count towards needed light, can't see details)                     |
-|  9  | minor invisibility (targets must be objects small enough to fit into your inventory) |
-| 10  | stasis                                                                               |
-| 11  | alchemical iron (cold iron)                                                          |
-| 12  | anti-petrification (also works on paralysis)                                         |
-| 13  | regeneration (Slow and requiring multiple doses)                                     |
-|     |                                                                                      |
-
-#### Greater Brews
-
-| d8  | Greater Red Brews                                          |
-|:---:| ---------------------------------------------------------- |
-|  1  | grenado (Throwable, 2d6, chance of exploding as bomb Brew) |
-|  2  | faerie fire                                                |
-|  3  | incendiary cloud (Throwable, 1d6)                          |
-|  4  | Stink cloud (Throwable)                                    |
-|  5  | Rapid Acid                                                 |
-|  6  | big frost bomb                                             |
-|  7  | Jekylyde (+3 Brawn, -3 Cunning, Become mean)               |
-|  8  | dispel magic                                               |
-
-| d8  | Greater Green Brews                 |
-|:---:| ------------------------------------- |
-|  1  | invisibility                          |
-|  2  | webbing (as web)                      |
-|  3  | animate object                        |
-|  4  | mirror image                          |
-|  5  | fusion Brew (requires two drinkers) |
-|  6  | water breathing                       |
-
-| d8  | Greater Blue Brews                                     |
-|:---:| -------------------------------------------------------- |
-|  1  | protection from fire                                     |
-|  2  | protection from cold                                     |
-|  3  | escape (freedom of movement 1 round)                     |
-|  4  | cure moderate (2d6)                                      |
-|  5  | inflict moderate (2d6)                                   |
-|  6  | restoration                                              |
-|  7  | shared blood (allows two people to pool their HP as one) |
