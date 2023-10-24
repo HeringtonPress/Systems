@@ -215,27 +215,23 @@ You have wilderness expertise and some fighting skill.
 
 - **Starting Equipment**: A bow with ammo, 2 Hand Weapons or a Hefty Weapon.
 - A: Silent Walk, Practiced Eye  
-- B: Shelter, Tracking  
-- C: Forager, Animal Whisperer  
-- D: Silent Walk+, Opportunist
+- B: scaling
+- C: build off, Animal Whisperer  
+- D: Camper
 
 **Silent Walk**: You can move silently when outdoors in a natural environment, except when moving over/through really loud surfaces like gravel.
 
 **Practiced Eye**: If you miss with an attack, your next attack against that target has advantage.
 
-**Shelter**: You can always quickly (1d6 x 10 minutes) find or make shelter in the wilderness.
+**Shelter**: 
 
 **Tracking**: When you confront an Omen you always find them in a favourable situation.
 
-**Forager**: You have a +2 bonus on rolls relating to foraging.
+**Forager**: 
 
 **Animal Whisperer**: Non-sapient wild animals have a more trusting view of you, as long as you do nothing to counter this view. You can easily infer what they want and what they don’t want.
 
-**Silent Walk+**: You can move silently even on loud surfaces when outdoors in a natural environment.
-
-**Opportunist**: 
-
-
+**Camper**: Making Camp can be done as part of the first sleep action.
 
 ## Alchemist
 For each Alchemist template, you can use 1 CD per concoction (max 4) You learn two formulas per template (see below).
@@ -344,3 +340,109 @@ Alchemists hotly contest claims that they are merely hiring small ugly(er) gobli
 12.  Philosopher's stone. The Grand Work. Takes a full month and *must* invest 4 CD for it to work, along with a pound of lead, a pound of silver and one thousand ants, as well as access to a full alchemical lab - a portable one simply won't do. Through a series of sublimations, condensations, combustions, fermentations, precipitations and paying close attention to planetary alignments, the alchemist prepares the philosopher's stone, the culmination of his art, a golden brown stone the size of a baby's fist. This stone is stable until used.  
 
 But what does it do?!? Some say that when crushed and mixed with a pound of lead, it will generate a pound of gold. Some say that if put in the mouth of a creature that recently died (no more than a week ago), the creature will be resurrected. Some say that if shallowed by a dragon, the stone will allow it to assume human form for [sum] days, and that dragons will grant anyone bringing them such a stone a wish. Some say that that if dissolved in a perfect alcohol then drunk, it will instantly grant a wizard template to the drinker.
+
+---
+## Alchemist
+For every Alchemist template you have, gain +1 fast inventory slot (but no additional inventory). 
+
+Starting Equipment: 1 Potion of each colour (plus knowledge of making them), a miniature lab (2 slots), a knife.
+- A: Lesser Potions, Bombs
+- B: Antidotes, Chug
+- C: Explosive Infusion, 
+- D: Greater Potions
+
+**Lesser Potions**: You can turn monster corpses into extracts. Each corpse takes 10 minutes to render, and is destroyed by the process. Each HD of corpse yields one extract (no partial extractions). There are three different colors of extracts. Animal-based monsters tend to give red extracts; oozes and insects tend to give green extracts; undead monsters tend to give blue extracts. The colors correspond to the different lists of potions below. One extract can be used to make a potion. 6 can be used to learn a new potion with a month's downtime. Extracts don’t take up inventory slots. Three potions take up one inventory slot.
+
+You can only make potions that you know. It takes 10 minutes to make a potion. AoE potions can be thrown 30’ and non-AoE potions can be consumed or splashed on targets within 5’ with a Cunning Save.
+
+**Bombs**: In addition to your three starting potions, you know how to make Bombs. Throw them 30’ with a Cunning Save. Different extracts have different effects in a 5’ radius (2x2 squares)
+- **Blue**: 2d4 damage, on max damage roll targets killed reanimate as mindless killers.
+- **Red**: deals 1d6, targets killed explode for 1d4.
+- **Green**: deals 1d6 damage, targets killed are transmuted into movement-blocking, writhing vines.
+
+**Antidotes**: You are an expert in antidotes. You can turn any potion into an antidote to itself, which automatically stops ongoing effects. This does not apply to most potions that have instant effects. 
+
+**Chug**: Trough uncomfortable route practice you can drink faster than most people, especially thick and vile brews. You can consume a single potion as a free action per round.
+
+**Explosive Infusion**: You can combine your bombs and potions together. When a potion-infused bomb explodes, its effects apply to the targets. You can choose whether the potion-bomb deals damage on its creation.
+
+**Greater Potions**: You can harvest greater extracts from creatures that are HD 4 or higher (1 extract per 4 HD). It takes one greater extract to make a greater potion and 4 to learn a new greater potion. They take 10 minutes to extract and each one can be converted to 3 lesser extractions. 
+#### Potions
+Lesser Red Potions (d20)
+1 fresh blood (attracts wildlife)
+2 grease
+3 acid
+4 Flash juice (blinds within 10’, lights up 20’, and dim light 20’ if thrown)
+5 true strike (next attack guaranteed to hit)
+6 frost bomb (1d6, extinguishes nearby fires)
+7 liquid spikes (caltrops)
+8 bonfire
+9 laughing gas
+10 darkness
+11 false life
+12 paralysis
+13 strength (+3 to str score and +1 to bonus)
+14 dexterity (+3 to dex score and +1 to bonus)
+15 critical strike (if your next attack hits, treat it as a crit)
+16 jump (50' jump)
+
+Lesser Green Potions (d20)
+1 super glue
+2 pourable ice
+3 fog
+4 charm
+5 poison
+6 alarm dust (crackles when stepped on)
+7 liquid horse
+8 liquid oozeling
+9 lead legs
+10 sleep
+11 reduce person
+12 enlarge person
+13 see invisibility
+14 comprehend languages
+15 feather fall
+
+Lesser Blue Potions (d20)
+1 cure light wounds (heal 1d4-1, min 1)
+2 dash
+3 restoration (heal 1 or if negative bring to 0)
+4 anti-death potion (+4 vs death and XP drain)
+5 hide from undead (undead ignore you)
+6 mind blank
+7 endure elements (+2 to save against elemental)
+8 minor darkvision (see 15’ into darkness)
+9 minor invisibility (targets must be objects small enough to fit into your inventory)
+10 stasis
+11 alchemical iron (cold iron)
+12 anti-petrification (also works on paralysis)
+13 regeneration
+
+Greater Potions
+
+Greater Red Potions (d8)
+1 grenado (2d6, chance of exploding as bomb potion)
+2 faerie fire
+3 incendiary cloud (1d6)
+4 bigger stink cloud
+5 ultimate acid
+6 big frost bomb
+7 mr. hyde (turn into a bigger, stronger, meaner version of yourself)
+8 dispel magic
+
+Greater Green Potions (d8)
+1 invisibility
+2 webbing (as web)
+3 animate object
+4 mirror image
+5 fusion potion (requires two drinkers)
+6 water breathing
+
+Greater Blue Potions (d8)
+1 protection from fire
+2 protection from cold
+3 escape (freedom of movement 1 round)
+4 cure moderate (2d6)
+5 inflict moderate (2d6)
+6 restoration
+7 shared blood (allows two people to pool their HP as one)
