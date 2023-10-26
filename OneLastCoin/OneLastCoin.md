@@ -186,6 +186,33 @@ You gain experience through indulging in the spoils of your quests and explorati
 |   4   | 6000  |     4     |  10   |
 |  5+   | +4000 |           |  12   |
 
+## Spellcasting
+It takes 1hr to move any number of spells between your brain and a scroll, spellbook, or wand.
+
+To cast a spell, select a number of Magic Dice (MD) you wish to invest, roll them, and add the numbers together. As a wizard, you get 1 MD per Wizard template. Most spells depend on the number of (dice) invested and the (sum) they show. If you roll doubles, see the Mishap section. If you roll triples, see the Doom section.
+
+Dice that roll 1-3 return to your casting pool and can be used again that day. Dice that roll 4-6 are removed from your casting pool till you recover them via a feast.  
+### Spellbooks
+A solid volume, with thick vellum pages and a sturdy cover. Each school produces its own style. Inside, special runes and symbols trap spells inside cages of crystallized thought. Each book contains 5 spell slots. Spellbooks come in a waterproof, acid- and fire-resistant bag. Outside the bag, they are not waterproof. They are flammable. Each book is worth 100gp even if it contains no spells. 
+### Scrolls
+A page from a spellbook, effectively, but with some extra magic built in. If you cast a spell from a scroll or spellbook, without moving it to a spellslot first,  you burn the scroll adding +1 MD to your roll. This MD does not return to your pool. You can generate Mishaps and Dooms while using a scroll. A blank scroll is worth 10gp.
+### Wands
+Wands are like scrolls, but customized for quick use, concealment, and rapid reuse. A wand has a number of banked MD. You can spend these MD when you cast a spell from a wand, but you can't add in your own MD. These MD do not return to your pool (or the wand's pool). It takes the standard 1hr to load a spell from your brain or spellbook into a wand. Using a wand can generate Mishaps and Dooms.  
+  
+You can choose, when you move a spell, to try to invest 1 MD into the wand. You take d6 damage from the strain but the MD invested in the wand is permanently added to the wand's MD bank.
+  
+Most wands can only accept 4 banked MD and 1 spell. Larger wands, called staves, can hold up to 6 banked MD and up to 3 spells. Wands are traditionally made from the wood of lightning-struck trees.
+
+Non-spellcasters can use wands. If they suffer a Mishap, use the table from the school that prepared the wand. If they suffer a Doom, the automatically suffer the Third Doom from the wand's school, which usually means instant death.  
+### Identifying Magic
+Wizards can smell magic in the air. By tasting, rubbing, or closely inspecting an item, you can tell if it is magic. You may need to test the item to determine what type of magic. You can Save Cunning to see if you can learn anything else about the item without testing it.  
+### Mishaps
+If you roll doubles while casting a spell, roll on your school's mishap table. Unless otherwise specified, the spell still works. Magic is dangerous; this was just a hiccup or misfire.  
+### Dooms
+If you roll triples while casting a spell, one of your school's Dooms takes effect. Each school has 3 dooms. The third doom is invariable fatal or worse. All wizards walk a dangerous path. The burn their souls like candles, and in doing so, court damnation.
+
+You suffer your dooms in chronological order. Dooms may only be reversed with the most difficult of tasks i.e. Bathing in fresh dragon's blood, consume the heart of a fae prince, or signing a devilish pact with some questionable fine print.
+
 ## Exploring
 ### Watches
 Days spent Traveling are split into 6 Watches. Your Guide rolls an Omen each Watch and an Omen rolled twice in a journey becomes an Encounter.
@@ -285,32 +312,9 @@ When making an attack while impaired your damage die becomes a d4. While Bolster
 Raised shields reduce damage by their roll but splinter on a max roll.
 ### Zones
 When combat starts the Table will divide the location into at least 3 Zones. Each zone signifying a sort of Landmark in the area.
-## Spellcasting
-It takes 1hr to move any number of spells between your brain and a scroll, spellbook, or wand.
+### Fleeing
+If the party agrees to flee then bar dire circumstances they escape. Each character that escaped suffers 2d6 Fatigue. They may attempt to throw treasure, food, or obstacles in the way of the enemy to avoid Fatigue. Fleeing in this way leaves any fallen or captured ally behind, unless you are holding the fallen and have the slots to do so. The average person is 6 Slots and dragging allows you to ignore their encumbrance.
 
-To cast a spell, select a number of Magic Dice (MD) you wish to invest, roll them, and add the numbers together. As a wizard, you get 1 MD per Wizard template. Most spells depend on the number of (dice) invested and the (sum) they show. If you roll doubles, see the Mishap section. If you roll triples, see the Doom section.
-
-Dice that roll 1-3 return to your casting pool and can be used again that day. Dice that roll 4-6 are removed from your casting pool till you recover them via a feast.  
-### Spellbooks
-A solid volume, with thick vellum pages and a sturdy cover. Each school produces its own style. Inside, special runes and symbols trap spells inside cages of crystallized thought. Each book contains 5 spell slots. Spellbooks come in a waterproof, acid- and fire-resistant bag. Outside the bag, they are not waterproof. They are flammable. Each book is worth 100gp even if it contains no spells. 
-### Scrolls
-A page from a spellbook, effectively, but with some extra magic built in. If you cast a spell from a scroll or spellbook, without moving it to a spellslot first,  you burn the scroll adding +1 MD to your roll. This MD does not return to your pool. You can generate Mishaps and Dooms while using a scroll. A blank scroll is worth 10gp.
-### Wands
-Wands are like scrolls, but customized for quick use, concealment, and rapid reuse. A wand has a number of banked MD. You can spend these MD when you cast a spell from a wand, but you can't add in your own MD. These MD do not return to your pool (or the wand's pool). It takes the standard 1hr to load a spell from your brain or spellbook into a wand. Using a wand can generate Mishaps and Dooms.  
-  
-You can choose, when you move a spell, to try to invest 1 MD into the wand. You take d6 damage from the strain but the MD invested in the wand is permanently added to the wand's MD bank.
-  
-Most wands can only accept 4 banked MD and 1 spell. Larger wands, called staves, can hold up to 6 banked MD and up to 3 spells. Wands are traditionally made from the wood of lightning-struck trees.
-
-Non-spellcasters can use wands. If they suffer a Mishap, use the table from the school that prepared the wand. If they suffer a Doom, the automatically suffer the Third Doom from the wand's school, which usually means instant death.  
-### Identifying Magic
-Wizards can smell magic in the air. By tasting, rubbing, or closely inspecting an item, you can tell if it is magic. You may need to test the item to determine what type of magic. You can Save Cunning to see if you can learn anything else about the item without testing it.  
-### Mishaps
-If you roll doubles while casting a spell, roll on your school's mishap table. Unless otherwise specified, the spell still works. Magic is dangerous; this was just a hiccup or misfire.  
-### Dooms
-If you roll triples while casting a spell, one of your school's Dooms takes effect. Each school has 3 dooms. The third doom is invariable fatal or worse. All wizards walk a dangerous path. The burn their souls like candles, and in doing so, court damnation.
-
-You suffer your dooms in chronological order. Dooms may only be reversed with the most difficult of tasks i.e. Bathing in fresh dragon's blood, consume the heart of a fae prince, or signing a devilish pact with some questionable fine print.
 ## Equipment
 
 | Adventuring Gear | Cost (gp) |
@@ -382,14 +386,17 @@ You suffer your dooms in chronological order. Dooms may only be reversed with th
 | Dog           |  1   | 20  |
 | Hawk          |      | 15  |
 | Hog/Sheep     |  1   | 10  |
-| Horse (Draft) |  3   | 50  |
-| Horse (War)   |  4   | 100 |
+| Horse (Draft) |  3   | 75  |
+| Horse (War)   |  4   | 125 |
 
 | Accessories  |   Tack   |   GP   |
 | ------------ |:--------:|:------:|
 | Barding      |    1     |   40   |
 | Saddle       |    2     |   25   |
 | Bags         |    1     |   5    |
+
+- Bags grant 3 slots to a creature.
+- Saddles can carry any medium creature or 2 small creatures.
 
 | Vehicles   | Tack | GP  |
 | ---------- |:----:|:---:|
