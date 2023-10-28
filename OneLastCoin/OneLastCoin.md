@@ -27,7 +27,7 @@ Easy = 0 | Medium = 4 | Hard = 6 | “Impossible” = 8
 |   2   | Gnome     | Invisible while holding breath and eyes closed | Punch those who side eye you |
 |  3-4  | Halfling  | Re-roll a roll of 20, keep result              | Eat twice as much            |
 |  5-7  | Foulkn    | Detect undead as a chill                       | -4 vs mutations              |
-|  8-9  | Orc       | Roll 4d3 on a Deathroll                        | Hated by the Authority       |
+|  8-9  | Orc       |                                                | Hated by the Authority       |
 | 10-11 | Dwarrow   | Start with Wrote known                         | Sink like a stone            |
 |  12   | Beastfolk | -                                              | -                            |
 

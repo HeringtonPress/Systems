@@ -294,7 +294,7 @@ Starting Equipment: 1 Potion of each colour (plus their recipe), a miniature lab
 - C: Explosive Infusion
 - D: Greater Brews
 
-**Lesser Brews**: You can turn monster corpses into extracts. Each corpse takes 10 minutes to render and is destroyed by the process. Each HD of corpse yields one extract (no partial extractions). There are three different colours of extracts. Animal-based monsters tend to give red extracts; oozes and insects tend to give green extracts; undead monsters tend to give blue extracts. The colours correspond to the different lists of brews below. One extract can be used to make a brew. 6 can be used to learn a new brew with a month's time. Extracts don’t take up inventory slots as long as you have a miniature lab. Three brews take up one inventory slot but can only be stacked with brews of the same colour.
+**Lesser Brews**: You can turn monster corpses into extracts. Each corpse takes 20 minutes to render and is destroyed by the process. Each HD of corpse yields one extract (no partial extractions). There are three different colours of extracts. Animal-based monsters tend to give red extracts; oozes and insects tend to give green extracts; undead monsters tend to give blue extracts. The colours correspond to the different lists of brews below. One extract can be used to make a brew. 6 can be used to learn a new brew with a month's time. Extracts don’t take up inventory slots as long as you have a miniature lab. 2 brews take up 1 inventory slot but can only be stacked with brews of the same colour.
 
 You can only make brews that you know the recipe for. It takes 10 minutes to make a brew. Brews with the throwable tag can be thrown 30’ and and all brews can be consumed or splashed on targets within 5’. Throwing or Splashing a brew requires a Cunning Save.
 
@@ -309,7 +309,7 @@ You can only make brews that you know the recipe for. It takes 10 minutes to mak
 
 **Explosive Infusion**: You can combine your bombs and brews together. When a brew-infused bomb explodes, its effects apply to the targets. You can choose whether the brew-bomb deals damage on its creation.
 
-**Greater Brews**: You can harvest greater extracts from creatures that are HD 4 or higher (1 extract per 4 HD). It takes one greater extract to make a greater brew and 4 to learn a new greater brew. They take 10 minutes to extract and each one can be converted to 3 lesser extractions. 
+**Greater Brews**: You can harvest greater extracts from creatures that are HD 4 or higher (1 extract per 4 HD). It takes one greater extract to make a greater brew and 4 to learn a new greater brew. They take 20 minutes to extract and each one can be converted to 3 lesser extractions. 
 #### Brews
 
 | d20 | Lesser Red Brews                                                 |
@@ -362,6 +362,7 @@ You can only make brews that you know the recipe for. It takes 10 minutes to mak
 |  9  | minor invisibility (targets must be objects small enough to fit into your inventory) |
 | 10  | stasis                                                                               |
 | 11  | alchemical iron (cold iron)                                                          |
+|     | Toxin (Next attack is Bolstered, only green extract enemies)                         |
 | 12  | anti-petrification (also works on paralysis)                                         |
 | 13  | regeneration (Slow and requiring multiple doses)                                     |
 |     |                                                                                      |
@@ -543,3 +544,32 @@ Alchemists hotly contest claims that they are merely hiring small ugly(er) gobli
 But what does it do?!? Some say that when crushed and mixed with a pound of lead, it will generate a pound of gold. Some say that if put in the mouth of a creature that recently died (no more than a week ago), the creature will be resurrected. Some say that if shallowed by a dragon, the stone will allow it to assume human form for [sum] days, and that dragons will grant anyone bringing them such a stone a wish. Some say that that if dissolved in a perfect alcohol then drunk, it will instantly grant a wizard template to the drinker.
 
 ---
+
+
+## Deserter
+Starting Equipment: Light armour, a shield bearing your former affiliation, a hefty weapon, a weight on your conscience, good boots, an extra 10 coins.
+- You get an additional +1 HP at A and C.
+- **A:** Fleet of Foot, Basic Training, Parry  
+- **B:** Well-Travelled, Notches
+- **C:** Unperturbed, Good Boots
+- **D:** Danger Sense
+
+**Parry**: You may raise any weapon as a shield. Reducing damage with the weapons die the weapon breaking on a maximum roll. When a Magic Weapon would break in this way make an Allure Save to attempt to save it.
+
+**Fleet of Foot:** When running away from a fight you suffer half Fatigue. 
+
+**Basic Training:** You have advantage on rolls during combat to do things other than directly attack.
+
+**Notches**: Each time you attain a total of 10, 20, 30, and 50 kills with a weapon type (such as 10 kills with a dagger), you unlock a new ability for that weapon, chosen from the list below.
+
+- +1 Damage
+- Expanded critical range (+1)
+- Special ability (negotiated with GM, one per weapon). Examples: ability to draw the weapon from any slot, knock a target prone on a critical, wield a two-handed weapon in one hand, gain a bonus to use the weapon as a tool, etc.
+
+**Well-Travelled:** You've been everywhere since you ran away. You can read road signs in any language, and have a 2-in-6 chance of knowing a single fact about any object, creature, or person of importance that you encounter.
+
+**Unperturbed:** You've seen a lot, both before and after you defected. You have advantage on saves against fear, and so do your allies if you roll and succeed first.
+
+**Good Boots**: You also suffer 1 less Stress as if you where on a mount, this does not stack if you have a mount.
+
+**Danger Sense:** You have a good nose for when things are about to go south. You can't be surprised, and can make a free attack at the start of combat at someone or something CLOSE, regardless of initiative.
