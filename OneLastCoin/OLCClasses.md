@@ -573,3 +573,97 @@ Starting Equipment: Light armour, a shield bearing your former affiliation, a he
 **Good Boots**: You also suffer 1 less Stress as if you where on a mount, this does not stack if you have a mount.
 
 **Danger Sense:** You have a good nose for when things are about to go south. You can't be surprised, and can make a free attack at the start of combat at someone or something CLOSE, regardless of initiative.
+
+### Gun Priest
+**Starting equipment:** a copy of the Book, a vial of anointing oil, a long coat, a priest's shirt & collar, and a gun.
+- **A:** Ordained, Gunslinger, Holy Books  
+- **B:** Blessings on this House, Set Those Sinners Free  
+- **C:** Arbiter, Confessor's Gaze  
+- **D:** Anointing Ritual, Wrestle with G_d    
+- +1 to missfire score every 2 templates.
+
+**(A) Ordained**  
+You're a priest, and everyone knows it. You can wed couples, give the dead their last rites, bless newborns, administer rituals, hear confessions, create holy water or oil, open and close feast days, and pronounce religious judgement.
+
+If you're lost on the road, people will likely house and feed you for a night, and then give you directions the next morning. People will actively look to you for advice and counsel, and will usually listen when you offer it.  
+
+Most of the time, this just works; both the law and common people recognize you as a priest, so it's rare to get many questions. If there's a question or risk involved in your priestly duties—say, counselling a young couple to not get married too early, or declaring a much-loved townsperson to be a sinner—you have a 3-in-6 chances of success, which increases by +1-in-6 per additional template.  
+
+This also means that unless you take specific measures otherwise, pretty much everyone (like, say, a heretical Inquisition, or a demon in disguise) will spot you as a priest instantaneously.  
+
+**(A) Calculated**
+Spend and action aiming and calculating your shot. Next time you attack with a firearm the first damage dice explode on a 1-2. Aimed shot may be stacked up to a 1-4.
+
+**(A) Holy Books**  
+Every template, you learn one of the randomly-chosen Holy Books contained within the Book itself. This provides some benefit on its own, but it also means that if you're ever in a theological debate that concerns, that Holy Book, you have a significant advantage.  
+  
+If you roll a duplicate, choose the Book above or below it.  
+
+**(B) Set Those Sinners Free**
+You may inscribe a bullet with a sin. Bullets inscribed in this way deal an additional 1d8 (doesn't explode) and doesn't allow bolstered damage. These bullets take up 4 per slot.
+
+Inscribed bullets can kill creatures that are normally immune to mundane death (Ghosts, demon, undead.)
+
+**Piercing Shot**
+Whenever a damage die would explode you can forgo adding it to the current damage and instead deal damage to someone behind your target.
+
+**(C) Arbiter**
+Fire a shot off into the air. As long as this is the first firearm shot of the combat you force all enemies to make a moral check. If the leader of the enemies fails a check you can demand parley instead of them fleeing.
+
+**(C) Confessor's Gaze**
+You may stare down an sapient creature you suspect of sin. Make an Allure save minus the creature HD. If you succeed you break them, they confess. If you fail they become frustrated with you. This could close doors or lead to fights.
+
+**(D) Anointing Ritual**  
+You can ritually anoint your gun. This ritual takes six hours, and requires the following things:  
+- Your gun
+- An inscribed bullet
+- A circle of salt
+- Anointing oil, enough for your gun, hands, and head
+- The bones of a saint
+- A complete chapter of the Book, memorized
+- The light of the full moon, or the dark of no moon
+
+After being ritually anointed, if the first shot fired from your gun is the inscribed bullet hitting its target, that target instantly dies. If you fire a shot before then, or if you miss, or if you reach a full moon or no moon without firing, the ritual's power is lost. 
+
+**(D) Wrestle with God**
+When you spend an hour praying for guidance. When you do, roll Allure, on a success a divine agent (disguised as a bum) approaches and engages you in an unarmed fight. If you win the fight, unarmed, you get the answer to you question.
+
+#### Holy Books
+These are just twelve of the Holy Books contained within the Book itself. Included with each is a sample verse.
+
+1. **The Book of St. Uriathas.** _"Uriathas cried out, for his three daughters lay dead around him. After one hour had passed and Uriathas yet wept, G_d sent the ghosts of his daughters to comfort him in the time of his mourning. Upon seeing them, Uriathas wept all the more, for he felt as though his life had lost its purpose."_  
+        --Uriathas 6:4–6  
+    When you kill a sinner, you learn one memory of theirs relating to the sin you killed them for.
+2. **The Book of Exhortations.** _"Do not suffer the liars and charlatans in your towns. When you encounter a liar, take his tongue from his mouth and nail it to his left hand."_  
+        --Exhortations 11:2  
+    You know a lie when you hear it.
+3. **The Epistle to the Brevant.** _"If a friend comes to your door in the darkest hour of night begging for food and water, do you turn them away? No! You open your door and feed your friend. This is how you should treat all those who come to you, no matter their cloth."_  
+        --Brevant 10:24  
+    Once per 1d6 days, you can bless a meal to feed ten times the number of people it should.
+4. **The Book of Belisaria.** _"And Belisaria touched the leper with her second and fifth fingers, and the leprosy was removed from his body. At that same moment, his eyes burst with flame, and his palms became like a furnace, and all the crowd around him ran with fear."_  
+        --Belisaria 20:16–17  
+    When you heal (from magic or rest), heal [templates] extra HP.
+5. **The Book of St. Khoresh.** _"'Speak not unto me!' he said with a loud voice. And as he did so, the roof of the house they were in began to quake and tremble, and all the multitudes wailed, for they thought they would surely perish. "_  
+        --Khoresh 1:15  
+    When you need to, your voice can carry over nearly any distance; when you speak to a crowd, they all understand you, even if they don't speak your language.
+6. **The Books of 1st & 2nd Archons.** _"Trust in G_d. Do this, and you shall know peace, and all that you need shall be provided unto you."_  
+        --2 Archons 31:19  
+    If you have no more bullets and you desperately need one, there will be a single bullet in the chamber.
+7. **The Litany of Calaginosus.** _"'Woe unto the plague-bringers!' shouted Calaginosus. 'Woe unto the dwellers in our Mother's Hall! Woe unto all who defy the Prophets!'"_  
+        --Lit. Calaginosus 4:4  
+    When you blow someone's brains out, any opponents within earshot must immediately make a Morale check, suffering -2 to the 2d6 roll (or appropriate). 
+8. **The Book of St. Dunstan.** _"Remain ever vigilant and ever watching. Do not trust those who come to your house with smiles and delights, for they hide serpents in their robes."_  
+        --Dunstan 8:12  
+    You cannot be surprised in combat.
+9. **The Hymn of Karnassa.** _"Ash and oak, elm and fir, yew and alder. See all the bounty of the world that our divine G_d has given unto us? How can Hell stand against the might of Heaven and Earth?"_  
+        --H. of Karnassa 2:33  
+    You gain +2 to saves against fear and mind control.
+10. **The Book of the Cataclysm.** _"When the storms of G_d come, and fire and ice rain from the sky, then you shall know the words of the Prophets as true."_  
+        --Cataclysm 25:18  
+    So long as you have your priest's collar on, you have advantage against the effects of very cold and very hot weather.
+11. **The 1st & 2nd Epistle to the Synniots.** _"Hear me, Theophiloi, when I speak these words unto you: 'The works of G_d may seem impossible to you, but they are not. Through iron faith, all things may yet come to pass.' And the Synniots rejoiced upon reading these words, for their star had not yet abated."_  
+        --1 Synniots 14:8–9  
+    Once every 1d10 days, you can re-roll a single d20 roll.
+12. **The Book of St. Yrsa.** _"Do not dwell in darkness, but embrace the light of truth. Fear neither sun nor fire, but welcome both into your hearts."_  
+        --Yrsa 7:21  
+    After firing your gun, light hangs from where the muzzle flashed for 1 hour.

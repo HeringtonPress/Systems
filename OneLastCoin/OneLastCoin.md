@@ -47,7 +47,7 @@ You know Common and one additional Language for every 2 Cunning above 8. If your
 - **JOTUNG**: Travels far, sounds like nature.
 - **FAELUL**: Understood by plants & animals.
 - **GOBTOK**: Lingers on the air for days, putrid smell.
-
+- **LIGHTLENT**: The tongue only travels through shadow.
 ## Inventory Slots
 
 | Can contain:   | 1 Stress   | 1 medium weapon  |
@@ -327,7 +327,7 @@ If the party agrees to flee then bar dire circumstances they escape. Each charac
 | Chisel           |     5     |
 | Crowbar          |    10     |
 | Drill            |    10     |
-| Fire Kit         |     2     |
+| Fire Kit (4)     |     4     |
 | Fishing Gear     |    10     |
 | Marbles          |     5     |
 | Glue             |     5     |
@@ -439,4 +439,4 @@ Armour takes up an amount of slots equal to the bonus it grants to Defense.
 | ------- |:---------:|:----:|
 | Buckler |    d4     |  4   |
 | Shield  |    d6     |  10  |
-| Tower   |    d8     |  18  |
+| Tower   |    d8     |  20  |
