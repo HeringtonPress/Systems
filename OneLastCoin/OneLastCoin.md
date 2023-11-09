@@ -309,7 +309,7 @@ Attacks may become Impaired by circumstances within the fiction. I.e. fighting w
 
 When making an attack while impaired your damage die becomes a d4. While Bolstered add a d6 to the damage roll.
 ### Sunder Shields
-Raised shields reduce damage by their roll but splinter on a max roll.
+Raised shields reduce damage by their roll but splinter on a max roll. When a shield splinter's it's die size decreases as a UD.
 ### Zones
 When combat starts the Table will divide the location into at least 3 Zones. Each zone signifying a sort of Landmark in the area.
 ### Fleeing
@@ -406,8 +406,9 @@ If the party agrees to flee then bar dire circumstances they escape. Each charac
 ### Weapons and Armour
 #### Wielding Weapons
 If no type is noted assume the weapon uses one hand and has no other restrictions. If wielding more then one weapon at a time roll both dice and use the higher.
+**Hand** weapons require one hand. Two hand weapons can share a Slot.
 **Hefty** weapons require one hand. Only one Hefty item can be wielded at once.
-**Long** weapons require both hands and are Impaired in confined environments.
+**Long** weapons require both hands. They take up two slots and are Impaired in confined environments.
 **Slow** weapons take an action to ready after an attack. They are also Long.
 
 | Weapon       | Damage | Tags       | Cost |
@@ -425,7 +426,7 @@ If no type is noted assume the weapon uses one hand and has no other restriction
 ##### Specialty Weapons
 Take an existing weapon with and establish what it was made for. When you are bolstered in that way gain +d8 instead of +d6 to damage. Ordering a weapon this way increases it's cost by 2x.
 
-#### WEARING ARMOUR
+#### Wearing Armour
 Armour takes up an amount of slots equal to the bonus it grants to Defense.
 
 | Armour  | Defense Bonus | Cost |
