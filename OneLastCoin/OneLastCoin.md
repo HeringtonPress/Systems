@@ -223,6 +223,8 @@ Easy = 0 | Neutral = 1 | Difficult = 2 | Treacherous = 3
 
 **SEARCH** a hex. 2-6 chance for each hidden feature of the Hex. 4-6 with direction.
 
+**SCOUT** Spend a watch patrolling the borders of a Hex. See the terrain of neighboring hexes.
+
 **CONFRONT** an Omen or roll a new encounter.
 
 **MAKE CAMP**. Watches taken in camps don’t roll Omens.
