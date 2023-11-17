@@ -1,19 +1,13 @@
 # Skills
 Acrobatics
 
-Acting
+Acting(lying)
 
 Alchemy
 
 Animal Handling
 
-Architecture
-
-Area Knowledge
-
-Armory
-
-Artist
+Area Knowledge†
 
 Biology
 
@@ -33,11 +27,7 @@ Cooking
 
 Cryptography
 
-Current Affairs
-
 Detect Lies
-
-Diagnosis
 
 Diplomacy
 
@@ -52,8 +42,6 @@ Escape
 Expert Skill
 
 Fast-Talk
-
-Filch
 
 First Aid
 
@@ -91,17 +79,11 @@ Medicine
 
 Mimicry
 
-Naturalist
-
 Navigation
-
-Observation
 
 Occultism
 
 Performance
-
-Pickpocket
 
 Professional Skill
 
@@ -119,15 +101,13 @@ Search
 
 Sex Appeal
 
-Sleight of Hand
-
-Speed-Reading
+Sleight of Hand (Sleight of Hand, Pickpocket, Filch)
 
 Stealth
 
 Streetwise
 
-Survival
+Survival (Naturalist)
 
 Swimming
 
@@ -141,8 +121,6 @@ Theology
 
 Writing
 
-
-
 # Weapons
 Axe/Mace - DX/A
 
@@ -154,7 +132,7 @@ Crossbow - DX/E
 
 Flail - DX/H
 
-Gun† (Pistol, Rifle) - DX/E
+Gun† (Sidearm, Longarm) - DX/E
 
 Innate Attack† (Beam, Breath, Gaze, Projectile) - DX/E
 
@@ -176,14 +154,10 @@ Spear/Staff - DX/A
 
 Sword - DX/A
 
-
-
 # Techniques
 You (or your GM!) may want a way to improve your ability with a specific application of a skill without increasing the overall skill level. Allowing this in the game makes play (and character sheets) more complex. As a result, the following section is purely optional.
 
 You need not buy a technique to use it. If you have even one point in a skill, you may use all that skill’s techniques at default. To avoid a cluttered character sheet, though, only note techniques that you know at better than default level.
-
-
 
 Blind Fighting - Per/VH
 

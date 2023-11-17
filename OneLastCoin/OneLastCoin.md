@@ -62,7 +62,7 @@ You begin play with 8 Slots and 2 additional QUICK-DRAW Slots. You gain 2 more s
 
 Characters have a number of Flesh points equal to 1/2 their Brawn, rounded up. Characters have a variable amount of Grit based on what they eat (see "Leveling" below).  
 
-You die when they have less Flesh points then -Brawn .  
+You die when they have less Flesh points then -Half Brawn.  
 
 If you're in the negatives Flesh-wise but not dead, a character can perform **first aid**. This is a Cunning Save. If successful, the character is restored to 1 Flesh and gains a number of Fatigue points equal to the negative value that was healed.
 
@@ -217,7 +217,7 @@ You suffer your dooms in chronological order. Dooms may only be reversed with th
 ### Watches
 Days spent Traveling are split into 6 Watches. Your Guide rolls an Omen each Watch and an Omen rolled twice in a journey becomes an Encounter.
 ### Actions
-**MOVE** a hex and see all non-hidden features in it. Receiving Stress based on the difficulty of the terrain.
+**MOVE** a hex and see all non-hidden features in it. Receiving Fatigue based on the difficulty of the terrain.
 
 Easy = 0 | Neutral = 1 | Difficult = 2 | Treacherous = 3
 
@@ -227,7 +227,9 @@ Easy = 0 | Neutral = 1 | Difficult = 2 | Treacherous = 3
 
 **MAKE CAMP**. Watches taken in camps don’t roll Omens.
 
-**SLEEP** for 2 watches, removing all Stress. Going a day without sleep gets you one fewer watch the next day.
+**REST** Spend a watch resting and eating.
+
+**DELVE** Unless obviously more time is taken, Delving into and exiting a dungeon takes a Watch.
 ### Mounts & Vehicles
 Mounts and Vehicles reduces Stress from moving by 1.
 
@@ -249,8 +251,11 @@ Some more facts about the Underclock:
 - If the Underclock drops below 0, an Encounter is triggered.  After the Encounter resolves, the Underclock resets to 20.
 - If the Underworld Clock equals 0 exactly, it resets to 3.  The Underworld's attention is elsewhere, momentarily.
 - If the Underworld Clock equals 3, a Omen occurs.
+
+### Confront the Clock
+
 ### Resting
-You can rest at any time. Whether to quickly eat a ration or cook a feast.
+While eating a ration is just a turn. Resting and cooking a feast takes some time.
 You’ll have to roll some Underclock Rolls.
 - If you are resting in the middle of a well-traveled location, make 3 rolls.
 - If you are in a secret room that no one else knows about, you don’t need to make any rolls.

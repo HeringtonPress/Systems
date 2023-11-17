@@ -1,5 +1,5 @@
 # Equipment
-All characters can use their starting money to outfit themselves. Any magical gear must be run by the GM before being bought as starting gear though really anything bought should be as well.
+All characters can use their starting money to outfit themselves. Any magical gear must be run by the GM before being bought as starting gear.
 ## Encumbrance
 Encumbrance and Move
 “Encumbrance” is a measure of the total weight you are carrying, relative to your ST. The effects of encumbrance are divided into five “encumbrance levels.” All but the lowest level will reduce your actual Move to a fraction of your Basic Move and give a penalty to Dodge, as follows:
@@ -110,7 +110,6 @@ The skill is bought as if it where DX-5
 | or      | thr+3 imp | 1-3*  | 0U    |      |        | 12‡ |       |
 
 ## RAPIER (DX-5, Sword-4)
-Successive parries suffer a -2 instead of -4
 
 | Weapon       | Damage    | Reach | Parry | Cost   | Weight | ST  | Notes |
 | ------------ | --------- | ----- | ----- | ------ | ------ | --- | ----- |
@@ -119,7 +118,6 @@ Successive parries suffer a -2 instead of -4
 | Main-Gauche  | sw-3 imp  | C, 1  | 0F    | $50    | 1.25   | 6   |       |
 | or           | thr imp   | C     | 0F    |        |        | 6   |       |
 | Rapier       | thr+1 imp | 1, 2  | 0F    | $500   | 2.75   | 9   |       |
-
 
 ## SHIELD (DX-4)
 
@@ -166,7 +164,7 @@ Successive parries suffer a -2 instead of -4
 [1] Can be thrown with a range of ST x1/x1.5 and a bulk of -4. 
 
 [2] Any attack that injures an enemy embeds your weapon. If your victim tries to move away, roll a Quick Contest of ST: If you lose, your weapon is pulled from your grasp! If you win, your enemy can’t move. A tie means the weapon comes free.
-At the start of your next turn, you must either relinquish your weapon, leaving it stuck in your foe, or try a ST roll as Ready maneuver. A successful ST roll pulls your weapon free. Failure leaves it embedded. If the weapon comes free for any reason, it inflicts half the injury it did going in. Critical failure on any of your ST rolls means the weapon is till after the battle.
+At the start of your next turn, you must either relinquish your weapon, leaving it stuck in your foe, or try a ST roll as Ready maneuver. A successful ST roll pulls your weapon free. Failure leaves it embedded. If the weapon comes free for any reason, it inflicts half the injury it did going in. Critical failure on any of your ST rolls means the weapon is stuck till after the battle.
 
 [3] This attack receives damage bonuses per die based on your brawling skill.  +1 if you know it at DX, +2 if you know it at DX+2. Claws don’t affect damage with blows assisted by weapons.
 
@@ -177,8 +175,7 @@ At the start of your next turn, you must either relinquish your weapon, leaving 
 [6] Kicks have a -2 to hit.
 
 [7] Specify maximum reach (1-7 yards) when bought. Cost and weight are per yard. The whip requires ST 3, +1 per yard. Anyone injured on the arm by a whip must roll Against Will modified by the shock penalty for the injury or drop anything in that hand.
-
-You can “crack” a whip at -4 to hit, for +2 damage. Make this a technique.
+You can “crack” a whip at -4 to hit, for +2 damage.
 # Ranged Weapon Tables
 ## Reloading
 The parenthetical number represents the number of ready actions needed to reload. 
@@ -212,6 +209,20 @@ Range is (ST + Skill/5); round down. Can also be held and used as a melee weapon
 | Weapon | Damage | Acc | Range | Weight | Cost | ST  | Bulk |
 | ------ | ------ | --- | ----- | ------ | ---- | --- | ---- |
 | Net    | -      | 1   | Spec. | 5      | $20  | 8   | -4   |
+
+## Sidearm (DX-4)
+Requires two hands to reload, but only one hand to fire.
+
+| Weapon    | Damage   | Acc | Range  | Weight   | Shots  | Cost | ST  | Bulk |
+| --------- | -------- | --- | ------ | -------- | ------ | ---- | --- | ---- |
+| Pepperbox | 1d pi    | 1   | 40/420 | 1.9/0.06 | 4(20i) | $325 | 7   | -3   |
+| Pistol    | 2d-1 pi+ | 1   | 75/450 | 3/0.01   | 1(20)  | $200 | 10  | -3   |
+
+## Longarm (DX-4)
+
+| Weapon | Damage  | Acc | Range     | Weight  | Shots | Cost | ST  | Bulk |
+| ------ | ------- | --- | --------- | ------- | ----- | ---- | --- | ---- |
+| Musket | 4d pi++ | 2   | 100/1,500 | 13/0.15 | 1(15) | $325 | 10† | -6   |
 
 ## SLING (DX-6)
 Requires two hands to ready, but only one hand to attack.
