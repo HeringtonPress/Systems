@@ -6,6 +6,18 @@ The basic mechanic of GURPS is the success roll against a skill or attribute. To
 Sometimes two characters are competing to do something very quickly – for instance, two enemies lunging for a gun. This is called a quick contest. Each competitor attempts a success roll. If one succeeds and the other fails, the winner is obvious. If both succeed, the winner is the one with the largest margin of success. If both fail the winner is the one with the smallest margin of failure. A tie means no one won – it's up to the GM to determine what happened.
 ## Reaction Rolls
 If the PCs encounter a non-player character (NPC) whose relationship to the PCs has not already been determined, the GM may roll 3d6 for a reaction. On a roll 6 or below, the NPC is hostile and works against the PCs. A roll of 7-14 is neutral – he might talk and barter, but won't help. A roll of 15-18 is friendly, and means he actively helps the PCs. A reaction roll may be used as an immediate way to see how an NPC will interact with a character but should also be used after a question is asked or a conversation had.
+
+## Influence Rolls
+An “Influence roll” is a deliberate attempt to ensure a positive reaction from an NPC. A PC with an appropriate “Influence skill” can always elect to substitute an Influence roll for a regular reaction roll in suitable circumstances.
+
+Decide which Influence skill you are using: Diplomacy, Fast-Talk, Intimidation, Savoir-Faire, Sex Appeal, or Streetwise. Choose wisely! The GM may allow other skills to work as Influence skills in certain situations (e.g., Expert Skill (Law), when dealing with a judge). Then roll a Quick Contest: your Influence skill vs. the subject’s Will.
+
+Modifiers: All your personal reaction modifiers (although the GM or the skill description may rule that some modifiers do not apply); any specific modifiers given in the skill description; -1 to -10 for using an inappropriate Influence skill (GM’s decision).
+
+If you win, you get a “Good” reaction from the NPC – “Very Good” if you used Sex Appeal. On any other outcome, the NPC resents your clumsy attempt at manipulation. This gives you a “Bad” reaction – “Very Bad” if you attempted intimidation. Exception: If you used Diplomacy, the GM will also make a regular reaction roll and use the better of the two reactions. Thus, Diplomacy is relatively safe.
+
+If the subject is Indomitable (p. 60), you lose automatically unless you have Empathy, Animal Empathy, Plant Empathy, or Spirit Empathy, as appropriate. Intimidation attempts against those with the Unfazeable advantage (p. 95) also fail automatically. On the other hand, you win automatically – no roll required – against those with Slave Mentality (p. 154).
+
 # Character Creation
 ## Character Points
 characters are created by spending **Character Points (CP)**. The GM will assign you a starting budget to build your character.
@@ -216,12 +228,12 @@ Each maneuver allows for a different amount of movement based on your Basic Move
 **Half Movement**: Move a number of hexes equal to half of you Basic Move rounded up. Alternatively shift from Prone to Kneeling or from Kneeling to Standing.
 
 **Step**: Move 1 hex. Alternatively you may Stand up from Kneeling.
-## Facing
+### Facing
 Whenever you have at least a step of movement you may shift your facing freely. You must always face toward one of the six hexes adjacent to your hex. Your facing defines your front, right, left, and back hexes (see illustration). Active defenses suffer a -2 when defending from the side and it is impossible to defend from the back. You may only attack into your front hexes.
 
 ![Facing](https://github.com/HeringtonPress/HeringtonPress.github.io/assets/93562930/446fa56c-2cea-482e-b27c-1c9589aa7dd0)
 
-## Posture
+### Posture
 It is always a free action to move down in posture. i.e. falling prone.
 
 **Prone**

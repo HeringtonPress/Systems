@@ -265,7 +265,7 @@ You’ll have to roll some Underclock Rolls.
 
 Fatigue gained while resting is applied after the rest.
 ### Light
-Light sources state how many people they provide for. Without enough light for everyone, roll the Underclock die twice and keep the higher result.
+Light sources state how many people they provide for. Without enough light for everyone, roll the Underclock die twice and keep the higher result. With no light at all the die size is increased as well.
 
 Whenever the Underclock die rolls, roll the usage die of any light sources lit.
 ### Doors
