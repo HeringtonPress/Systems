@@ -256,20 +256,6 @@ The GM may apply a penalty for particularly secure bonds. For instance, manacles
 
 Modifiers: +3 for Flexibility or +5 for Double-Jointed (p. 56); any bonus for Slippery (p. 85).
 
-#### Expert Skill†
-- IQ/Hard
-- Defaults: None.
-
-An Expert Skill represents cross-disciplinary knowledge of a single, narrow theme. When answering factual questions on that theme, you may substitute a roll against your Expert Skill for any IQ-based roll against any skill that has a default. Experts sometimes complement Expert Skills with related Area Knowledge skills (p. 176), but you must learn these separately.
-
-You must specialize by theme, and the GM is free to forbid any theme he feels is too broad. Some examples:
-
-Natural Philosophy: A general skill that usually replaces specific science skills for scholars. Can be used in place of any science skill (e.g., Biology or Physics) to answer questions about how the universe is believed to work.
-
-Political Science: The academic study of politics. Can substitute for Geography, History, Law, Politics, or Sociology when performing political analysis.
-
-Xenology: General knowledge of the known kin in your setting. Can substitute for Anthropology, History, Physiology, or Psychology to identify a member of a kin different from your own, or to answer general questions about the kin and its culture.
-
 #### Fast-Talk
 - IQ/Average
 - Defaults: IQ-5 or Acting-5.
@@ -290,7 +276,7 @@ This is the ability to patch up an injury in the field (see Recovery). Make a sk
 
 Modifiers: Equipment modifiers (p. 345); physiology modifiers (p. 181).
 
-#### Forgery/TL
+#### Forgery
 - IQ/Hard
 - Defaults: IQ-6.
 
@@ -446,7 +432,7 @@ Faerie Lore: You have detailed knowledge of the faeries and their secret kingdom
 
 Spirit Lore: You know about ghosts and other spirit entities – names, motivations, etc.
 
-#### Esoteric Medicine
+#### Medicine
 - Per/Hard
 - Default: Perception-6.
 
@@ -712,44 +698,58 @@ To be a priest or holy man at TL1+, you must have both Theology and Religious Ri
 You do not necessarily believe in the religion you study – faith comes from within, not from book learning! If you do, you may ask the GM to make a secret roll against your Theology skill when confronted with moral uncertainty. On a success, the GM will advise you on which course of action “feels” right, given your beliefs and understanding of scripture.
 
 # Weapons
-Axe/Mace - DX/A
+#### Axe/Mace - DX/A
+Any impact weapon, such as an axe, hatchet, knobbed club, or pick. Default: Polearm-4.
 
-Bow - DX/A
+#### Bow - DX/A
+This is the ability to use the longbow, short bow, and all similar bows.
 
-Brawling - DX/E
+#### Brawling - DX/E
+This is the skill of unarmed combat but also covers the use of saps and brass knuckles. 
 
-Crossbow - DX/E
+#### Cloak - DX/A
+This is the skill of using a cloak or a cape as a weapon. Offensively, you can use a cloak to entangle an opponent or to Feint. Defensively, a cloak works like a shield. It provides a Defense Bonus and gives a Block defense equal to (skill/2) + 3, rounded down. Default: Shield-4, or Net-4
 
-Flail - DX/H
+#### Crossbow - DX/E
+This is the ability to use all types of crossbows, including the pistol crossbow, prodd (which fires pellets or stones), and repeating crossbow. Default: Gun-3
 
-Gun† (Sidearm, Longarm) - DX/E
+#### Fencing - DX/A
+Fencing weapons are light, one-handed weapons, usually hilted blades, optimized for parrying. This includes Rapiers, Main-gauche, and some Sabers. Default: Sword-4.
 
-Innate Attack† (Beam, Breath, Gaze, Projectile) - DX/E
+#### Flail - DX/H
+Any flail or whip type weapon, such as a morningstar or nunchaku.
 
-Knife - DX/E
+#### Gun† (Sidearm, Longarm, Scatterarm) - DX/E
+This is the ability to use a hand-held chemical-propellant or mass-driver projectile weapon. Default: Crossbow-3, or Gun-2
 
-Net - DX/H
+#### Innate Attack† (Beam, Breath, Gaze, Projectile) - DX/E
+This skill represents trained ability with a “built-in” ranged attack: fiery breath, super-powered energy bolts, etc. Most commonly used for targeting with magic. Default: Innate Attack-2
 
-Polearm - DX/A
+#### Knife - DX/E
+Any rigid, hilted blade less than one foot long, from a pocketknife to a bowie knife. A knife has a very small parrying surface, which gives you -1 to your Parry score. Defaults: Rapier-3, or Sword-3.
 
-Rapier - DX/A
+#### Net - DX/H
+This is the ability to use a net as a thrown or melee weapon to trap and restrain targets. Default: Cloak-5
 
-Cloak - DX/A
+#### Polearm - DX/A
+Any very long (at least 2 yards), unbalanced pole weapon with a heavy striking head, including the glaive, halberd, poleaxe, and countless others. Polearms become unready after an attack, but not after a parry. Defaults: Spear/Staff-4, or Axe/Mace-4.
 
-Shield - DX/E
+#### Shield - DX/E
+This is the ability to use a shield, both to block and to attack. Your active defense with any kind of shield – your Block score – is (skill/2) + 3, rounded down.
 
-Sling - DX/H
+#### Sling - DX/H
+This is the ability to use a sling or staff sling.
 
-Spear/Staff - DX/A
+#### Spear/Staff - DX/A
+Any long, balanced pole weapon with a thrusting or striking head, including spears, javelins, tridents, and simple wooden poles. Defaults: Polearm-4.
 
-Sword - DX/A
+#### Sword - DX/A
+A sword is a rigid, hilted blade with a thrusting point, cutting edge, or both. All swords are balanced, and can attack and parry without becoming unready. Default: Fencing-4, or Knife-4.
 
 # Techniques
 You (or your GM!) may want a way to improve your ability with a specific application of a skill without increasing the overall skill level. Allowing this in the game makes play (and character sheets) more complex. As a result, the following section is purely optional.
 
 You need not buy a technique to use it. If you have even one point in a skill, you may use all that skill’s techniques at default. To avoid a cluttered character sheet, though, only note techniques that you know at better than default level.
-
-Blind Fighting - Per/VH
 
 Captivate - Will/H
 

@@ -283,7 +283,7 @@ The skill is bought as if it where DX-5
 | Morningstar | sw+3 cr      | 1     | 0U    | $80    | 6      | 12   | [4]     |
 | Whip        | sw-3(0.5) cr | 1-7*  | -2U   | $20/yd | 1/yd   | var. | [5][7] |
 
-## KNIFE (DX-4, Sword-3)
+## KNIFE (DX-4, Sword-3, Fencing-3)
 
 | Weapon      | Damage   | Reach | Parry | Cost | Weight | ST  | Notes |
 | ----------- | -------- | ----- | ----- | ---- | ------ | --- | ----- |
@@ -306,7 +306,7 @@ The skill is bought as if it where DX-5
 | or      | sw+4 imp  | 2, 3* | 0U    |      |        | 13‡ | [2]   |
 | or      | thr+3 imp | 1-3*  | 0U    |      |        | 12‡ |       |
 
-## RAPIER (DX-5, Sword-4)
+## Fencing (DX-5, Sword-4)
 Successive parries suffer a -2 instead of -4
 
 | Weapon       | Damage    | Reach | Parry | Cost   | Weight | ST  | Notes |
@@ -325,7 +325,7 @@ Successive parries suffer a -2 instead of -4
 | Shield Bash  | thr cr   | 1     | X     | var  | var    | -   |       |
 | Shield Spike | thr+1 cr | 1     | X     | +$20 | var    | _   |       |
 
-## SWORD (DX-5, Rapier-4)
+## SWORD (DX-5, Fencing-4)
 
 | Weapon        | Damage    | Reach | Parry | Cost   | Weight | ST  | Notes |
 | ------------- | --------- | ----- | ----- | ------ | ------ | --- | ----- |
