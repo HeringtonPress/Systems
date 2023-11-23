@@ -166,7 +166,7 @@ Modifiers are extra details about Traits that shift the overall price. Typically
 > Example: A creature with flight must pay 40 Points. If this flight is granted by wings the price is modified by -25% due to the risks and requirements of winged flight. Meaning a winged creature only needs to pay 30 points for flight.
 
 # Combat
-Combat proceeds in rounds. A round lasts one second. Each round, characters act in the order of their Basic Speed. Each player chooses a Maneuver for their character from the following list. Most characters can make only one maneuver each round.
+Combat proceeds in rounds. A round lasts one second. Each round, characters act in the order of their Basic Speed, with the highest number going first. Each player chooses a Maneuver for their character from the following list. Most characters can make only one maneuver each round.
 ## Maneuvers
 ### Basic Maneuvers
 **Move**: Use this maneuver to take Full Movement.
@@ -175,7 +175,7 @@ Combat proceeds in rounds. A round lasts one second. Each round, characters act 
 
 **Aim**: This maneuver can only be used with ranged attacks. Aim at a specific, visible enemy or point. If you attack your target with the same attack on your next turn, you may add your attack's Acc bonus to your effective skill – but if you lose sight of your enemy, make an Active Defense, change targets or change weapons, the bonus is lost. As part of your Aim you may Step.
 
-**Ready**: used for any predominantly physical activity not covered by another maneuver. Use this Maneuver to draw a weapon, pick something up, or load a ranged weapon. Some actions require multiple or even concurrent readies, such as retrieving a potion from you backpack. As part of your Ready you may Step.
+**Ready**: Used for any predominantly physical activity not covered by another maneuver. Use this Maneuver to draw a weapon, pick something up, or load a ranged weapon. Some actions require multiple or even concurrent readies, such as retrieving a potion from you backpack. As part of your Ready you may Step.
 
 **Concentrate**: Focus on a primarily mental task - Spellcasting, non combat skills, or activating an ability that requires this maneuver. If the activity takes successive Concentration you become distracted when: taking damage, making an Active Defense roll, being shoved, or making a resistance roll. You must make a Will roll at -3, failure means you lose your concentration. As part of Concentrate you may Step.
 
@@ -250,12 +250,12 @@ While standing you are unpenalized.
 Each damage rating is followed by an abbreviation indicating damage type:
 
 | Abbreviation |      Type      | Wounding Multiplier |
-|:------------:|:--------------:| ------------------- |
-|      cr      |    crushing    | x1                  |
-|     cut      |    cutting     | x1.5                |
-|     imp      |    impaling    | x2                  |
-|     pi-      | small piercing | x0.5                |
-|      pi      |    piercing    | x1                  |
+|:------------:|:--------------:|:-------------------:|
+|      cr      |    crushing    |         x1          |
+|     cut      |    cutting     |        x1.5         |
+|     imp      |    impaling    |         x2          |
+|     pi-      | small piercing |        x0.5         |
+|      pi      |    piercing    |         x1          |
 |     spec     |   see notes    |                     |
 
 Any damage that penetrates DR is multiplied by the damage type's Wounding Multiplier. A victim loses HP equal to this new sum.
@@ -281,7 +281,6 @@ Further healing requires rest. At the end of each day of rest, make a success ro
 Characters that fell unconscious automatically wake up 15 minutes after their HP becomes positive. Or an hour after receiving First Aid.
 
 **Fatigue points** can be recovered at a rate of 1 per ten minutes of rest.
-
 # Equipment
 All characters can use their starting money to outfit themselves. Any magical gear must be run by the GM before being bought as starting gear.
 ## Weapon Stats
@@ -308,7 +307,7 @@ For a melee or thrown weapon, your effective ST for damage purposes cannot excee
 
 “†” means the weapon requires two hands. If you have at least 1.5 times the listed ST (round up), you can use a weapon like this one-handed, but it becomes unready after you attack with it. If you have at least twice the listed ST, you can wield it one-handed with no readiness penalty.
 
-“‡” means the weapon requires two hands and becomes unready after you attack with it, unless you have at least 1.5 times the listed ST (round up). To use it one-handed without it becoming unready, you need at least three times the listed ST.
+“‡” means the weapon requires two hands and becomes unready after you attack with it, unless you have at least 1.5 times the listed ST (round up). To use it one-handed without it becoming unready, you need at least 3 times the listed ST.
 
 **Bows, Crossbows, and ST**: Bows and crossbows have their own ST, which you must specify when you buy such a weapon. The ST in the table is the lowest possible value. Use the weapon’s rated ST instead of your ST to determine range and damage. You can always use a weapon that’s weaker than you. You can use a stronger crossbow with no penalty, but it will take longer to cock (see Reloading).
 ## Melee Weapon Table
