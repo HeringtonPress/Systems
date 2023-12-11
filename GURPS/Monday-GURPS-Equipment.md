@@ -1,35 +1,24 @@
 # Equipment
 All characters can use their starting money to outfit themselves. Any magical gear must be run by the GM before being bought as starting gear.
 ## Weapon Stats
-### Acc (Accuracy)
-Add Accuracy to your weapon skill if you took an Aim maneuver on the turn prior to your attack. If you have Heroic Archer (p. 35) and are wielding a bow, you don’t need to Aim – add Acc to skill whenever you Attack or All-Out Attack outside of close combat!
-### Bulk
-A measure of the weapon’s size and handiness. Bulk penalizes weapon skill during a Move and Attack maneuver or in close combat.
 ### Parry
 A number, such as “+2” or “-1,” indicates the bonus or penalty to your Parry defense when using that weapon.
 - “F” means the weapon is a fencing weapon, which suffers only half the penalty for multiple parries.
 - “U” means the weapon is unbalanced: you cannot use it to parry after using it to attack on your turn (or vice versa).
 - “X” means the weapon cannot parry.
-### Range
-If a weapon has only one range number, this is the Maximum Range (Max) in hexes (yards) at which it can attack a target. If two numbers appear, separated by a slash, the first is Half-Damage Range (1/2D) while the second is Max. Nearly all ranged weapons list range as multiples of the wielder’s ST. For bows and crossbows, use the weapon’s ST in these formulas (see below in Strength).
 ### Reach
-The distance in hexes at which a melee weapon can strike; e.g., reach “2” means the weapon can only strike foes two hexes away, not closer or more distant ones. “C” indicates you can use the weapon for Close Combat, meaning in the same hex you are in.
+The distance in hexes at which a melee weapon can strike; e.g., reach “2” means the weapon can only strike foes two hexes away, not closer or farther. “C” indicates you can use the weapon for Close Combat, meaning in the same hex you are in.
 
 Some weapons have more than one reach; e.g. A spear with reach “1, 2” can strike targets either one or two hexes away. An asterisk (\*) next to reach means the weapon requires a Ready maneuver to change reach (e.g., between 1 and 2).
-
 ### ST (Strength)
 The minimum Strength needed to use the weapon properly. If you use a weapon that requires more ST than you have, you suffer -1 to weapon skill per point of ST deficit and lose one extra FP at the end of the fight.
 
-For a melee or thrown weapon, your effective ST for damage purposes cannot exceed triple the weapon’s ST statistic. For instance, a large knife has minimum ST 6, so its “maximum ST” is 18.
-
-“†” means the weapon requires two hands. If you have at least 1.5 times the listed ST (round up), you can use a weapon like this one-handed, but it becomes unready after you attack with it. If you have at least twice the listed ST, you can wield it one-handed with no readiness penalty.
+“†” means the weapon requires two hands. If you have at least 1.5xST (round up), you can use a weapon like this one-handed, but it becomes unready after you attack with it. If you have at least twice the listed ST, you can wield it one-handed with no readiness penalty.
 
 “‡” means the weapon requires two hands and becomes unready after you attack with it, unless you have at least 1.5 times the listed ST (round up). To use it one-handed without it becoming unready, you need at least 3 times the listed ST.
-
-**Bows, Crossbows, and ST**: Bows and crossbows have their own ST, which you must specify when you buy such a weapon. The ST in the table is the lowest possible value. Use the weapon’s rated ST instead of your ST to determine range and damage. You can always use a weapon that’s weaker than you. You can use a stronger crossbow with no penalty, but it will take longer to cock (see Reloading).
 ## Melee Weapon Table
 Melee weapons are grouped under the skills required to use them. Skill names appear in capital letters, with defaults in parentheses.
-### AXE/MACE (DX-5)
+### AXE/MACE (DX-5, Polearm-4)
 
 | Weapon         | Damage   | Reach | Parry | Cost | Weight | ST  | Notes |
 | -------------- | -------- | ----- | ----- | ---- | ------ | --- | ----- |
@@ -162,6 +151,14 @@ Successive parries suffer a -2 instead of -4
 - Anyone injured on the arm by a whip must roll Against Will modified by the shock penalty for the injury or drop anything in that hand.
 - You can “crack” a whip at -4 to hit, for +2 damage.
 ## Ranged Weapon Tables
+### Acc (Accuracy)
+Add Accuracy to your weapon skill if you took an Aim maneuver on the turn prior to your attack. If you have Heroic Archer (p. 35) and are wielding a bow, you don’t need to Aim – add Acc to skill whenever you Attack or All-Out Attack outside of close combat!
+### Bulk
+A measure of the weapon’s size and handiness. Bulk penalizes weapon skill during a Move and Attack maneuver or in close combat.
+### Bows, Crossbows, and ST
+Bows and crossbows have their own ST, which you must specify when you buy such a weapon. The ST in the table is the lowest possible value. Use the weapon’s rated ST instead of your ST to determine range and damage. You can always use a weapon that’s weaker than you. You can use a stronger crossbow with no penalty, but it will take longer to cock (see Reloading).
+### Range
+If a weapon has only one range number, this is the Maximum Range (Max) in hexes (yards) at which it can attack a target. If two numbers appear, separated by a slash, the first is Half-Damage Range (1/2D) while the second is Max. Nearly all ranged weapons list range as multiples of the wielder’s ST. For bows and crossbows, use the weapon’s ST in these formulas (see below in Strength).
 ### Reloading
 The parenthetical number represents the number of ready actions needed to reload. 
 
