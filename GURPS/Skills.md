@@ -274,7 +274,7 @@ Modifiers: +2 for Voice (p. 97); -3 for Low Empathy (p. 142); -1 for Oblivious (
 
 This is the ability to patch up an injury in the field (see Recovery). Make a skill roll to halt bleeding, suck out poison, give artificial respiration to a drowning victim, etc. Unusual problems may need a successful Medicine roll to diagnose.
 
-Modifiers: Equipment modifiers (p. 345); physiology modifiers (p. 181).
+Modifiers: -5 with no equipment, -2 for improvised equipment; Different Physiologies have a penalty from 0 to -5. Foulkn vs Elves -2, Foulkn vs Trolls -4, Foulkn vs Animal -5.
 
 #### Forgery
 - IQ/Hard
