@@ -142,7 +142,7 @@ Modifiers: Up to +3 for buying drinks or other entertainment for your fellow car
 
 This is the ability to climb mountains, rock walls, trees, the sides of buildings, etc. See Climbing (p. 349) for details.
 
-Modifiers: +2 for Brachiator (p. 41); +3 for Flexibility or +5 for Double-Jointed (p. 56); +1 for Perfect Balance (p. 74);  -1 for every half of max slots filled.
+Modifiers: +2 for Brachiator (p. 41); +3 for Flexibility or +5 for Double-Jointed (p. 56); +1 for Perfect Balance (p. 74);  a penalty equal to encumbrance.
 
 #### Cryptography
 - IQ/Hard
@@ -625,7 +625,7 @@ If someone is specifically on the alert for intruders, the GM will roll a Quick 
 
 You can also use this skill to stalk game. A successful roll (and about 30 minutes) gets you within 30 yards of most animals. Another roll, at -5, gets you within 15 yards.
 
-Modifiers: -1 for every half of max slots filled. -5 to hide in an area without good hiding places, or +3 or more if there are many hiding places. -5 to move silently if you are moving faster than Move 1. -5 to fool those with Discriminatory Smell (e.g., dogs).
+Modifiers: A penalty equal to your Encumbrance. -5 to hide in an area without good hiding places, or +3 or more if there are many hiding places. -5 to move silently if you are moving faster than Move 1. -5 to fool those with Discriminatory Smell (e.g., dogs).
 
 #### Streetwise
 - IQ/Average
@@ -653,7 +653,7 @@ This is the skill of swimming, whether on purpose or to keep afloat in emergenci
 
 When racing someone of equal water Move, roll a Quick Contest of Swimming to determine the winner.
 
-Modifiers: +3 if entering the water intentionally. -1 for every quarter of max slots filled.
+Modifiers: +3 if entering the water intentionally. A penalty equal to double Encumbrance.
 
 #### Tactics
 - IQ/Hard
@@ -696,6 +696,23 @@ Alternatively, you may study the similarities and differences between religions;
 To be a priest or holy man at TL1+, you must have both Theology and Religious Ritual skill (p. 217) for your religion. TL0 shamans need only learn Religious Ritual.
 
 You do not necessarily believe in the religion you study – faith comes from within, not from book learning! If you do, you may ask the GM to make a secret roll against your Theology skill when confronted with moral uncertainty. On a success, the GM will advise you on which course of action “feels” right, given your beliefs and understanding of scripture.
+
+#### Tracking
+- Per/Average
+- Defaults: Per-5 or Survival-5.
+
+This is the ability to follow a man or an animal by its tracks. Make a Tracking roll to pick up the trail, then roll periodically to avoid losing it. The frequency and difficulty of these rolls depend on the terrain:
+
+- Jungle, Plains, or Woodlands: Roll every 30 minutes.
+- Arctic, Desert, Island/Beach, or Mountain: Roll at -2 every 15 minutes.
+- Swampland: Roll at -4 every 5 minutes.
+- Urban: Roll at -6 every minute!
+
+You may also use this skill to cover your tracks. This doubles your travel time! A successful roll means you have hidden your tracks well enough that only someone else with this skill can see them. If another tracker follows you, the Tracking rolls above become Quick Contests of Tracking skill. If he loses any of the Contests, he loses your trail.
+
+To stalk game once you have tracked it, use the Stealth skill (p. 222).
+
+Modifiers: -5 if the trail is more than a day old, or -10 if more than a week old. +3 if you are following a man, or +6 if following a group of men. Superior senses help a lot: bonuses for Acute Vision (p. 35) and Discriminatory Smell (p. 49) usually apply, and many superhuman senses (Infravision, Subsonic Hearing, etc.) give situational bonuses.
 
 # Weapons
 #### Axe/Mace - DX/A
