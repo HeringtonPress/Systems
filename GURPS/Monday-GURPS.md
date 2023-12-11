@@ -94,6 +94,7 @@ While standing you are unpenalized.
 - **Determined**: Make one attack with a +4 to hit. 
 - **Double**: Make two attacks against the same foe, if you have two ready weapons or one that doesn't have to be readied after use.
 - **Strong**: Make one attack. If you hit you get +2 to damage or +1 per die.
+
 If you All-Out Attack with a ranged weapon you instead get +1 to hit.
 As part of your All-Out Attack you gain Half Movement.
 
