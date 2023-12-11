@@ -51,9 +51,7 @@ Combat proceeds in rounds with a round lasting one second. Each round, character
 
 **Aim**: Aim at a specific, visible target. If you attack your target on your next turn, you may add your attack's Acc bonus to your effective skill – but if you lose sight of your enemy or make an Active Defense the bonus is lost. As part of your Aim you may Step.
 
-**Ready**: Used for any predominantly physical activity not covered by another maneuver. Use this Maneuver to draw a weapon, pick something up, or load a ranged weapon. Some actions require multiple or even concurrent readies, such as retrieving a potion from you backpack. As part of your Ready you may Step.
-
-**Concentrate**: Focus on a primarily mental task - Spellcasting, non combat skills, or activating an ability that requires this maneuver. As part of Concentrate you may Step.
+**Ready/Concentrate**: Used as catchalls for actions not covered by other maneuvers. Such as drawing a weapon or casting a spell. Some action require multiple or concurrent uses of these maneuvers. As part of Either Ready or Concentrate you may Step.
 
 **Free Actions**: Free actions can be performed at any time and do not take up the character’s turn. The most common free actions are to drop something and to talk.
 ## Active Defense
