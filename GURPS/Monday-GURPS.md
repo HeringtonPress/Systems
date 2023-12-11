@@ -73,7 +73,8 @@ Each maneuver allows for a different amount of movement based on your Move. The 
 **Step**: Move 1 hex. Alternatively you may Stand up from Kneeling.
 ### Facing
 Whenever you have at least a step of movement you may shift your facing freely. You must always face toward one of the six hexes adjacent to your hex. Your facing defines your front, right, left, and back hexes (see illustration). Active defenses suffer a -2 when defending from the side and it is impossible to defend from the back. You may only attack into your front hexes.
-![[Facing.png]]
+![Facing](https://github.com/HeringtonPress/HeringtonPress.github.io/assets/93562930/446fa56c-2cea-482e-b27c-1c9589aa7dd0)
+![Facing](https://github.com/HeringtonPress/HeringtonPress.github.io/assets/93562930/446fa56c-2cea-482e-b27c-1c9589aa7dd0)
 ### Posture
 It is always a free action to move down in posture. i.e. falling prone.
 
