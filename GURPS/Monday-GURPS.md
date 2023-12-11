@@ -85,7 +85,7 @@ While kneeling you have 1/2 movement (Drop Fractions) to a minimum of 1. You hav
 
 **Standing**
 While standing you are unpenalized.
-## [Advance Combat](Monday-Gurps-Combat.md)
+## [Advance Combat Options](Monday-Gurps-Combat.md)
 
 # Damage, Health, and Recovery
 **Damage**: Damage is almost always **ST**-based and expressed as a modifier to the wielder’s basic **thrusting (thr)** or **swinging (sw)** damage. For example, a spear does “thr+2,” so with thrusting damage of 1d-1, you’ll inflict 1d+1 damage with a spear.
