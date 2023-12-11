@@ -6,6 +6,7 @@ A number, such as “+2” or “-1,” indicates the bonus or penalty to your P
 - “F” means the weapon is a fencing weapon, which suffers only half the penalty for multiple parries.
 - “U” means the weapon is unbalanced: you cannot use it to parry after using it to attack on your turn (or vice versa).
 - “X” means the weapon cannot parry.
+
 ### Reach
 The distance in hexes at which a melee weapon can strike; e.g., reach “2” means the weapon can only strike foes two hexes away, not closer or farther. “C” indicates you can use the weapon for Close Combat, meaning in the same hex you are in.
 
@@ -150,6 +151,7 @@ Successive parries suffer a -2 instead of -4
 [7] Specify maximum reach (1-7 yards) when bought. Cost and weight are per yard. The whip requires ST 3, +1 per yard.
 - Anyone injured on the arm by a whip must roll Against Will modified by the shock penalty for the injury or drop anything in that hand.
 - You can “crack” a whip at -4 to hit, for +2 damage.
+
 ## Ranged Weapon Tables
 ### Acc (Accuracy)
 Add Accuracy to your weapon skill if you took an Aim maneuver on the turn prior to your attack. If you have Heroic Archer (p. 35) and are wielding a bow, you don’t need to Aim – add Acc to skill whenever you Attack or All-Out Attack outside of close combat!
