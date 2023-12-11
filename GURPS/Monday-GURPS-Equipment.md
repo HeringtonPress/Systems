@@ -154,22 +154,17 @@ Successive parries suffer a -2 instead of -4
 
 ## Ranged Weapon Tables
 ### Acc (Accuracy)
-Add Accuracy to your weapon skill if you took an Aim maneuver on the turn prior to your attack. If you have Heroic Archer (p. 35) and are wielding a bow, you don’t need to Aim – add Acc to skill whenever you Attack or All-Out Attack outside of close combat!
+Add Accuracy to your weapon skill if you took an Aim maneuver on the turn prior to your attack.
 ### Bulk
 A measure of the weapon’s size and handiness. Bulk penalizes weapon skill during a Move and Attack maneuver or in close combat.
-### Bows, Crossbows, and ST
-Bows and crossbows have their own ST, which you must specify when you buy such a weapon. The ST in the table is the lowest possible value. Use the weapon’s rated ST instead of your ST to determine range and damage. You can always use a weapon that’s weaker than you. You can use a stronger crossbow with no penalty, but it will take longer to cock (see Reloading).
+### Bows and ST
+Bows have their own ST, which you must specify when you buy one. The ST in the table is the lowest possible value. Use the weapon’s rated ST instead of your ST to determine range and damage.
 ### Range
-If a weapon has only one range number, this is the Maximum Range (Max) in hexes (yards) at which it can attack a target. If two numbers appear, separated by a slash, the first is Half-Damage Range (1/2D) while the second is Max. Nearly all ranged weapons list range as multiples of the wielder’s ST. For bows and crossbows, use the weapon’s ST in these formulas (see below in Strength).
+If a weapon has only one range number, this is the Maximum Range (Max) in hexes (yards). If two numbers appear, separated by a slash, the first is Half-Damage Range (1/2D) while the second is Max. Nearly all ranged weapons list range as multiples of the wielder’s ST.
 ### Reloading
-The parenthetical number represents the number of ready actions needed to reload. 
-
 **Thrown Weapons**: pick it up or ready a new weapon!
 
 **Bows and Slings**: (2) means one Ready to draw and position a stone or arrow, and another to prepare the loaded weapon for shooting. A successful Fast-Draw roll turns the first into a free action, making effective reload time (1).
-
-**Crossbows**: “(4)” means two consecutive Ready maneuvers to cock the weapon, one to draw and load a bolt, and one to bring the weapon back into shooting position. This assumes the weapon’s ST is no greater than yours. If its ST is one or two greater, reload time is (8); if its ST is three or four greater, you need a “goat’s foot” device and must be standing, reload time is (20); and if its ST is five greater or more, you cannot cock it! A successful Fast-Draw roll shaves off one Ready maneuver.
-
 ### BOW (DX-5)
 
 | Weapon        | Damage    | Acc | Range   | Weight  | Cost | ST  | Bulk |
@@ -178,21 +173,6 @@ The parenthetical number represents the number of ready actions needed to reload
 | Composite Bow | thr+3 imp | 3   | x20/x25 | 4/0.1   | $900 | 10† | -7   |
 | Longbow       | thr+2 imp | 3   | x15/x20 | 3/0.1   | $200 | 11† | -8   |
 | Shortbow      | thr imp   | 1   | x10/x15 | 1.5/0.1 | $50  | 7†  | -6   |
-
-### CROSSBOW (DX-4)
-
-| Weapon   | Damage    | Acc | Range   | Weight | Cost | ST  | Bulk | 
-| -------- | --------- | --- | ------- | ------ | ---- | --- | ---- | 
-| Crossbow | thr+4 imp | 4   | x20/x25 | 6/0.06 | $150 | 7†  | -6   | 
-
-### NET (DX-6)
-May entangle or ensnare target.
-
-Range is (ST + Skill/5); round down. Can also be held and used as a melee weapon with reach 1, 2.
-
-| Weapon | Damage | Acc | Range | Weight | Cost | ST  | Bulk |
-| ------ | ------ | --- | ----- | ------ | ---- | --- | ---- |
-| Net    | -      | 1   | Spec. | 5      | $20  | 8   | -4   |
 
 ### SLING (DX-6)
 Requires two hands to ready, but only one hand to attack.
@@ -206,31 +186,28 @@ Requires two hands to ready, but only one hand to attack.
 | Armour      | DR  | Cost  | Weight | Notes   |
 | ----------- | --- | ----- | ------ | ------- |
 | Cloth       | 1   | $150  | 18     | [3]     |
-| Leather     | 2   | $450  | 36     |         |
-| Light Scale | 3/2 | $960  | 48     | [1,2]   |
+| Leather     | 2   | $450  | 36     | [3]     |
 | Light Mail  | 3/1 | $1500 | 36     | [1,2,3] |
-| Scale       | 4/3 | $1650 | 84     | [1,2]   |
+| Light Scale | 3/2 | $960  | 48     | [1,2]   |
 | Mail        | 4/2 | $2700 | 45     | [1,2,3] |
+| Scale       | 4/3 | $1650 | 84     | [1,2]   |
 | Plate       | 6   | $7500 | 60     | [2]     |
 
 [1] Use lower DR against crushing attacks.
+
 [2] Considered metal for the purposes of armor modifiers, lightning damage, reaction penalties in town, etc.
-[3] Flexible armour that can be worn under non flexible armour, with at least DR 3, to stack DR. When Layered split DR is ignored.
+
+[3] Flexible armour that can be worn under non flexible armour, with at least DR 3, to stack DR. When Layered split DR is ignored. This gives -1 to DX and DX Skills.
 
 ### Shields
-**Defense Bonus (DB)**: is added to all of your active defense role from attacks to your front or shield side. This bonus is only applicable if the shield is readied. To ready or store a shield takes an amount of ready maneuvers equal to its DB.
+**Defense Bonus (DB)**: is added to all of your active defense role from attacks to your front or shield side. To ready or store a shield takes an amount of ready maneuvers equal to its DB.
 
 | Shield        | DB  | Cost | Weight | Notes |
 | ------------- | --- | ---- | ------ | ----- |
-| Cloak         | 1   | 20   | 2      | [1]      |
-| Small Shield  | 1   | $40  | 8      | [2,3] |
-| Medium Shield | 2   | $60  | 15     | [2,3] |
+| Small Shield  | 1   | $40  | 8      | [2] |
+| Medium Shield | 2   | $60  | 15     | [2] |
 | Large Shield  | 3   | $90  | 25     | [2,4] |
 
-[1] Can be used offensively to Feint or grapple at reach C, 1 (but not for a shield bashing). Occupies a hand, and a failed block may endanger your arm.
+[2] Can be used offensively, see Shield on the melee weapons table. A spike that gives +1 to damage adds $20 to cost and 5 lbs. to weight.
 
-[2] Can be used offensively, see Shield Bash on the melee weapons table. A spike that gives +1 to damage adds $20 to cost and 5 lbs. to weight.
-
-[3] Also available as a buckler. You can ready a buckler with one Ready maneuver and drop it as a free action, like a weapon – but it occupies a hand, and can be dropped. No effect on statistics.
-
-[4] Large shields get in the way: -2 to all attacks with the other hand (but not with the shield) unless you have Shield-Wall Training. In close combat, apply -3 for DB instead.
+[4] Large shields get in the way: -2 to all attacks (but not with the shield) unless you have Shield-Wall Training. In close combat, apply -3 for DB instead.

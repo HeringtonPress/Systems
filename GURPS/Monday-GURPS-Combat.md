@@ -27,8 +27,6 @@ As part of your All-Out Defense you gain Half Movement.
 
 **Sacrificial dodge:** Defend someone by throwing yourself in front of an attack. To do so, you must be at most a step from interposing. Announce this before your friend attempts their defense roll. Attempt a dodge, if you succeed, you are hit by the attack. If you fail, you didn’t move in time, but your friend still gets their normal defense roll.
 ## Extra Effort
-You must declare that you are using extra effort and spend the required FP before you make your attack or defense roll.
-
 **Dash**: You can spend an FP to gain additional movement. If you had half movement or less you gain an additional step. If you had full movement you gain an additional half movement.
 
 **Feverish Defense**: You can spend 1 FP to get +2 to a single active defense roll.
