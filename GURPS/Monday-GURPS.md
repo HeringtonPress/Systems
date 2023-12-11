@@ -89,48 +89,8 @@ While kneeling you have 1/2 movement (Drop Fractions) to a minimum of 1. You hav
 
 **Standing**
 While standing you are unpenalized.
-## Advance Maneuvers
-**All-Out Attack**: Sacrifice the ability to make any Active Defenses till your next turn to make an attack with full might. Specify one of the three options below when choosing this maneuver with a melee weapon.
-- **Determined**: Make one attack with a +4 to hit. 
-- **Double**: Make two attacks against the same foe, if you have two ready weapons or one that doesn't have to be readied after use.
-- **Strong**: Make one attack. If you hit you get +2 to damage or +1 per die.
+## [Advance Combat](Monday-Gurps-Combat.md)
 
-If you All-Out Attack with a ranged weapon you instead get +1 to hit.
-As part of your All-Out Attack you gain Half Movement.
-
-**All-Out Defense**: Spend all you effort on defending yourself. Add +2 to one active defense of your choice: Dodge, Parry, or Block. This bonus persists until your next turn.
-As part of your All-Out Defense you gain Half Movement.
-
-**Move and Attack**: Gain full Movement and then attack with a -4 to hit to a maximum effective skill of 9.
-
-**Wait**: Do nothing unless an event you’ve specified in advance occurs before your next turn. Specify the Maneuver and the specific trigger. You gain the movement of the prepared Maneuver which may be taken immediately or once triggered but cannot be split.
-
-### Attack options
-**Deceptive attack:** Use your skill with a weapon to attempt to get around an opponents guard. Take a -4 to hit and causing the target to have a -2 to their active defense.
-
-**Dual weapon attack:** When you have two readied weapons you may use them both as part of the same attack action. Resolve both attacks separately with each having a -4 to hit.
-
-**Rapid strike:** A Rapid Strike is a melee attack executed swiftly enough that you get one extra attack. Make two attacks, that may be all-out, both at -6 to skill. You can target multiple opponents this way. If you already have multiple attacks, for whatever reason, you can replace only one of them with two attacks at -6.
-
-**Stop thrust:** If you wait to attack with a thrusting weapon against an opponent who is approaching you, you may declare it a Stop Thrust. The opponent suffers an additional damage for every 2 yards of max movement they have this round.
-### Defense options
-**Dive for Cover:** When within an AoE you may attempt to dive out of it. Attempt a Dodge and land prone up to a step away. Success means you reach the new location before the triggering effect goes off.
-
-**Acrobatic dodge:** If you have put at least one point into the Acrobatics skill, you can try a “fancy” dodge once between your turns. Make an Acrobatics roll before you attempt your Dodge roll. On a success, you get +2 to that Dodge roll. On a failure, you get -2.
-
-**Sacrificial dodge:** Defend someone by throwing yourself in front of an attack. To do so, you must be a step from interposing. Announce this before your friend attempts their defense roll. Attempt a dodge, if you succeed, you are hit by the attack. If you fail, you didn’t move in time, but your friend still gets their normal defense roll.
-## Extra Effort
-You must declare that you are using extra effort and spend the required FP before you make your attack or defense roll. A critical failure on the roll causes 1 HP of injury. DR does not protect you from this damage!
-
-**Dash**: You can spend an FP to gain additional movement. If you had half movement or less you gain an additional step. If you had full movement you gain an additional half movement.
-
-**Feverish Defense**: You can spend 1 FP to get +2 to a single active defense roll.
-
-**Flurry of Blows**: You can halve the penalty for Rapid Strike (see Above) by spending 1 FP per attack.
-
-**Mighty Blows**: You can spend FP to gain the damage bonus of an All-Out Attack (Strong) (see Above) without sacrificing your defenses. This costs 1 FP per attack.
-
-You cannot use Flurry of Blows and Mighty Blows at the same time!
 # Damage, Health, and Recovery
 **Damage**: Damage is almost always ST-based and expressed as a modifier to the wielder’s basic thrusting (thr) or swinging (sw) damage, from the Damage Table (see Character Creation above). For example, a spear does “thr+2,” so with ST 11 and therefore a basic thrusting damage of 1d-1, you’ll inflict 1d+1 damage with a spear.
 
