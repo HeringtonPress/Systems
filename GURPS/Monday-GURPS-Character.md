@@ -11,6 +11,7 @@ Foulkn are well known for their diversity and versatility. This is represented v
 - Less Sleep 4 (8)
 - Slow Healing (-5)
 - Magery 0 (5)
+
 #### Dwarrow (25)
 - SM 0* (0)
 - ST +1 (10)
@@ -21,6 +22,7 @@ Foulkn are well known for their diversity and versatility. This is represented v
 - Cannot Float (-1)
 - Resistant Poison +3 (7)
 - Alcohol Dependency Daily (-15)
+
 #### Halfling (15)
 - SM -2 (0)
 - ST -3 (-30)
@@ -30,6 +32,7 @@ Foulkn are well known for their diversity and versatility. This is represented v
 - Silence 3 (15)
 - Gluttony (-5)
 - Tough Feet (1)
+
 #### Orc (8/10)
 - SM 0/1 (0/-2)
 - ST +2 (20)
@@ -40,7 +43,9 @@ Foulkn are well known for their diversity and versatility. This is represented v
 - High Pain Threshold (10)
 - Short Lifespan (-10)
 - Social Stigma minority (-10)
+
 #### Lupin ()
+
 
 #### Drakin (60)
 - SM 1 (0)
@@ -53,6 +58,7 @@ Foulkn are well known for their diversity and versatility. This is represented v
 - Proud (-1)
 - Elemental Resistance 9 (9)
 - Breath Weapon (21)
+
 # Class
 #### Fighter
 
