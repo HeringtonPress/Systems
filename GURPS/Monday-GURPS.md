@@ -4,7 +4,7 @@ GURPS only uses six-sided dice, and uses abbreviations for die rolls – for ins
 The basic mechanic of GURPS is the success roll against a Skill or Attribute. To succeed, you must roll less than or equal to the number with 3d. The GM may assign modifiers to your skill from -10 (extremely hard) to +10 (extremely easy). A 3 on the dice always succeeds and an 18 always fails!
 ### Quick Contest
 When two characters are competing to do something very quickly – for instance, two enemies lunging for an item. This is called a quick contest. Each competitor attempts a success roll. If one succeeds and the other fails, the winner is obvious. If both succeed, the winner is the one with the largest margin of success. If both fail the winner is the one with the smallest margin of failure. A tie means no one won.
-# Character
+# [Character](Monday-GURPS-Character.md)
 ## Attributes
 Most adventurer's have stats between 8-20, with 10 being the Foulkn Average. The four attributes are as follows.
 
