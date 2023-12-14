@@ -2,7 +2,7 @@ A Collection of Character options and Meta-Traits. These are not all the Traits 
 # Kin
 #### Foulkn (0)
 Foulkn are well known for their diversity and versatility. This is represented via Foulkn's costing nothing to take, leaving you with points left to spend on individual characteristics.
-#### Elf (40)
+#### Elf (45)
 - ST -1 (-10)
 - DX +1 (20)
 - Per +2 (10)
@@ -10,7 +10,7 @@ Foulkn are well known for their diversity and versatility. This is represented v
 - Attractive (4)
 - Less Sleep 4 (8)
 - Slow Healing (-5)
-- Magery 0 (5)
+- Magery 0 (10)
 
 #### Dwarrow (25)
 - SM 0* (0)
@@ -33,7 +33,7 @@ Foulkn are well known for their diversity and versatility. This is represented v
 - Gluttony (-5)
 - Tough Feet (1)
 
-#### Orc (8/10)
+#### Orc (10/8)
 - SM 0/1 (0/-2)
 - ST +2 (20)
 - HP +2 (4)
@@ -60,14 +60,99 @@ Foulkn are well known for their diversity and versatility. This is represented v
 - Breath Weapon (21)
 
 # Class
-#### Fighter
+#### Berserker (56+)
+**Traits** (46)
+- Berserk (-10)
+- ST +4 (32) (Accessibility (While berserk)(-20%))
+- High Pain Threshold (10)
+- Combat Reflexes (15)
+- Tough Skin DR 4 (4)
+- Move +2 (10)
+- Social Stigma (uneducated) (-5)
+- Struggling (-10)
 
-#### Wizard
+**Skills** (10)
+- Melee Weapon 
+- Ranged Weapon 
+- Brawling 
+- Area Knowledge (Homeland) 
+- Carousing 
+- Climbing 
+- Intimidation 
+- Stealth 
+- Survival 
+- Swimming
 
-#### Thief
+#### Fighter (55+)
+**Traits** (41)
+- High Pain Threshold (10)
+- Combat Reflexes (15)
+- Hard to Subdue 3 (6)
+- Striking ST 2 (10)
 
-#### Bard
 
-#### Scout
+**Skills** (14)
+- Melee Weapon 
+- Backup/Shield
+- Ranged Weapon 
+- Brawling/Knife
+- Area Knowledge (Homeland)
+- Diplomacy
+- First Aid
+- Heraldry
+- Interrogation
+- Leadership
+- Savoir-Faire Military
+- Stealth
+- Swimming
+- Tactics
+#### Mage ()
+**Traits** ()
+- Magery 2 (30)
+- Magic Talent ([College](https://raw.githubusercontent.com/HeringtonPress/HeringtonPress.github.io/main/Images/College.png)) (5/10/15)
+- Arcane Energy Reserve 5 (15)
 
-#### Cleric
+**Skills** ()
+- Innate Attack (Choose)
+- Spear/Staff or Knife
+#### Thief()
+**Traits** ()
+- 
+
+**Skills** ()
+-  
+
+#### Bard()
+**Traits** ()
+- 
+
+**Skills** ()
+-  
+
+#### Scout()
+**Traits** ()
+- 
+
+**Skills** ()
+-  
+
+#### Cleric()
+**Traits** ()
+- 
+
+**Skills** ()
+-  
+
+#### Druid()
+**Traits** ()
+- 
+
+**Skills** ()
+-  
+
+#### Monk()
+**Traits** ()
+- 
+
+**Skills** ()
+-  
