@@ -106,15 +106,32 @@ Foulkn are well known for their diversity and versatility. This is represented v
 - Stealth
 - Swimming
 - Tactics
-#### Mage ()
-**Traits** ()
+#### Mage (90+)
+**Traits** (55+)
 - Magery 2 (30)
 - Magic Talent ([College](https://raw.githubusercontent.com/HeringtonPress/HeringtonPress.github.io/main/Images/College.png)) (5/10/15)
 - Arcane Energy Reserve 5 (15)
+- Eidetic Memory (5)
 
-**Skills** ()
+**Skills** (15)
 - Innate Attack (Choose)
 - Spear/Staff or Knife
+- Alchemy
+- Area Knowledge (Homeland)
+- Cryptography
+- Diplomacy
+- Fast-Talk
+- Game (Trolls and Tunnels)
+- History (Kingdom)
+- Lore (Creature Type/Plane/Niche)
+- Occultism
+- Research
+- Savoir-Fair Mages
+- Stealth
+- Thaumatology
+
+**Spells** (20)
+
 #### Thief()
 **Traits** ()
 - 
