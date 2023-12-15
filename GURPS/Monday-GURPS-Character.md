@@ -183,15 +183,14 @@ Foulkn are well known for their diversity and versatility. This is represented v
 **Spells** (Optional)
 - Communication and Empathy, Knowledge, Mind Control, and Sound Colleges.
 
-### Scout()
-**Traits** ()
+### Scout (86+)
+**Traits** (86)
 - Heroic Archer (20)
 - Outdoorsman (10)
 - Absolute Direction (5)
 - Combat Reflexes (15)
-- Peripheral Vision (15)
 - Strongbow (1)
-- Weapon Master Bow ()
+- Weapon Master Bow (35)
 
 **Skills** ()
 -  
