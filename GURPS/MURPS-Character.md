@@ -59,6 +59,17 @@ Foulkn are well known for their diversity and versatility. This is represented v
 - Elemental Resistance 9 (9)
 - Breath Weapon (21)
 
+### Goblin (-10)
+- SM -2 (0)
+- ST -4 (-40)
+- DX +1 (20)
+- Infravision (10)
+- Rapid Healing (5)
+- Cast Iron Stomach 4 (4)
+- Silence 1 (5)
+- Appearance (Unattractive) (-4)
+- Social Stigma (Savage) (-10)
+
 # Class
 ### Berserker (69+)
 **Traits** (59)
@@ -241,13 +252,6 @@ Foulkn are well known for their diversity and versatility. This is represented v
 **Traits** ()
 - Druidic Power Investiture 3 (30)
 - Druidic Arts of your Choice (5 to 33)
-
-**Skills** ()
--  
-
-### Monk()
-**Traits** ()
-- 
 
 **Skills** ()
 -  

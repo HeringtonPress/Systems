@@ -74,7 +74,7 @@ While kneeling you have 1/3 movement to a minimum of 1. You have a -2 to hit wit
 
 **Standing**
 While standing you are unpenalized.
-# [Advanced Combat](Combat/AdvancedCombat.md)
+# [Advanced Combat](AdvancedCombat.md)
 
 # Damage, Health, and Recovery
 **Damage**: Damage is almost always ST-based and expressed as a modifier to the wielder’s basic thrusting (thr) or swinging (sw) damage, from the Damage Table (Character Creation). For example, a spear does “thr+2,” so with ST 11 and therefore a basic thrusting damage of 1d-1, you’ll inflict 1d+1 damage with a spear.

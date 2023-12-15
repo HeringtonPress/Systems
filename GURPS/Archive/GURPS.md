@@ -6,12 +6,12 @@ Just as all things GURPS Game masters are encouraged to rip and tear till this c
 
 # [Character Creation](CharacterCreation.md)
 
-# [Skills](Skills.md)
+# [MURPS-Skills](MURPS-Skills.md)
 
 # [Equipment](Equipment.md)
 
-# [Combat](Combat/Combat.md)
-### [Advanced Combat](Combat/AdvancedCombat.md)
+# [Combat](Combat.md)
+### [Advanced Combat](AdvancedCombat.md)
 
 # [Magic And Miracles](MagicandMiracles.md)
 

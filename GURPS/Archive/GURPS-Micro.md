@@ -71,7 +71,7 @@ These are derived from Attributes, as follows.
 
 >Example: We want to make a warrior with 100 points. Warriors tend to have high strength but low intelligence. We spend 50 points to raise our ST to 15, since it costs 10 points per level. We lower our IQ to 8, returning 40 points, since it refunds 20 points per level. We keep DX and HT at their default values of 10. We have spent a net total of 10 points and have 90 points left to spend.
 
-## [Skills](Skills.md)
+## [MURPS-Skills](MURPS-Skills.md)
 Skills govern what your character is good at. Skill costs depend on their controlling attribute and their difficulty (Easy, Average, Hard or Very Hard). This is usually written in the form “IQ/E” for, as an example, an Intelligence/Easy skill. 
 
 The chart below shows the cost of skills. To determine the cost, find the skill level you wish to obtain on the chart relative to the skill's controlling attribute, then look across to the difficulty. That is the number of points you must spend to learn that skill at that level.
@@ -88,7 +88,7 @@ The chart below shows the cost of skills. To determine the cost, find the skill 
 
 >Example: We wish to purchase the Fast-talk skill, which is a IQ/A skill. If our character has a IQ of 13, buying Fast-talk 13 would cost 2 points. Fast-talk 14 would cost 4, etc.
 
-While every character should have at least one weapon skill, you need more than just weapons to survive. For a full list of Skills check [here](Skills.md).
+While every character should have at least one weapon skill, you need more than just weapons to survive. For a full list of Skills check [here](MURPS-Skills.md).
 
 It is also not uncommon to have a starting cap on your skill level. Commonly being unable to begin play having bought a skill above 12.
 ## Traits

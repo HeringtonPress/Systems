@@ -4,7 +4,7 @@ GURPS only uses six-sided dice, and uses abbreviations for die rolls – for ins
 The basic mechanic of GURPS is the success roll against a Skill or Attribute. To succeed, you must roll less than or equal to the number with 3d. The GM may assign modifiers to your skill from -10 (extremely hard) to +10 (extremely easy). A 3 on the dice always succeeds and an 18 always fails!
 ### Quick Contest
 When two characters are competing to do something very quickly – for instance, two enemies lunging for an item. This is called a quick contest. Each competitor attempts a success roll. If one succeeds and the other fails, the winner is obvious. If both succeed, the winner is the one with the largest margin of success. If both fail the winner is the one with the smallest margin of failure. A tie means no one won.
-# [Character](Monday-GURPS-Character.md)
+# [Character](MURPS-Character.md)
 ## Attributes
 Most adventurer's have stats between 8-20, with 10 being the Foulkn Average. The four attributes are as follows.
 
@@ -35,10 +35,10 @@ These are derived from your Attributes.
 **Move**: A measure of how far you can move in one turn, in hexes (yards).
 
 **Damage**: Damage is broken up into Swing damage (Sw) and Thrust damage (Thr). Weapons will use these as the base of their damage dealt.
-## [Skills](Skills.md)
+## [MURPS-Skills](MURPS-Skills.md)
 Skills govern what your character is good at. If you don't have a skill you may still be able to "use" it by rolling against it's **default**. This will be an **attribute** minus a number.
 
-While every character should have at least one weapon/combat skill, you need more than just weapons to survive. For a full list of Skills check [here](Skills.md).
+While every character should have at least one weapon/combat skill, you need more than just weapons to survive. For a full list of Skills check [here](MURPS-Skills.md).
 ## Traits
 Traits are details about your character and how they interact with the game; world and system. These cover everything from your kin, magical powers, place in society, languages known, to even attractiveness.
 # Combat
@@ -85,7 +85,7 @@ While kneeling you have 1/2 movement (Drop Fractions) to a minimum of 1. You hav
 
 **Standing**
 While standing you are unpenalized.
-## [Advance Combat Options](Monday-GURPS-Combat.md)
+## [Advance Combat Options](MURPS-Combat.md)
 
 # Damage, Health, and Recovery
 **Damage**: Damage is almost always **ST**-based and expressed as a modifier to the wielder’s basic **thrusting (thr)** or **swinging (sw)** damage. For example, a spear does “thr+2,” so with thrusting damage of 1d-1, you’ll inflict 1d+1 damage with a spear.
@@ -121,4 +121,4 @@ Further healing requires rest. At the end of each day of rest, make a success ro
 Characters that fell unconscious automatically wake up 15 minutes after their HP becomes positive. Or an hour after receiving First Aid.
 
 **Fatigue points** can be recovered at a rate of 1 per ten minutes of rest.
-# [Equipment](Monday-GURPS-Equipment.md)
+# [Equipment](MURPS-Equipment.md)
