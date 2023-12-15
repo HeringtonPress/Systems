@@ -13,6 +13,9 @@ include:
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
   - jekyll-remote-theme
-remote_theme: pages-themes/slate@v0.2.0
+remote_theme: benbalter/retlab@v1.0.0 
 
 title: HeringtonPress
+
+//pages-themes/slate@v0.2.0
+//benbalter/retlab@v1.0.0 
