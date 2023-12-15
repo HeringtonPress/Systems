@@ -1,8 +1,8 @@
 A Collection of Character options and Meta-Traits. These are not all the Traits available but simply some packages and suggestions.
 # Kin
-#### Foulkn (0)
+### Foulkn (0)
 Foulkn are well known for their diversity and versatility. This is represented via Foulkn's costing nothing to take, leaving you with points left to spend on individual characteristics.
-#### Elf (45)
+### Elf (45)
 - ST -1 (-10)
 - DX +1 (20)
 - Per +2 (10)
@@ -12,7 +12,7 @@ Foulkn are well known for their diversity and versatility. This is represented v
 - Slow Healing (-5)
 - Magery 0 (10)
 
-#### Dwarrow (25)
+### Dwarrow (25)
 - SM 0* (0)
 - ST +1 (10)
 - HT +2 (20)
@@ -23,7 +23,7 @@ Foulkn are well known for their diversity and versatility. This is represented v
 - Resistant Poison +3 (7)
 - Alcohol Dependency Daily (-15)
 
-#### Halfling (15)
+### Halfling (15)
 - SM -2 (0)
 - ST -3 (-30)
 - HP +2 (4)
@@ -33,7 +33,7 @@ Foulkn are well known for their diversity and versatility. This is represented v
 - Gluttony (-5)
 - Tough Feet (1)
 
-#### Orc (10/8)
+### Orc (10/8)
 - SM 0/1 (0/-2)
 - ST +2 (20)
 - HP +2 (4)
@@ -44,10 +44,10 @@ Foulkn are well known for their diversity and versatility. This is represented v
 - Short Lifespan (-10)
 - Social Stigma minority (-10)
 
-#### Lupin ()
+### Lupin ()
 
 
-#### Drakin (60)
+### Drakin (60)
 - SM 1 (0)
 - Move +1 (5)
 - ST +4 (36)
@@ -60,16 +60,14 @@ Foulkn are well known for their diversity and versatility. This is represented v
 - Breath Weapon (21)
 
 # Class
-#### Berserker (56+)
-**Traits** (46)
+### Berserker (69+)
+**Traits** (59)
 - Berserk (-10)
-- ST +4 (32) (Accessibility (While berserk)(-20%))
+- Striking ST 4 (16) (Accessibility (While berserk)(-20%))
+- Tough Skin DR 4 (8)(Accessibility (While berserk)(-20%))
 - High Pain Threshold (10)
 - Combat Reflexes (15)
-- Tough Skin DR 4 (4)
-- Move +2 (10)
-- Social Stigma (uneducated) (-5)
-- Struggling (-10)
+- Weapon Master (All/Skill/Weapon) (45/35/20)
 
 **Skills** (10)
 - Melee Weapon 
@@ -83,15 +81,16 @@ Foulkn are well known for their diversity and versatility. This is represented v
 - Survival 
 - Swimming
 
-#### Fighter (55+)
-**Traits** (41)
+### Fighter (73+)
+**Traits** (60)
 - High Pain Threshold (10)
 - Combat Reflexes (15)
-- Hard to Subdue 3 (6)
+- Armor Mastery (5)
 - Striking ST 2 (10)
+- Weapon Master (All/Skill/Weapon) (45/35/20)
 
 
-**Skills** (14)
+**Skills** (13)
 - Melee Weapon 
 - Backup/Shield
 - Ranged Weapon 
@@ -102,72 +101,116 @@ Foulkn are well known for their diversity and versatility. This is represented v
 - Heraldry
 - Interrogation
 - Leadership
-- Savoir-Faire Military
 - Stealth
 - Swimming
 - Tactics
-#### Mage (90+)
-**Traits** (55+)
+### Mage (77+)
+**Traits** (49+)
 - Magery 2 (30)
 - Magic Talent ([College](https://raw.githubusercontent.com/HeringtonPress/HeringtonPress.github.io/main/Images/College.png)) (5/10/15)
-- Arcane Energy Reserve 5 (15)
-- Eidetic Memory (5)
+- Arcane Energy Reserve (15)
 
-**Skills** (15)
-- Innate Attack (Choose)
+**Skills** (8)
+- Innate Attack (Projectile)
 - Spear/Staff or Knife
-- Alchemy
 - Area Knowledge (Homeland)
 - Cryptography
-- Diplomacy
-- Fast-Talk
-- Game (Trolls and Tunnels)
-- History (Kingdom)
 - Lore (Creature Type/Plane/Niche)
-- Occultism
 - Research
-- Savoir-Fair Mages
 - Stealth
 - Thaumatology
 
-**Spells** (20)
+**Spells** (20+)
 
-#### Thief()
+### Rogue (69+)
+**Traits** (48)
+- Contact (Thieves Guild, skill 12, fairly often appearance 9, usually reliable) (10)
+- Perfect Balance (15)
+- Backstab 2 (8)
+- Thief Talent 2 (\*) (10)
+
+**Skills** (21)
+- Knife
+- Throwing or Bow or Crossbow
+- Acrobatics
+- Acting
+- Area Knowledge (Home)
+- Body Language
+- Carousing
+- Climbing\*
+- Escape\*
+- Fast-Talk
+- Forgery
+- Gesture
+- Knot-Tying
+- Lip Reading
+- Lockpicking\*
+- Pickpocket\*
+- Savoir-Faire (Criminal)
+- Search
+- Sleight of Hand\*
+- Stealth\*
+- Streetwise
+
+### Bard (57+)
+**Traits** (40+)
+- Bardic Talent 2 (16)
+- Charisma 1 (§) (5)
+- Musical Talent 1 (\*) (5) 
+- Voice (†) (10)
+- Rapier Wit (4)
+- Bard-Songs of your Choice
+
+**Skills** (17+)
+- Instrument (choose family) \*
+- Singing \* †
+- Acting
+- Area Knowledge (Homeland)
+- Body Language
+- Carousing
+- Detect Lies
+- Diplomacy †
+- Fast-Talk †
+- Heraldry
+- History (Region or Era)
+- Leadership §
+- Lore (Choose)
+- Performance \* †
+- Public Speaking § †
+- Sex Appeal †
+- Streetwise
+
+**Spells** (Optional)
+- Communication and Empathy, Knowledge, Mind Control, and Sound Colleges.
+
+### Scout()
+**Traits** ()
+- Heroic Archer (20)
+- Outdoorsman (10)
+- Absolute Direction (5)
+- Combat Reflexes (15)
+- Peripheral Vision (15)
+- Strongbow (1)
+- Weapon Master Bow ()
+
+**Skills** ()
+-  
+
+### Cleric()
 **Traits** ()
 - 
 
 **Skills** ()
 -  
 
-#### Bard()
+### Druid()
 **Traits** ()
 - 
 
 **Skills** ()
 -  
 
-#### Scout()
-**Traits** ()
-- 
-
-**Skills** ()
--  
-
-#### Cleric()
-**Traits** ()
-- 
-
-**Skills** ()
--  
-
-#### Druid()
-**Traits** ()
-- 
-
-**Skills** ()
--  
-
-#### Monk()
+### Monk()
 **Traits** ()
 - 
 
