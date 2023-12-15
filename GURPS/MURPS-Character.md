@@ -71,27 +71,6 @@ Foulkn are well known for their diversity and versatility. This is represented v
 - Social Stigma (Savage) (-10)
 
 # Class
-### Berserker (69+)
-**Traits** (59)
-- Berserk (-10)
-- Striking ST 4 (16) (Accessibility (While berserk)(-20%))
-- Tough Skin DR 4 (8)(Accessibility (While berserk)(-20%))
-- High Pain Threshold (10)
-- Combat Reflexes (15)
-- Weapon Master (All/Skill/Weapon) (45/35/20)
-
-**Skills** (10)
-- Melee Weapon 
-- Ranged Weapon 
-- Brawling 
-- Area Knowledge (Homeland) 
-- Carousing 
-- Climbing 
-- Intimidation 
-- Stealth 
-- Survival 
-- Swimming
-
 ### Fighter (73+)
 **Traits** (60)
 - High Pain Threshold (10)
@@ -115,6 +94,7 @@ Foulkn are well known for their diversity and versatility. This is represented v
 - Stealth
 - Swimming
 - Tactics
+
 ### Mage (77+)
 **Traits** (49+)
 - Magery 2 (30)
@@ -132,6 +112,51 @@ Foulkn are well known for their diversity and versatility. This is represented v
 - Thaumatology
 
 **Spells** (20+)
+
+### Cleric(60+)
+**Traits** (39+)
+- Clerical Investment (5)
+- Holy Power Investiture 3 (30)
+- Holy Tennant of your choice (-10)
+- Holy Abilities of your choice (14 to 33)
+- 
+
+**Skills** (11)
+-  Area Knowledge (Homeland)
+- Body Language
+- Detect Lies
+- Diplomacy
+- First Aid
+- Medicine
+- Public Speaking
+- Religious Ritual (Your God)
+- Savoir-Fair Church
+- Teaching
+- Theology (Pantheon)
+
+**Spells** (10)
+-  From Colleges determined by your God.
+
+### Berserker (69+)
+**Traits** (59)
+- Berserk (-10)
+- Striking ST 4 (16) (Accessibility (While berserk)(-20%))
+- Tough Skin DR 4 (8)(Accessibility (While berserk)(-20%))
+- High Pain Threshold (10)
+- Combat Reflexes (15)
+- Weapon Master (All/Skill/Weapon) (45/35/20)
+
+**Skills** (10)
+- Melee Weapon 
+- Ranged Weapon 
+- Brawling 
+- Area Knowledge (Homeland) 
+- Carousing 
+- Climbing 
+- Intimidation 
+- Stealth 
+- Survival 
+- Swimming
 
 ### Rogue (69+)
 **Traits** (48)
@@ -223,30 +248,6 @@ Foulkn are well known for their diversity and versatility. This is represented v
 - Survival (Biome) \*
 - Swimming \*
 - Tracking \*
-
-### Cleric(60+)
-**Traits** (39+)
-- Clerical Investment (5)
-- Holy Power Investiture 3 (30)
-- Holy Tennant of your choice (-10)
-- Holy Abilities of your choice (14 to 33)
-- 
-
-**Skills** (11)
--  Area Knowledge (Homeland)
-- Body Language
-- Detect Lies
-- Diplomacy
-- First Aid
-- Medicine
-- Public Speaking
-- Religious Ritual (Your God)
-- Savoir-Fair Church
-- Teaching
-- Theology (Pantheon)
-
-**Spells** (10)
--  From Colleges determined by your God.
 
 ### Druid ()
 **Traits** ()
