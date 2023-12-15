@@ -74,6 +74,8 @@ Holy Investiture permits you to acquire Holy abilities, and to learn and cast cl
 
 A successful Perception roll with a bonus equal to level will let you detect blessed or cursed items or places, and changes in sanctity level (the latter at -3 unless specifically searching).
 
+When you take holy investiture you must take a -10 point disadvantage to represent your religious tenants. If you lapse, your Holy Investiture stop working. To recover, you must donate $1,000 or more of treasure, accept a perilous quest, or offer other significant penance.
+
 ### Sanctity
 Sanctity is the ambient energy that empowers clerical spells. Its levels and effects are as follows:
 

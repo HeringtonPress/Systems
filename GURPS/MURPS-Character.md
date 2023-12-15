@@ -99,7 +99,7 @@ Foulkn are well known for their diversity and versatility. This is represented v
 **Traits** (49+)
 - [Magery](MURPS-Magic.md) 2 (30)
 - Wizardly Talent ([College](https://raw.githubusercontent.com/HeringtonPress/HeringtonPress.github.io/main/Images/College.png)) (5/10/15)
-- Arcane Energy Reserve (15)
+- Arcane Energy Reserve 5 (15)
 
 **Skills** (8)
 - Innate Attack (Projectile)
