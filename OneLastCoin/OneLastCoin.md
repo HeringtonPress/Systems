@@ -1,4 +1,4 @@
-# Core
+# OLC Core
 ## Stats
 - **Allure** Charm, evoke manners, plead.
 - **Brawn** Break, lift and push, resist.

@@ -1,4 +1,4 @@
-# Overview
+# MURPS Overview
 GURPS only uses six-sided dice, and uses abbreviations for die rolls – for instance, a roll on three dice would be shown as “3d”.
 ## Task Resolution
 The basic mechanic of GURPS is the success roll against a Skill or Attribute. To succeed, you must roll less than or equal to the number with 3d. The GM may assign modifiers to your skill from -10 (extremely hard) to +10 (extremely easy). A 3 on the dice always succeeds and an 18 always fails!

@@ -1,4 +1,4 @@
-# Equipment
+# MURPS Equipment
 All characters can use their starting money to outfit themselves. Any magical gear must be run by the GM before being bought as starting gear.
 ## Weapon Stats
 ### Parry

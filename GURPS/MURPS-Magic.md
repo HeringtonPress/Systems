@@ -1,4 +1,4 @@
-# Principles of Magic
+# Principles of MURPS  Magic
 Spells are rituals for manipulating supernatural forces. In theory, this is a precise art: Each spell produces a specific, predictable effect.
 
 Spells fall into three realms: clerical, druidic, and wizardly. Those of each realm require a special advantage – a spellcasting talent – to learn and cast, and are affected by the ambient level of a particular supernatural energy. The table below sums up the details.
