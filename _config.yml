@@ -13,6 +13,6 @@ include:
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
   - jekyll-remote-theme
-remote_theme: daviddarnes/alembic
+remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll
 
 title: HeringtonPress
