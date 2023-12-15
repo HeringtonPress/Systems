@@ -294,20 +294,6 @@ This is the ability to play a game well. It includes knowledge of rules, etiquet
 
 Many cultures regard the ability to play one or more games skillfully as a worthwhile social accomplishment. People often stake vast sums on games, and it might be possible to earn a living as a professional. Games may also be played to settle disputes. A powerful monster or wizard might even challenge a hero to a game – with his life or the lives of his companions at stake!
 
-#### Geography†
-- IQ/Hard
-- Defaults: IQ-6 and others.
-
-This is the study of the physical, political, and economic divisions of a planet, and how they interact. It is part physical science, part social science. You must specialize:
-
-Physical: The study of the physical properties of a planetary surface. A physical geographer could answer questions about climate, terrain, and so forth. You must further specialize by plane type.
-
-Political: The study of political regions – their borders, natural resources, industries, etc. A political geographer could answer questions about land claims, overpopulation, regional economic disparities, transportation networks, etc.
-
-Regional: The study of all of the above, but specific to a single region: New York, the United States, planet Earth, etc. The depth of knowledge decreases with the size of the region (see Area Knowledge). Default: the relevant Area Knowledge skill at -6.
-
-These specialties default among themselves at -5.
-
 #### Gesture
 - IQ/Easy
 - Default: IQ-4.
@@ -436,12 +422,11 @@ Spirit Lore: You know about ghosts and other spirit entities – names, motivati
 - Per/Hard
 - Default: Perception-6.
 
-This is the skill of treating illness and injury with techniques grounded in esoteric theory rather than analytical science. It is usually associated with a magical or spiritual tradition. The particulars vary by tradition, but might include acupuncture, massage, alchemical or herbal preparations, or such exercises as breath control and meditation.
+This is the skill of treating illness and injury with advanced techniques. It is usually associated with a magical or spiritual tradition. The particulars vary by tradition, but might include acupuncture, massage, alchemical or herbal preparations, or such exercises as breath control and meditation.
 
-The effectiveness of Esoteric Medicine relative to Physician (p. 213) is up to the GM. It might be more effective (especially if it can channel real supernatural power), equivalent but different, or less effective. It should always be at least as good as First Aid (p. 195) – the attentions of a trained healer of any kind are preferable to bleeding to death! In TL5+ settings, Esoteric Medicine is often perceived as “quack” medicine, regardless of actual effectiveness.
+Make a skill roll to hasten natural recovery from injury, and whenever the GM requires a roll to test general medical competence or knowledge. For every level beyond 13 you may tend to someone during a long rest, giving them a +1 to their HT rolls to recover. Once every 3 days you may roll against medicine to heal someone 1 HP per 10 max HP (2 on a crit).
 
-This skill might represent Ayurvedic medicine, chi treatment, Hermetic medicine, yin/yang healing, or any other historical or fictional healing discipline. In settings where multiple forms of treatment exist, healers must specialize in one specific tradition.
-
+Modifiers: Different Physiologies have a penalty from 0 to -5. Foulkn vs Elves -2, Foulkn vs Trolls -4, Foulkn vs Animal -5.
 #### Mimicry†
 - IQ/Hard
 - Defaults: IQ-6 and others.

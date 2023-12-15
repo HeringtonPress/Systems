@@ -183,28 +183,64 @@ Foulkn are well known for their diversity and versatility. This is represented v
 **Spells** (Optional)
 - Communication and Empathy, Knowledge, Mind Control, and Sound Colleges.
 
-### Scout (86+)
-**Traits** (86)
+### Scout (65+)
+**Traits** (46)
 - Heroic Archer (20)
-- Outdoorsman (10)
+- Outdoorsman (\*) (5)
 - Absolute Direction (5)
 - Combat Reflexes (15)
 - Strongbow (1)
-- Weapon Master Bow (35)
 
-**Skills** ()
--  
+**Skills** (19)
+- Bow
+- Fast Draw (Arrow)
+- Knife or Shortsword
+- Offhand Training (Knife or Shortsword) 
+-  Animal Handling (Family) 
+- Area Knowledge (Home) 
+- Biology (Material)
+- Camouflage \*
+- Climbing \*
+- Disguise (Animals) 
+- First Aid 
+- Knot-Tying 
+- Lip Reading 
+- Lore (Beast) 
+- Mimicry (Bird) 
+- Navigation (Land) \*
+- Stealth 
+- Survival (Biome) \*
+- Swimming \*
+- Tracking \*
 
-### Cleric()
-**Traits** ()
+### Cleric(60+)
+**Traits** (39+)
+- Clerical Investment (5)
+- Holy Power Investiture 3 (30)
+- Holy Tennant of your choice (-10)
+- Holy Abilities of your choice (14 to 33)
 - 
 
-**Skills** ()
--  
+**Skills** (11)
+-  Area Knowledge (Homeland)
+- Body Language
+- Detect Lies
+- Diplomacy
+- First Aid
+- Medicine
+- Public Speaking
+- Religious Ritual (Your God)
+- Savoir-Fair Church
+- Teaching
+- Theology (Pantheon)
 
-### Druid()
+**Spells** (10)
+-  From Colleges determined by your God.
+
+### Druid ()
 **Traits** ()
-- 
+- Druidic Power Investiture 3 (30)
+- Druidic Arts of your Choice (5 to 33)
 
 **Skills** ()
 -  
