@@ -35,7 +35,7 @@ These are derived from your Attributes.
 **Move**: A measure of how far you can move in one turn, in hexes (yards).
 
 **Damage**: Damage is broken up into Swing damage (Sw) and Thrust damage (Thr). Weapons will use these as the base of their damage dealt.
-## [MURPS-Skills](MURPS-Skills.md)
+## [Skills](MURPS-Skills.md)
 Skills govern what your character is good at. If you don't have a skill you may still be able to "use" it by rolling against it's **default**. This will be an **attribute** minus a number.
 
 While every character should have at least one weapon/combat skill, you need more than just weapons to survive. For a full list of Skills check [here](MURPS-Skills.md).
