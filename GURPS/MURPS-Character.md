@@ -116,7 +116,7 @@ Foulkn are well known for their diversity and versatility. This is represented v
 ### Cleric(60+)
 **Traits** (39+)
 - Clerical Investment (5)
-- Holy Power Investiture 3 (30)
+- [Holy Investiture](MURPS-Magic.md) 3 (30)
 - Holy Tennant of your choice (-10)
 - Holy Abilities of your choice (14 to 33)
 - 
@@ -251,7 +251,7 @@ Foulkn are well known for their diversity and versatility. This is represented v
 
 ### Druid ()
 **Traits** ()
-- Druidic Power Investiture 3 (30)
+- [Druidic Investiture](MURPS-Magic.md) 3 (30)
 - Druidic Arts of your Choice (5 to 33)
 
 **Skills** ()
