@@ -22,3 +22,38 @@
 #footer_wrap {
   background:#000000
 }  
+
+table {
+  border:5px solid #373737;
+  margin-bottom:20px;
+  text-align:left;
+  margin-left: auto;
+  margin-right: auto
+}
+th {
+  font-family:'Lucida Grande', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  padding:10px;
+  background:#373737;
+  color:#fff
+}
+td {
+  padding:10px;
+  border:1px solid #373737
+}
+tr:hover {background-color: lightgray;}
+img {
+  position:relative;
+  margin:0 auto;
+  max-width:739px;
+  padding:5px;
+  margin:10px 0 10px 0;
+}
+p img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding:0;
+  vertical-align:middle;
+  text-align:center;
+  border:none
+}
