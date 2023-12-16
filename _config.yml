@@ -15,4 +15,4 @@ include:
   - jekyll-remote-theme
 remote_theme: pages-themes/slate@v0.2.0
 
-title: HeringtonPress
+title: [HeringtonPress](https://heringtonpress.github.io)
