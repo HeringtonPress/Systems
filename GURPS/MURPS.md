@@ -89,7 +89,8 @@ While standing you are unpenalized.
 ## [Advance Combat Options](MURPS-Combat.md)
 
 # Damage, Health, and Recovery
-**Damage**: Damage is almost always **ST**-based and expressed as a modifier to the wielder’s basic **thrusting (thr)** or **swinging (sw)** damage. For example, a spear does “thr+2,” so with thrusting damage of 1d-1, you’ll inflict 1d+1 damage with a spear.
+### Damage
+Damage is almost always **ST**-based and expressed as a modifier to the wielder’s basic **thrusting (thr)** or **swinging (sw)** damage. For example, a spear does “thr+2,” so with thrusting damage of 1d-1, you’ll inflict 1d+1 damage with a spear.
 
 Each damage rating is followed by an abbreviation indicating damage type:
 
@@ -104,22 +105,28 @@ Each damage rating is followed by an abbreviation indicating damage type:
 
 A successful attack always does at least 1 point of damage (before DR).
 
-**Damage Resistance (DR)**: Is the measure of how well you are physically protected. Typically this is from the armour you are wearing. Reduce all incoming damage by this amount.
+#### Damage Resistance (DR)
+Is the measure of how well you are physically protected. Typically this is from the armour you are wearing. Reduce all incoming damage by this amount.
 
 Any damage that penetrates DR is multiplied by the damage type's Wounding Multiplier. A victim loses HP equal to this new sum.
 
-**Hit Points**: You do not automatically die at 0 HP, but every turn thereafter you must make a success roll against HT, with a -1 for each multiple of negative HP. Failure means you instantly fall unconscious.
+### Hit Points
+You do not automatically die at 0 HP, but every turn thereafter you must make a success roll against HT, with a -1 for each multiple of negative HP. Failure means you instantly fall unconscious.
+
 > If you reach the end of an encounter and are still below 0 HP make an HT roll -5 (Include negative HP penalty). On a success no further rolls are needed till you receive damage again, on a failure you fall unconscious.
 
-**Dying**: If you reach a negative multiple of your HP, you must immediately make an HT roll. On a failure of 3 or more you die. If you fail by 2 or less you pass out.
+#### Dying
+If you reach a negative multiple of your HP, you must immediately make an HT roll. On a failure of 3 or more you die. If you fail by 2 or less you pass out.
 
 If you reach -5xHP you die instantly, -6xHP your body is destroyed.
 
-**Recovery**: A character with the First Aid skill can make a success roll to attempt to heal an injured character (don't forget modifiers). This requires one minute and restores 1 HP if successful. If the caregiver continues to care for the wounded character for another 29 minutes, the wounded character recovers 1d-2 HP (minimum 1) more hp.
+### Recovery
+A character with the First Aid skill can make a success roll to attempt to heal an injured character (don't forget modifiers). This requires one minute and restores 1 HP if successful. If the caregiver continues to care for the wounded character for another 29 minutes, the wounded character recovers 1d-2 HP (minimum 1) more hp.
 
 Further healing requires rest. At the end of each day of rest, make a success roll against HT. On success, the character regains 1 HP for every 10 points of max HP (minimum 1).
 
 Characters that fell unconscious automatically wake up 15 minutes after their HP becomes positive. Or an hour after receiving First Aid.
 
-**Fatigue points** can be recovered at a rate of 1 per ten minutes of rest.
+#### Fatigue points
+FP can be recovered at a rate of 1 per ten minutes of dedicated rest. An Energy Reserve typically replenishes at the same rate and both may recover at the same time.
 # [Equipment](MURPS-Equipment.md)
