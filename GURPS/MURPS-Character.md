@@ -114,7 +114,7 @@ Foulkn are well known for their diversity and versatility. This is represented v
 
 **Spells** (20+)
 
-### Cleric(60+)
+### Cleric (60+)
 **Traits** (39+)
 - Clerical Investment (5)
 - [Holy Investiture](MURPS-Magic.md) 3 (30)
@@ -191,7 +191,7 @@ Foulkn are well known for their diversity and versatility. This is represented v
 
 ### Bard (57+)
 **Traits** (40+)
-- Bardic Talent 2 (16)
+- Bardic Talent 2 (20)
 - Charisma 1 (§) (5)
 - Musical Talent 1 (\*) (5) 
 - Voice (†) (10)
