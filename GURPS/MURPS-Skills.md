@@ -37,8 +37,6 @@ Modifiers: +1 for every point of IQ you have over the person you are trying to f
 
 This is the study of magical transformations and transmutations. An alchemist is be able to identify concoctions with magical effects (“elixirs”), such as love potions and healing unguents, and prepare them from suitable ingredients. This is a mechanical process, using the mana inherent in certain things.
 
-[Details on Alchemical crafting](https://enragedeggplant.blogspot.com/2017/12/metatronic-alchemy.html)
-
 #### Animal Handling†
 - IQ/Average
 - Default: IQ-5.

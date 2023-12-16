@@ -5,17 +5,17 @@ The basic mechanic of GURPS is the success roll against a Skill or Attribute. To
 ### Quick Contest
 When two characters are competing to do something very quickly – for instance, two enemies lunging for an item. This is called a quick contest. Each competitor attempts a success roll. If one succeeds and the other fails, the winner is obvious. If both succeed, the winner is the one with the largest margin of success. If both fail the winner is the one with the smallest margin of failure. A tie means no one won.
 # [Character](MURPS-Character.md)
-## Attributes
+### Attributes
 Most adventurer's have stats between 8-20, with 10 being the Foulkn Average. The four attributes are as follows.
 
 **Strength (ST)**: Sets **Hit Points (HP)**, and **Damage (Dmg)**.
 
 **Dexterity (DX)**: Helps determine **Speed** and is used for many skills.
 
-**Intelligence (IQ)**: Determines **Perception**, **Will**, and is used for many skills.
+**Intelligence (IQ)**: Is used for many skills including spells.
 
 **Health (HT)**: Governs how well you resist bad effects, your **Fatigue Points (FP)** and helps determine **Speed**.
-## Secondary Attributes
+### Secondary Attributes
 These are derived from your Attributes.
 
 **Hit Points (HP)**: Your body's ability to sustain injury.
@@ -35,11 +35,11 @@ These are derived from your Attributes.
 **Move**: A measure of how far you can move in one turn, in hexes (yards).
 
 **Damage**: Damage is broken up into Swing damage (Sw) and Thrust damage (Thr). Weapons will use these as the base of their damage dealt.
-## [Skills](MURPS-Skills.md)
+### [Skills](MURPS-Skills.md)
 Skills govern what your character is good at. If you don't have a skill you may still be able to "use" it by rolling against it's **default**. This will be an **attribute** minus a number.
 
 While every character should have at least one weapon/combat skill, you need more than just weapons to survive. For a full list of Skills check [here](MURPS-Skills.md).
-## Traits
+### Traits
 Traits are details about your character and how they interact with the game; world and system. These cover everything from your kin, magical powers, place in society, languages known, to even attractiveness.
 # Combat
 Combat proceeds in rounds with a round lasting one second. Each round, characters act in the order of their Speed, with the highest number going first. Each player chooses a Maneuver for their character from the following list.
