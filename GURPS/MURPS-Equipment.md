@@ -27,7 +27,7 @@ Melee weapons are grouped under the skills required to use them. Skill names app
 | Club           | sw+1 cr  | 1     | 0U    | $10  | 3      | 10  |       |
 | Great Axe      | sw+4 cut | 1, 2* | 0U    | $100 | 8      | 12‡ |       |
 | Humongous Club | sw+6 cr  | 1, 2* | 0U    | $100 | 15     | 16‡ |       |
-| Mace           | sw+2 cut | 1     | 0U    | $50  | 5      | 12  | [1]   |
+| Mace           | sw+2 cr | 1     | 0U    | $50  | 5      | 12  | [1]   |
 | Maul           | sw+5 cr  | 1, 2* | 0U    | $80  | 12     | 13‡ |       |
 | Pick           | sw+1 imp | 1     | 0U    | $70  | 3      | 10  | [2]   |
 | Scythe         | sw+3 cut | 1     | 0U    | $15  | 5      | 11‡ |       |
@@ -129,7 +129,7 @@ Successive parries suffer a -2 instead of -4
 | Pike         | thr+3 imp | 4,5*  | 0U    | $80  | 13     | 12† |       |
 | Quarterstaff | sw+2 cr   | 1, 2  | +2    | $10  | 4      | 7†  |       |
 | *or*         | thr+2 cr  | 1, 2  | +2    |      |        | 7†  |       |
-| Spear        | thr+2 imp | 1, 2* | 0U    | $40  | 4      | 10  | [1]   |
+| Spear        | thr+2 imp | 1* | 0U    | $40  | 4      | 9  | [1]   |
 | *two hands*  | thr+3 imp | 1, 2* | 0     |      |        | 9†  |       |
 
 [1] Can be thrown with a range of ST x1/x1.5 and a bulk of -4. 
