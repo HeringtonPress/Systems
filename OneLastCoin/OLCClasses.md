@@ -9,9 +9,9 @@ You are a dedicated warrior, focusing on the killing of your enemies to the excl
 - C: Called Attack
 - D: Cleave
 
-**Critical Hits**: When rolling to hit a natural 1 results in you Impairing one of the targets attacks or dealing damage as though you where bolstered.
+**Critical Hits**: .
 
-**Parry**: You may raise any weapon as a shield. Reducing damage with the weapons die the weapon breaking on a maximum roll. When a Magic Weapon would break in this way make an Allure Save to attempt to save it.
+**Parry**: You may gamble a weapons damage dice as armor dice like a shield. Weapons Dice may be fixed as armor but if all the Weapons Dice are lost the weapon is lost.
 
 **Notches**: Each time you attain a total of 10, 20, 30, and 50 kills with a weapon type (such as 10 kills with a dagger), you unlock a new ability for that weapon, chosen from the list below.
 - +1 Damage

@@ -1,5 +1,17 @@
+# MURPS-Character
+GURPS characters are created by spending Character Points. The GM will assign you a starting budget to build your character.
+
+- Ordinary Folk [25-75]
+- Heroes in the Making [75-125]
+- Professional Adventurer [125-175]
+- Named Heroes [175-250]
+- Living Legends [250+]
+
+Characters are defined by their Attributes, Skills, and Traits. All of which cost points. Lowering scores or taking negative traits can even give you more points to spend. However you can never receive more then 60 points back from negatives. 
+## GCS
+It is highly recommended to build your character in [GCS](https://gurpscharactersheet.com/), This will help you track points and such though a few changes are needed to make this program work for MURPS instead of GURPS.
 # MURPS Character Options
-A Collection of Character options and Meta-Traits. These are not all the Traits available but simply some packages and suggestions.
+A Collection of Character options and Meta-Traits. These are not all the Traits available but simply some packages and suggestions. It's best to think of these as starting points when you aren't sure how to start.
 # Kin
 ### Foulkn (0)
 Foulkn are well known for their diversity and versatility. This is represented via Foulkn's costing nothing to take, leaving you with points left to spend on individual characteristics.

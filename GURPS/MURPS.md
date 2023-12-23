@@ -45,9 +45,9 @@ Traits are details about your character and how they interact with the game; wor
 Combat proceeds in rounds with a round lasting one second. Each round, characters act in the order of their Speed, with the highest number going first. Each player chooses a Maneuver for their character from the following list.
 ## Maneuvers
 ### Basic Maneuvers
-**Move**: Use this maneuver to take Full Movement (see Movement below).
+**Move**: Use this maneuver to take Full Movement.
 
-**Attack**: Attack an enemy with a ready weapon. Make a success roll against your skill with the weapon. If you succeed the target must then fail to Defend (see active Defense below). As part of your Attack you may Step.
+**Attack**: Attack an enemy with a ready weapon. Make a success roll against your skill with the weapon. If you succeed the target must then fail to Defend (see active Defense below). As part of your Attack you may Step (see Movement below).
 
 **Aim**: Aim at a specific, visible target. If you attack your target on your next turn, you may add your attack's Acc bonus to your effective skill – but if you lose sight of your enemy or make an Active Defense the bonus is lost. As part of your Aim you may Step.
 
