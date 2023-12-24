@@ -116,26 +116,20 @@ You gain experience through indulging in the spoils of your quests and explorati
 |   4   | 6000  |     4     |  13   |
 |  5+   | +4000 |           |  14   |
 
-## Spellcasting
+## Spellcasting and Magic
 It takes 1 camp action to move any number of spells between your brain and a scroll, spellbook, or wand.
 
-To cast a spell, select a number of Magic Dice (MD) you wish to invest, roll them, and add the numbers together. Most spells depend on the number of (dice) invest and the (sum) they show. If you roll doubles, see the Mishap section. If you roll triples, see the Doom section.
-
-Dice that roll 1-3 return to your casting pool and can be used again that day. Dice that roll 4+ are removed from your casting pool till you recover them via a feast.
+To cast a spell you must have access to one, typically from a scroll or spellbook. Select a number of Magic Dice (MD) you wish to Gamble, roll them, and add the numbers together. Most spells depend on the number of (dice) invest and the (sum) they show. If you roll doubles, see the Mishap section. If you roll triples, see the Doom section.
 ### Spellbooks
-A solid volume, with thick vellum pages and a sturdy cover. Each school produces its own style. Inside, special runes and symbols trap spells inside cages of crystallized thought. Each book contains 5 spell slots. Spellbooks come in a waterproof, acid- and fire-resistant bag. Outside the bag, they are not waterproof. They are flammable. Each book is worth 100gp even if it contains no spells. 
+A solid volume, with thick vellum pages and a sturdy cover. Each school produces its own style. Inside, special runes and symbols trap spells inside cages of crystallized thought. Each book contains 5 spell slots. Spellbooks are waterproof, acid- and fire-resistant. Each book is worth 100gp even if it contains no spells.
 ### Scrolls
-A page from a spellbook, effectively, but with some extra magic built in. If you cast a spell from a scroll or spellbook, without moving it to a spellslot first,  you burn the scroll adding +1 MD to your roll. This MD does not return to your pool. You can generate Mishaps and Dooms while using a scroll. A blank scroll is worth 10gp.
+A page from a spellbook, effectively, but with some extra magic built in. If you cast a spell from a scroll or spellbook, without moving it to a spellslot first,  you can burn the scroll adding +1d6 MD to your roll gamble. This MD does not return to your pool. A blank scroll is worth 10gp.
 ### Wands
-Wands are like scrolls, but customized for quick use, concealment, and rapid reuse. A wand has a number of banked MD. You can spend these MD when you cast a spell from a wand, but you can't add in your own MD. These MD do not return to your pool (or the wand's pool). It takes the standard 1hr to load a spell from your brain or spellbook into a wand. Using a wand can generate Mishaps and Dooms.  
-  
-You can choose, when you move a spell, to try to invest 1 MD into the wand. You take d6 damage from the strain but the MD invested in the wand is permanently added to the wand's MD bank.
-  
-Most wands can only accept 4 banked MD and 1 spell. Larger wands, called staves, can hold up to 6 banked MD and up to 3 spells. Wands are traditionally made from the wood of lightning-struck trees.
+Wands are like scrolls customized for rapid reuse. A wand has it's own pool of MD and can hold one spell. You can gamble these MD when you cast a spell with a wand, whether it is the stored spell or not. The Wands MD are always lost when gambled.
 
-Non-spellcasters can use wands. If they suffer a Mishap, use the table from the school that prepared the wand. If they suffer a Doom, the automatically suffer the Third Doom from the wand's school, which usually means instant death.  
-### Identifying Magic
-Wizards can (by tasting, rubbing, or closely inspecting) tell if an item is magic. You may need to test the item to determine what type of magic. You can Save to see if you can learn anything else about the item without testing it.  
+You can choose to invest MD into the wand. You roll the MD and take damage equal to the result. The MD invested in the wand is permanently added to the wand's MD bank until spent. This process takes a dungeon turn.
+
+Most wands can only accept 4 banked MD and 1 spell. Larger wands, called staves, can hold up to 6 banked MD and up to 3 spells. Wands are traditionally made from the wood of lightning-struck trees.
 ### Mishaps
 If you roll doubles while casting a spell, roll on your school's mishap table. Unless otherwise specified, the spell still works. Magic is dangerous; this was just a hiccup or misfire.  
 ### Dooms
