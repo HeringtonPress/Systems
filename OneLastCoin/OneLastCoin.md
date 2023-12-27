@@ -1,8 +1,16 @@
 # OLC Core
 ## Saves
-When doing anything with an interesting chance of failure you roll a d12, trying to roll higher then 8. A tasks difficulty may grant you a bonus or penalty to your roll.
+When doing anything with an interesting or dangerous chance of failure you roll a d12, trying to roll higher then 8. A tasks difficulty may grant you a bonus or penalty to your roll.
 ## Gambling Dice
 To gamble dice decide the size of the pool and then roll all of them, losing any dice that show the highest 2 results of that die.
+
+## Bid Lore
+Information and lore are categorised into 3 levels of obscurity.
+
+- **Common Lore**: Everyone knows this. The GM will tell you all about this. 
+- **Rare Lore**: Few know this. You must have an applicable background and must roll a Brain Die as if you gambled it. Regardless of the result you know the information.
+- **Lost Lore**: None know this. You roll a Save and must Gamble at least 1 Brain Die. On a success you know where to learn more information about this.
+
 ## Kin
 
 |  2d6  | Kin       | Boon                                           | Bane                         |
@@ -14,8 +22,8 @@ To gamble dice decide the size of the pool and then roll all of them, losing any
 | 10-11 | Dwarrow   | Start with Wrote known                         | Sink like a stone            |
 |  12   | Beastfolk | -                                              | -                            |
 
-## Class
-[Classes](OLCClasses.md) are broken up into Templates which are denoted as A, B, C, and D. You begin play with the A template of a Class and as you progress you can unlock more. When you buy additional templates with Experience you may take the next alphabetical template in a class you have or take A in a new class that makes sense for your character. A character may never have more the 4 templates, though you could swap two templates at the cost of buying a new one.
+## [Class](OLCClasses.md)
+Classes are broken up into Templates which are denoted as A, B, C, and D. You begin play with the A template of a Class and as you progress you can unlock more. When you buy additional templates with Experience you may take the next alphabetical template in a class you have or take A in a new class that makes sense for your character. A character may never have more the 4 templates, though you could swap two templates at the cost of buying a new one.
 
 You gain access to all the parts of a class when you have that letter template. For example. Laius is a level 1 Slayer, meaning he get both Critical Hits and Attack Surge. 
 ## Background
@@ -47,7 +55,7 @@ Characters have a number of Flesh points equal to 6. Characters have a variable 
 
 You die when they have less Flesh points then -Half max.  
 
-If you're Flesh is in the negatives but you're not dead, a character can use a First Aid Kit to heal you to 0 Flesh.
+If you're Flesh is in the negatives but you're not dead, a character can use a First Aid Kit to heal you to 0 Flesh. Being healed in this way gives you 1 Stress.
 ## Cooking Feasts
 A **feast** is a moment of actual rest in the middle of hostile and hungry darkness. Depending on the make up of the feast, characters might gain Grit, Magic, Brain, or Brawn Dice. See Nutrients below.  
 
@@ -121,7 +129,7 @@ It takes 1 camp action to move any number of spells between your brain and a scr
 
 To cast a spell you must have access to one, typically from a scroll or spellbook. Select a number of Magic Dice (MD) you wish to Gamble, roll them, and add the numbers together. Most spells depend on the number of (dice) invest and the (sum) they show. If you roll doubles, see the Mishap section. If you roll triples, see the Doom section.
 ### Spellbooks
-A solid volume, with thick vellum pages and a sturdy cover. Each school produces its own style. Inside, special runes and symbols trap spells inside cages of crystallized thought. Each book contains 5 spell slots. Spellbooks are waterproof, acid- and fire-resistant. Each book is worth 100gp even if it contains no spells.
+A solid volume, with thick vellum pages and a sturdy cover. Each school produces its own style. Inside, special runes and symbols trap spells inside cages of crystallized thought. Each book contains 3 spell slots. Spellbooks are waterproof, acid- and fire-resistant. Each book is worth 100gp even if it contains no spells.
 ### Scrolls
 A page from a spellbook, effectively, but with some extra magic built in. If you cast a spell from a scroll or spellbook, without moving it to a spellslot first,  you can burn the scroll adding +1d6 MD to your roll gamble. This MD does not return to your pool. A blank scroll is worth 10gp.
 ### Wands
@@ -129,7 +137,7 @@ Wands are like scrolls customized for rapid reuse. A wand has it's own pool of M
 
 You can choose to invest MD into the wand. You roll the MD and take damage equal to the result. The MD invested in the wand is permanently added to the wand's MD bank until spent. This process takes a dungeon turn.
 
-Most wands can only accept 4 banked MD and 1 spell. Larger wands, called staves, can hold up to 6 banked MD and up to 3 spells. Wands are traditionally made from the wood of lightning-struck trees.
+Most wands can only accept 4 banked MD and 1 spell. Larger wands, called staves, can hold up to 6 banked MD and up to 2 spells. Wands are traditionally made from the wood of lightning-struck trees.
 ### Mishaps
 If you roll doubles while casting a spell, roll on your school's mishap table. Unless otherwise specified, the spell still works. Magic is dangerous; this was just a hiccup or misfire.  
 ### Dooms
@@ -141,7 +149,7 @@ You suffer your dooms in chronological order. Dooms may only be reversed with th
 ### Watches
 Days spent Traveling are split into 6 Watches. Your Guide rolls an Omen each Watch and an Omen rolled twice in a journey becomes an Encounter.
 ### Actions
-**MOVE** a hex and see all non-hidden features in it. Receiving Fatigue based on the difficulty of the terrain.
+**MOVE** a hex and see all non-hidden features in it. Receiving stress based on the difficulty of the terrain.
 
 Easy = 0 | Neutral = 1 | Difficult = 2 | Treacherous = 3
 
@@ -156,11 +164,15 @@ Easy = 0 | Neutral = 1 | Difficult = 2 | Treacherous = 3
 **FEAST** Spend a watch cooking and eating a feast.
 
 **DELVE** Unless obviously more time is taken, Delving into and exiting a dungeon takes a Watch.
+
+**REST** Take a moment to recuperate, lose all Stress, but the GM will roll for Omens twice.
 ### Vehicles
+Riding a mount or vehicle reduces all Stress received by 1.
+
 Vehicles moving through Difficult or worse terrain have a 1-6 chance of breaking, which requires a Watch to fix.
 ## Delving
 ### The Underclock
-It starts at 20 when you walk into a dungeon.  When it reaches 0, an Encounter happens.
+Beginning at 20 when you enter a dungeon, when it reaches 0, an Encounter happens.
 
 You will periodically roll a six-sided Underworld die and subtract it from the Underclock whenever the party expends time or noise.  Examples of actions that provoke an Underclock Roll:
 - Exploring a new room (including long hallways).
@@ -232,9 +244,9 @@ When getting attacked. You may Gamble your Armor Dice to subtract the result of 
 ### Impaired vs Bolstered
 Attacks may become Impaired by circumstances within the fiction. I.e. fighting with a polearm in a narrow tunnel, using a knife against an acidic ooze, firing a bow into melee, swinging your sword while laying prone. Similarly some attacks may have reason to be more effective then they regularly are.
 
-When making an attack while impaired your damage dice become d4s. While Bolstered add a d6 to the damage roll.
+When making an attack while impaired your weapon dice become d4s. While Bolstered add a d6 to the damage roll.
 ### Fleeing
-If the party agrees to flee then bar dire circumstances they escape. Each character that escaped suffers 2d6 Fatigue. They may attempt to throw treasure, food, or obstacles in the way of the enemy to avoid Fatigue. Fleeing in this way leaves any fallen or captured ally behind, unless you are holding the fallen and have the slots to do so. The average person is 6 Slots and dragging allows you to ignore their encumbrance.
+If the party agrees to flee then bar dire circumstances they escape. Each character that escaped gains 2d3 Stress. Any items dropped in the pursuit are lost to the dungeon. Fleeing in this way leaves any fallen or captured ally behind, unless you are holding the fallen and have the slots to do so. The average human is 6 Slots and dragging allows you to ignore their encumbrance.
 
 ## Equipment
 
@@ -249,7 +261,7 @@ If the party agrees to flee then bar dire circumstances they escape. Each charac
 | Chisel           |     5     |
 | Crowbar          |    10     |
 | Drill            |    10     |
-| Fire Kit (4)     |     4     |
+| Fire Kit (3)     |     3     |
 | Fishing Gear     |    10     |
 | Marbles          |     5     |
 | Glue             |     5     |
@@ -275,7 +287,7 @@ If the party agrees to flee then bar dire circumstances they escape. Each charac
 | Saw              |     5     |
 | Sack             |     1     |
 | Soap             |     1     |
-| Spike (4)        |     1     |
+| Spike (3)        |     1     |
 | Sponge           |     5     |
 | Spyglass         |    40     |
 | Tar              |    10     |
@@ -289,7 +301,7 @@ If the party agrees to flee then bar dire circumstances they escape. Each charac
 
 | Provisions      | En  | Mi  | Vi  | Pr  | Port | GP  |
 | --------------- |:---:|:---:|:---:|:---:|:----:|:---:|
-| Rations (4)     |  X  |  X  |  X  |  X  |  X   |  8  |
+| Rations (3)     |  X  |  X  |  X  |  X  |  X   |  6  |
 | Beast Feed (3)  |  X  |  X  |  X  |  X  |  X   |  3  |
 | Cheese (3)      |  2  | 0.5 | 0.5 |  1  |  1   | 20  |
 | Dried Fruit (3) | 0.4 |  1  |  1  |  0  |  0   | 12  |

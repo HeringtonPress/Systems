@@ -1,4 +1,204 @@
 # OLC Classes
+## Alchemist
+Starting Equipment: 1 Potion of each colour (plus their recipe), a miniature lab (2 slots), a knife.
+- A: Lesser Brews, Bombs
+- B: Antidotes, Chug
+- C: Explosive Infusion
+- D: Greater Brews
+
+**Lesser Brews**: You can turn monster corpses into extracts. Each corpse takes 10 minutes to render and is destroyed by the process. Each HD of corpse yields one extract (no partial extractions). There are three different colours of extracts. Animal-based monsters tend to give red extracts; oozes and insects tend to give green extracts; undead monsters tend to give blue extracts.
+
+One extract can be used to make a brew. 6 can be used to learn a new brew with a month's time. Extracts don’t take up inventory slots as long as you have a miniature lab. Brews are a light item.
+
+You can only make brews that you know the recipe for. It takes 10 minutes to make a brew. Brews with the throwable tag can be thrown 30’ and and all brews can be consumed or splashed on targets within 5’. A Brew lasts 10 minutes unless stated otherwise or obviously instantaneous.
+
+**Bombs**: In addition to three starting brews, you also know how to make Bombs. Made the same way as brews, bombs are also light. Throwable up to 30’. Bomb damage ignores armor but not shields. Different extracts have different effects in a 5’ radius (2x2 squares).
+- **Blue**: 2d4 damage, on max damage roll targets killed reanimate as mindless killers.
+- **Red**: deals 1d6, targets killed explode for 1d4.
+- **Green**: deals 1d6 damage, targets killed are transmuted into movement-blocking, writhing vines.
+
+**Antidotes**: You are an expert in antidotes. You can turn any brew into an antidote to itself, which automatically stops ongoing effects. This does not apply to most brews that have instant effects. 
+
+**Chug**: Through uncomfortable route practice you can drink faster than most people, especially thick and vile brews. You can consume a single brew as a free action per round.
+
+**Explosive Infusion**: You can combine your bombs and brews together. When a brew-infused bomb explodes, its effects apply to the targets. You can choose whether the brew-bomb deals damage on its creation.
+
+**Greater Brews**: You can harvest greater extracts from creatures that are HD 4 or higher (1 extract per 4 HD). It takes one greater extract to make a greater brew and 4 to learn a new greater brew. They take 10 minutes to extract and each one can be converted to 3 lesser extractions. 
+#### Brews
+
+| d20 | Lesser Red Brews | Desc                                              |
+|:---:| ---------------- | ------------------------------------------------- |
+|  1  | Fresh Blood      | Irresistable to wildlife                          |
+|  2  | grease           | Save or fall, lasts 10 minutes                                      |
+|  3  | acid             | Eats metal, except gold                           |
+|  4  | Flash juice      | blinds 10', or light for 2 0UD                    |
+|  5  | frost bomb       | Throwable, 1d6, extinguishes nearby fires         |
+|  6  | liquid spikes    | Caltrops                                          |
+|  7  | Bottled Bonfire  | as firekit, or instant flame.                     |
+|  8  | laughing gas     | Throwable, Save or rofl                           |
+|  9  | darkness         | Throwable, 10'                                    |
+| 10  | false life       | Gain 1d6 Grit                                     |
+| 11  | Brawn            | Gain a d4 Brawn                                   |
+| 12  | Poison           | Next attack Bolstered against red extract enemies |
+| 13  | jump (50' jump)  |                                                   |
+
+| d20 | Lesser Green Brews                                           | Desc                                                          |
+|:---:| ------------------------------------------------------------ | ------------------------------------------------------------- |
+|  1  | super glue                                                   | Sets over 10 minutes.                                         |
+|  2  | pourable ice                                                 | Save +2 or Fall, lasts 2 hours                                |
+|  3  | fog (10')                                                    | Throwable, 10'                                                |
+|  5  | Venom (Next attack is Bolstered, only green extract enemies) | Next attack Bolstered against green extract enemies           |
+|  6  | alarm dust (sings when stepped on)                           | Sings when stepped on, lasts 1 day                            |
+|  7  | liquid horse                                                 | Gain a Mount for 3 Watches                                    |
+|  8  | liquid oozeling                                              | Highly mutable Ooze companion. 6 Slots, will absorb organics. |
+| 10  | sleep                                                        | Throwable, 10', Save or Sleep.                                |
+| 11  | reduce person                                                | Shrink, inch:Feet.                                            |
+| 12  | enlarge person                                               | Grow, 2x mass.                                                |
+| 13  | see invisibility                                             | See invisibility                                              |
+| 14  | comprehend languages                                         | The next non-Common Tongue you hear.                          |
+| 15  | feather fall                                                 | Fall as if a feather                                          |
+
+| d20 | Lesser Blue Brews                                                                    | Desc                                                              |
+|:---:| ------------------------------------------------------------------------------------ | ----------------------------------------------------------------- |
+|  1  | cure light wounds (heal 1d4)                                                         | Heal 1d4 Flesh.                                                   |
+|  2  | dash (Move twice as fast)                                                            | Free move action each turn, gain no stress fleeing.               |
+|  3  | restoration (heal 1 or if negative bring to 0)                                       | Bring Flesh to 1 if below 0.                                      |
+|  4  |                                                                                      |                                                                   |
+|  5  | hide from undead (undead ignore you)                                                 | Undead ignore you                                                 |
+|  6  | mind blank                                                                           | Makes mind unreadable                                             |
+|  7  | endure elements (+2 to save against elements)                                        | +2 to Saves against Elements. 1d4 armor against elemental attacks |
+|  8  | Darkvision (Don't count towards needed light, can't see details)                     | Don't count towards light count.                                  |
+|  9  | minor invisibility (targets must be objects small enough to fit into your inventory) | Turn object invisible.                                            |
+| 10  | stasis                                                                               | Make object move as if slow-mo                                    |
+| 11  | alchemical iron (cold iron)                                                          | Object counts as cold iron.                                       |
+|     | Toxin (Next attack is Bolstered, only green extract enemies)                         | Next attack Bolstered against blue extract enemy.                 |
+| 12  | anti-petrification (also works on paralysis)                                         | Also works on Paralysis.                                          |
+| 13  | regeneration (Slow and requiring multiple doses)                                     | Slowly grow back lost body parts. May take multiple.              |
+
+#### Greater Brews
+
+| d8  | Greater Red Brews                                          |
+|:---:| ---------------------------------------------------------- |
+|  1  | grenado (Throwable, 2d6, chance of exploding as bomb Brew) |
+|  2  | faerie fire                                                |
+|  3  | incendiary cloud (Throwable, 1d6)                          |
+|  4  | Stink cloud (Throwable)                                    |
+|  5  | Rapid Acid                                                 |
+|  6  | big frost bomb                                             |
+|  7  | Jekylyde (+3 Brawn, -3 Cunning, Become mean)               |
+|  8  | dispel magic                                               |
+
+| d8  | Greater Green Brews                 |
+|:---:| ------------------------------------- |
+|  1  | invisibility                          |
+|  2  | webbing (as web)                      |
+|  3  | animate object                        |
+|  4  | mirror image                          |
+|  5  | fusion Brew (requires two drinkers) |
+|  6  | water breathing                       |
+
+| d8  | Greater Blue Brews                                     |
+|:---:| -------------------------------------------------------- |
+|  1  | protection from fire                                     |
+|  2  | protection from cold                                     |
+|  3  | escape (freedom of movement 1 round)                     |
+|  4  | cure moderate (2d6)                                      |
+|  5  | inflict moderate (2d6)                                   |
+|  6  | restoration                                              |
+|  7  | shared blood (allows two people to pool their HP as one) |
+
+
+
+## Deserter
+**Starting Equipment**: Light armour, a shield bearing your former affiliation, a 1 slot weapon, a weight on your conscience, and good boots.
+- You get an additional +1 HP at A and C.
+- **A:** Parry, Well-Travelled, Basic Training
+- **B:** Patchwork, Fleet of Foot
+- **C:** Unperturbed, Good Boots
+- **D:** Danger Sense, Piece Meal
+
+**Parry**: You may Gamble your Weapon Dice as Armor Dice. Doing so either before or after Gambling Armour.
+
+**Well-Travelled:** You've been everywhere since you ran away. You can read road signs in any Tongue, and whenever bidding knowledge if you do not have an applicable background you may spend a Brain Die to get information as if you did.
+
+**Basic Training:** You always add 1d4 to Saves during combat.
+
+**Patchwork**: At the end of Combat you reroll any lost Armour Dice, gaining them back on the highest result. 
+
+**Fleet of Foot:** When running away from a fight you suffer only 1 Stress.
+
+**Unperturbed:** You've seen a lot, both before and after you defected. You add 1d4 to saves against fear, and so do your allies if you roll and succeed first.
+
+**Good Boots**: You also suffer 1 less Stress as if you where on a mount, this does not stack if you have a mount.
+
+**Danger Sense:** You have a good nose for when things are about to go south. You can't be surprised, and make a free melee attack at the start of combat at someone or something, regardless of initiative.
+
+**Piece Meal**: When rolling Armour Dice for Patchwork, gain the Dice back on the highest 2 results. Patchwork now also applies to Weapon and Shield dice lost.
+
+
+## Rat King
+Starting Equipment: Icon of the Rat King, Sling, Cheese (3), Lockpicks
+- You get an additional max rat at B and D.
+- **A:** Rat Friend, Call Rat  
+- **B:** Throw Rat, Rat Mapping
+- **C:** Rat Bullet, Dire Rat
+- **D:** Transfer Affliction
+
+**A: Rat Friend**  
+You begin play with a variant of Faelul called Ratspat. You can use it to speak freely with all rodents and unlike faelul they may respond, though in broken tongue.
+
+Additionally all rodents recognize you as the beloved rat king, and will improve their starting attitude toward you one step. This protection doesn't extend to your friends.
+
+**A: Call Rat**
+You tap on walls, sing a song, or emit a high-pitched squeak. If there are rats nearby (and there are nearly always rats) a rat who is loyal to the rat king will emerge from somewhere nearby and join you. Calling a rat incurs a roll on the Underworld Die.
+
+Rats who are loyal, obey you because they are _terrified_ to disobey the rat king for reasons they struggle to explain. They obey you unhesitatingly, although they require a slice of cheese if given obviously suicidal orders.
+
+The maximum number of rats that you can summon per day is equal to 3 times your level. However, the maximum number of rats you can have under your control is equal to your level, with an additional at B and D. Rats who are out on missions for you (such as carrying messages or mapping) still count towards this limit.
+
+**B: Throw Rat**  
+You can throw your rats as weapons. The rat becomes attached.
+
+Each attached rat does 1 point of damage per turn. A rat can be pulled off and held with a +4 Save. A held rat can be crushed in your hand as a free action.
+
+**B: Rat Mapping**
+You can send your rats into a dungeon to map it. This takes 20 minutes per room explored, but is relatively low risk. Choose how many rats you want to send in, and remember that you are still limited by how many rats you can control at once.
+
+Rooms are described primarily through smells as well as a general sense of "good place", "bad place", or "indifferent" based on whether or not the room contains anything of interest to a rat. Because rats are stupid, lazy, easily confused, and really bad at passing messages along.
+	Rats enjoy food, water, safety, warmth, and an abundance of places to hide (such as furniture debris or dirty straw).  Rats don't enjoy fire, noise, large creatures moving around, people talking, or a complete lack of places to hide.
+
+So the map is just a list of circles with lines drawn between them, labeled with the predominant smell of that room (if any), with occasional smiley faces and sad faces, depending on whether the rats did or didn't like the room. 
+
+Rats find all obvious exits to a room.  They have a 2-in-6 chance of finding secret passages. Even if they can't enter it, they can still detect it, and tell you about it.
+
+Your DM will draw your rat map as follows: Get a d6 for every rat sent. Assume that all the rats move into the first room and roll all the d6s. So if you sent in 4 rats, roll 4d6 for the first room.
+
+A result of a 1 or 2 indicates that rat has died, gotten bored, or wandered off.
+
+If you have at least two dice that show a '6', the rats have paid especially good attention to this room, and return with a more useful description of the room. They actually return with a description closer to what a person would describe. They are limited by their language. They have names for all the common monsters, though you may not know them yet.
+
+You don't get to cross-examine the rat about the description.
+
+Then pick up all of the remaining d6s, pick an unexplored path (from any room), and then go through it. Repeat this process for the next room.
+
+[![](https://4.bp.blogspot.com/-AoYdlgstvK8/Vm6U8X1cBUI/AAAAAAAAItw/peaCB_Dj1-E/s320/rat%2Bmap.png)](https://4.bp.blogspot.com/-AoYdlgstvK8/Vm6U8X1cBUI/AAAAAAAAItw/peaCB_Dj1-E/s1600/rat%2Bmap.png)
+- an example of what the rat mapping function will return  
+- notice that they must have gotten at least two 6s on the first room
+- also notice that they have an equal chance of exploring any unexplored room
+
+You can use this ability from within a dungeon, too. Just remember that you're to eat away at the Underclock while you sit there waiting for the stupid rats to come back.
+
+Rats that you use in this way wander off. Mechanically this is the same as all rats used in this way dying.
+
+**C: Rat Bullet**
+When you throw a rat you can choose to instead focus on impact. The rat deals 2d4 damage and dies on impact.
+
+**C: Dire Rat**
+When you Call Rats you may instead call a dire rat. This counts as 4 rats for the sake of the maximum you can command. This dire rat cannot be thrown or map dungeons but does have the combat prowess to act on their own. You can command them as a free action on your turn but they always go after you and after the enemies. 
+
+**D: Transfer Affliction**
+Once per day, you can transfer a disease, poison, or curse onto a willing rat. Your loyal rats always count as willing (although they may curse your name or haunt you).
+# Workshop
 # Fighters
 ## Slayer
 You are a dedicated warrior, focusing on the killing of your enemies to the exclusion of the development of wider abilities.
@@ -42,21 +242,10 @@ Examples: ability to draw the weapon from any slot, knock a target prone on a cr
 
 **D) Camper**: Making Camp can be done as part of the first sleep action.
 # Wizards  
-## Base Wizard
-Most Caster type classes are labled as "Wizard". Anything with Wizard in it's name includes these following templates unless otherwise stated.
+#### Spell Slots
+You have practiced storing spells in you mind as apposed to in living wood. You can keep a number of spells stored in your brain equal to your number of Wizard Templates. Spells prepared in this way do not require a book or wand to cast.
 
-- A: +2 Spells (1-6), Spell Breeding  
-- B: +1 Spell (1-8), Book Casting  
-- C: +1 Spell (1-10), Friendly Spell  
-- D: Master of Magics  
-  
-You gain +1 Magic Die (MD) and +1 Spell Slot for each Wizard template you possess, to a maximum of 4 each.  
-  
-When you first gain a Wizard template, you must choose a school from the list below. You cannot change schools later. You are a spellcaster.
-  
-As you level, you will gain spells from your school’s spell list. You still can learn and cast spells from outside your school, but until you cast them 8 times, MD spent on them do only return on a 1, rather than a 1-3.  
-  
-**Spell Breeding**  
+#### Spell Breeding  
 You can attempt to crossbreed and combine two spells into one new spell. Both spells need to be stored on separate scrolls initially. This process takes 1 week of uninterrupted work. You can combine the spells to produce one of the following:  
 a) a random spell from your spell list (roll 1d10)  
 b) a random spell from a random spell list  
@@ -66,205 +255,20 @@ When the process is complete, Save Cunning -6 or suffer a Mishap. Gain a +1 bonu
 a) every 10 gp spent on reagents, inks, magical artifacts, incense, or other tools of your trade  
 b) the number of Wizard templates you possess  
 c) each ritual preparation you describe to the GM 
+## Orthodox Wizard
+**Starting Equipment**: dagger, spellbook with 2 spells, ink and quill, and Blue Robes.
+- You learn an additional Spell every Template.
+- **A:** Cantrips
+- **B**: Signature Spell.
+- **C**:
+- **D**:
 
-**Book Casting**
-You can cast from a scroll or a spellbook in a way that does not consume the scroll. This allows you to cast directly from your spellbook without loading the spell into your brain first. You do not gain the bonus MD that consuming a scroll generates.
-
-You must declare you are casting a spell from a book before initiatives are rolled for the turn. You automatically go last in the initiative round, and you automatically fumble the spell if you take any damage during the round. The spell vanishes from the scroll or book and returns the next morning.
-  
-**Friendly Spell**  
-Choose 1 spell you know and have frequently cast. Apply a positive [mutation](http://goblinpunch.blogspot.ca/2016/05/mutant-spells.html) to the spell. Do not roll on the drawbacks table, even if the mutation requests that you do.  
-  
-**Master of Magics**  
-Learn up to 6 spells from your school’s spell list, or invent an entirely new spell (GM’s discretion).
-
-### Animist Wizard
-- Starting Equipment: dagger, spellbook, ink and quill. You dress for concealment.
-
-Animist Wizards are also known as witches. These are the bad wizards, the ones who live in shacks on the edge of town or castles on the edge of reality. They are the cursed ones, robed in black, who you seek when all other hopes fail. When the Church turns its back on you, when you scream curses into the night, when your very soul burns, then you are in need of an Animist Wizard... or ready to become one.
-##### Perk
-If someone makes a bargain with you and breaks it, Save. If you pass, you instantly know they have broken the bargain. Your spells can target parasites and unborn children without targeting their hosts.
-##### Drawback
-You cannot bathe. You cannot return another person’s love.
-##### Cantrips
-1. Transform into an oily formless creature with your face that has either
-	- a fly speed of 2x Movement
-	- 3x Movement
-	- a swim speed of 2x Movement
-	- a burrow speed of Movement
-	- the ability to squeeze through gaps smaller than a human head.
-2. Dim or extinguish all non-magical light sources in a 20’ radius.
-3. Touch someone to learn if they have killed another sentient creature in the last 24hrs.
-
-| 1d6 | Mishaps                                                                                     |
-|:---:| ------------------------------------------------------------------------------------------- |
-|  1  | MD only return to your pool on a 1-2 for 24 hours.                                          |
-|  2  | Take 1d6 damage.                                                                            |
-|  3  | Random mutation for 1d6 rounds then Save Brawn or permanent. Resembles your Transformation. |
-|  4  | Blind for 1d6 rounds.                                                                       |
-|  5  | Deafened for 1d6 rounds.                                                                    |
-|  6  | Spell targets you (if harmful) an enemy (if beneficial) or fizzles.                         |
-
-|     | Dooms                                                                                                |
-|:---:| ---------------------------------------------------------------------------------------------------- |
-|  1  | Some aspect of your transformation manifests for 1 day.                                              |
-|  2  | Some aspect of your transformation becomes permanent. You become crueller and greedier.              |
-|  3  | Your transformation becomes permanent. You become bestial and monstrous. You become a dangerous NPC. |
-
-#### Animist Spell List
-1. Powerful Presence
-- R: 0 T: self D: [dice] hours
-
-You seem to grow in magnificence and poise, and gains +2x[dice] bonus to Save vs Domination, Charm, or Fear effects. Easily frightened creatures (horses, mice, guilt-ridden murderers) must test Morale or flee.
-
-2. Telekinetic Shove
-- R: 50‘ T: creature or object D: 0
-
-An object or creature within range is hurled through the air. Save negates. A human-sized creature travels 10’ per [dice], and takes 1d6 damage for every 10' travelled. A creature thrown at another creature requires an Attack roll to hit and inflicts 1d6 damage for every 10' travelled. This spell will also blow open all the closed but unlocked doors in a room, shatter all the windows in a building, or knock the thatched roof off a peasant's shack.
-
-3. Shrivel
-- R. 50' T: [dice] creatures D: 1d6 rounds / permanent
-
-Target loses half of its current HP and loses 6 Strength (affecting the damage it deals). Save negates. When the spell ends, the lost HP and Strength return. If this spell is cast this spell with 3 or more [dice] against a single target, the lost HP does not return, and the Strength damage is permanent. The apparent age of the target increases considerably for the spell's duration.
-
-4. Charm Person
-- R: 50' T: person D: [dice] hours
-
-Target person regards the caster as a good friend and ignores the obvious spell you just cast on them. If you invest 4 [dice] or more into this spell, the duration becomes permanent.
-
-5. Control Water
-- R: 50’ T: a bucket’s worth of water D: concentration
-
-Control a bucket’s worth of water. At one [die]: (a) propel a small boat, (b) carry a small item through the water, (c) allow someone to swim at 2x speed, (d) force someone to swim at half speed, (e) splash something no more than 5' away, (f) dry something that is wet. Each [dice] you invest increases the effects. At 4 [dice], sink ships or move small lakes.
-
-6. Sleep
-- R: 50' T: [sum] HD of creatures D: 10 min / permanent
-
-Target falls into a magical slumber, and can't be awoken by anything less vigorous than a slap. Save negates. Non-alert, unaware targets do not get a Save. If [sum] is at least 4 times the creature's HD, the duration becomes permanent (until slapped) and the creature no longer needs to eat or drink while sleeping. If you also invested 3 [dice] or more into this spell, the duration becomes permanent, and you can set the only condition that will cause the creature to awake (the sunrise before the apocalypse, true love’s kiss, etc.)
-
-7. Dream Eater
-- R: 50‘ T: creature D: 0
-
-A sleeping creature within 50' takes [sum] damage. The caster heals for the same amount. No Save. When you gain this spell, if you don't know sleep already, you learn it the next time you would roll to gain a spell. It replaces one of the spells you'd roll for.
-
-8. Scorching Ray
-- R: 100' T: creatures or objects D: 0
-
-Fire a ray at a target, dealing 1d10 fire damage with a successful attack roll. Each [dice] you invest in this spell allow you to fire an additional ray at the same target or at a new target. Creatures are not set on fire, but very flammable objects such as candles, dry straw, or paper will catch fire 1 round after being struck. Instead of using this spell to deal damage, you can instead use it to light all the candles in a single room.
-
-9. Scry
-- R: [dice]x100' T: point in space D: concentration
-
-You conjure an invisible, intangible, floating eyeball to a point in space that you designate. Unlike most spells, you do not have to have line of sight to cast it. As long as you maintain concentration, you can see through this sensor with your normal senses. This spell requires something to scry on, usually a mirror, quiet pool, clouds, or bonfire. If you invest 2 or more [dice], you can also hear through the sensor (it grows an ear). If you invest at 3 or more [dice], you can also speak through the sensor (it grows a dribbly little mouth). If you use an actual crystal ball when casting this spell, the range is instead [dice] miles. Crystal balls are rare enough that they are never offered for sale, but are worth upwards of 3,000gp. Most are ancestral relics.
-
-10. Alter Self
-- R: 0 T: self D: [dice]x10 minutes
-
-Alter your form to resemble that of another creature of your type (usually humanoid). You do not gain any special abilities from this transformation.
-
-11. Doom
-- R: 50' T: creature D: concentration
-
-Target feels cold. If you invest 3 [dice] or more, and you loudly pronounce doom on them for the next 2 turns (without being interrupted or breaking line of sight), target dies on the 3rd turn. You need to truly hate the target for this spell to work, or convince yourself that you hate the target. Even a sliver of pity cancels the spell.
-
-12. Curse
-- R: 50' T: mortal creature D: permanent
-
-You inflict a Minor or Major curse on the target. Save negates. For a minor curse, you must invest 2 [dice]. For a major curse, you must invest 4 [dice]. Dice used to cast this spell are automatically exhausted. You cannot dispel your own curses but you must set a thematically appropriate cure or method of breaking it.
-
-### Orthodox Wizard
-- Starting Equipment: dagger, spellbook, ink and quill. Blue Robes.
-
-Orthodox wizards are chartered, historic, and sensible wizards. Their colleges only accept male students, but in small struggling colleges, anyone with a false beard and a sack of gold will do. It’s an open and widely mocked secret. Orthodox wizards study all fields of magic, test theories, explore tombs, and fight in wars. Their blue robes are famous; to many peasants, a wizard without blue robes isn’t a wizard at all.
-##### Perk
-When rolling to learn a spell you roll twice, keeping the result of your choice.
-##### Drawback
-N/A
-##### Cantrips
+**Cantrips**:
 1. Change the colour or texture of an object smaller than a horse for 10 minutes.
 2. Create a tiny light as bright as a match on a fingertip.
 3. Move a light object with a wave of your finger. You could cause a coin to roll or turn a page.
 
-| 1d6 | Mishaps                                                      |
-|:---:| ------------------------------------------------------------ |
-|  1  | MD only return to your pool on a 1-2 for 24 hours.           |
-|  2  | Take 1d6 damage.                                             |
-|  3  | Random mutation for 1d6 rounds then Save Brawn or permanent. |
-|  4  | Lose 1 MD for 24 hours.                                      |
-|  5  | Agony for 1d6 rounds.                                        |
-|  6  | Cannot cast spells for 1d6 hours.                            |
-
-|     | Dooms                                        |
-|:---:| -------------------------------------------- |
-|  1  | Lose the ability to cast spells for 1 day.   |
-|  2  | Lose the ability to cast spells for 3 day.   |
-|  3  | Lose the ability to cast spells permanently. |
-
-#### Orthodox Spell List
-1 Lock
-- R: 50' T: [dice] creatures or objects D: 10 minutes
-
-Non-living object closes and becomes locked. If the object is a door, chest, or similar object, it will slam shut, dealing [sum] damage to any creature passing through it and then trapping them. This spell works on things that aren't technically portals (lock a sword in its scabbard, etc.). Requires Str 10+[dice]x4 to open. Alternatively, this spell can be cast on a creature's orifice. The creature gets a Save to resist, and another Save at the end of each of its turns.
-
-2 Knock
-- R: 50' T: [dice] objects D: 0
-  
-Object is opened. Doors are flung wide, locks are broken, shackles are bent open, belts come undone. Treat this as a Strength check made with Str 10 + [dice]x4. If target is an armoured creature, Save or armour falls off. If target is an unarmoured creature, Save or vomit for 1d4 rounds.
-
-3 Grease
-- R: 50' T: object, surface D: [dice]x2 rounds
-  
-Can be cast directly on a creature or a 10' x 10' x [dice] surface. All creatures affected must Save vs Dex or drop held objects, or, if moving, drop prone.
-
-4 Force Field
-- R: 10' T: plane or sphere D: concentration
-  
-Creates a shimmering force field, 10‘x10’, centered up to 10' away. Alternatively, create a sphere centered on the caster 5' in diameter (large enough for the caster and +1 person). The force field has [sum] HP. All attacks against it hit.
-
-5 Levitate
-- R: 50' T: creature object D: concentration
-
-You will an object to raise, lower, or hover. You cannot move the object horizontally, and you cannot move it more than 10' per turn. Maximum weight is [dice]x500 lbs. Lasts as long as you concentrate, but you take 1d6 psychic damage per round after [dice]x3 rounds.
-
-6 Magic Missile
-- R: 200' T: creature D: 0
-
-Target takes [sum] + [dice] damage, no Save. As an Orthodox Wizard, your spell is unique to you and can be any shape, colour, and pattern your describe.
-
-7 Feather Fall
-- R: 10’ T: [dice] creatures or objects D: 0
-
-If you would take fall damage, you can cast this spell as a reaction to negate it. You float gently to the ground (possibly alarmingly late).
-
-8 Sleep
-- R: 50' T: creature D: 10 min
-- R: 50' T: [sum] HD of creatures D: 10 min / permanent
-
-Target falls into a magical slumber, and can't be awoken by anything less vigorous than a slap. Save negates. Non-alert, unaware targets do not get a Save. If [sum] is at least 4 times the creature's HD, the duration becomes permanent (until slapped) and the creature no longer needs to eat or drink while sleeping. If you also invested 3 [dice] or more into this spell, the duration becomes permanent, and you can set the only condition that will cause the creature to awake (the sunrise before the apocalypse, true love’s kiss, etc.)
-
-9 Light
-- R: touch T: object or creature D: [dice]x2 hours
-
-Object illuminates as a torch, with a radius of 20’+[dice]x10’. Alternatively, you can make an Attack roll against a sighted creature. If you succeed, the creature is blinded for [sum] rounds. If [sum] is greater than 12, the creature is permanently blinded. You can chose the colour of the light. If you invest 4 [dice] or more this light has all the qualities of natural sunlight. Alternatively, if you invest 4 [dice] or more the light can be purest octarine, although it will only last for 1 round. Octarine light is extremely dangerous.
-
-10 Wizard Vision
-- R: touch T: sighted creature D: 10 min / permanent
-
-If you invest one [die]: Target can see invisible things. Target can see through illusions. Non-magical disguises are not penetrated.
-
-If you invest two or more [dice]: This can only be cast on yourself. As above, except you can also see through magical darkness, and see the true forms of shapeshifters. There are also some permanent effects: (a) You can forever see invisible things as a slight warping or lensing of light. You know “there's something over there” and what size it roughly is, but nothing else. (b) You can tell if someone else is a spellcaster by looking them in the eyes.
-
-The price for this gift is your mind. You suffer a permanent loss of 1d6 Wisdom (as you reject the true nature of Creation and go slightly mad) or 1d6 Charisma (as you accept the true nature of Creation and alienate yourself from your peers).
-
-11 Prismatic Ray
-- R: 200' T: [dice] creatures or objects D: 0
-
-Target suffers a different effect depending on which color strikes the target. Roll 1d10: 1. Red. Target takes [sum] fire damage, Save for half. 2. Orange. Target takes [sum] bludgeoning damage and is knocked prone. Save negates. 3. Yellow. Target takes [sum] lightning damage, Save for half. 4. Green. Target takes [sum] acid damage, Save for half. 5. Blue. Target takes [sum] ice damage, Save for half. 6. Purple. Target takes [sum] necrotic damage and is blinded for [sum] rounds. Save negates. 7, 8, 9. Struck twice. Roll a d6 twice. Add effects; make one save. 10. Struck thrice. Roll a d6 three times.
-
-12 Fireball
-- R: 200' T: 20' diameter D: 0
-
-Does [sum] fire damage to all objects.
+**Signature Spell**: You designate one spell you use frequently as your main spell. This Spell has grown entwined with you and you with it. It lives in your brain and doesn't take a spell slot. It can be stored temporarily in living wood but will always find it's way back to you. You can always cast this spell as if you gambled 1d4 regardless of available Magic Dice.
 
 # Specialists
 ## Thief
@@ -289,183 +293,7 @@ Does [sum] fire damage to all objects.
 
 **Very Lucky**: You may use your Lucky ability twice per day. You may also allow an adjacent ally to use one of your rerolls, provided you could have plausibly assisted them.
 
-## Alchemist
-Starting Equipment: 1 Potion of each colour (plus their recipe), a miniature lab (2 slots), a knife.
-- A: Lesser Brews, Bombs
-- B: Antidotes, Chug
-- C: Explosive Infusion
-- D: Greater Brews
 
-**Lesser Brews**: You can turn monster corpses into extracts. Each corpse takes 20 minutes to render and is destroyed by the process. Each HD of corpse yields one extract (no partial extractions). There are three different colours of extracts. Animal-based monsters tend to give red extracts; oozes and insects tend to give green extracts; undead monsters tend to give blue extracts. The colours correspond to the different lists of brews below. One extract can be used to make a brew. 6 can be used to learn a new brew with a month's time. Extracts don’t take up inventory slots as long as you have a miniature lab. 2 brews take up 1 inventory slot but can only be stacked with brews of the same colour.
-
-You can only make brews that you know the recipe for. It takes 10 minutes to make a brew. Brews with the throwable tag can be thrown 30’ and and all brews can be consumed or splashed on targets within 5’. Throwing or Splashing a brew requires a Cunning Save.
-
-**Bombs**: In addition to your three starting brews, you also know how to make Bombs. Made the same way as brews, bombs take can also fit 3 in a slot. Throw them 30’ with a Cunning Save. Different extracts have different effects in a 5’ radius (2x2 squares)
-- **Blue**: 2d4 damage, on max damage roll targets killed reanimate as mindless killers.
-- **Red**: deals 1d6, targets killed explode for 1d4.
-- **Green**: deals 1d6 damage, targets killed are transmuted into movement-blocking, writhing vines.
-
-**Antidotes**: You are an expert in antidotes. You can turn any brew into an antidote to itself, which automatically stops ongoing effects. This does not apply to most brews that have instant effects. 
-
-**Chug**: Trough uncomfortable route practice you can drink faster than most people, especially thick and vile brews. You can consume a single brew as a free action per round.
-
-**Explosive Infusion**: You can combine your bombs and brews together. When a brew-infused bomb explodes, its effects apply to the targets. You can choose whether the brew-bomb deals damage on its creation.
-
-**Greater Brews**: You can harvest greater extracts from creatures that are HD 4 or higher (1 extract per 4 HD). It takes one greater extract to make a greater brew and 4 to learn a new greater brew. They take 20 minutes to extract and each one can be converted to 3 lesser extractions. 
-#### Brews
-
-| d20 | Lesser Red Brews                                                 |
-|:---:| ---------------------------------------------------------------- |
-|  1  | fresh blood (attracts wildlife)                                  |
-|  2  | grease                                                           |
-|  3  | acid (Eats away at metal, except gold)                           |
-|  4  | Flash juice (blinds within 10', or gives enough light for 2 0UD) |
-|  5  |                                                                  |
-|  6  | frost bomb (Throwable, 1d6, extinguishes nearby fires)           |
-|  7  | liquid spikes (caltrops)                                         |
-|  8  | Bottled Bonfire                                                  |
-|  9  | laughing gas (Throwable)                                         |
-| 10  | darkness (10')                                                   |
-| 11  | false life (Grants 1d6 Grit)                                     |
-| 12  |                                                                  |
-| 13  | Brawn (+1)                                                       |
-| 14  | Dexterity (+1)                                                   |
-| 15  | Poison (Next attack is Bolstered, only red extract enemies)       |
-| 16  | jump (50' jump)                                                  |
-
-| d20 | Lesser Green Brews                                           |
-|:---:| ------------------------------------------------------------ |
-|  1  | super glue                                                   |
-|  2  | pourable ice                                                 |
-|  3  | fog (10')                                                    |
-|  4  | Allure (+1)                                                  |
-|  5  | Venom (Next attack is Bolstered, only green extract enemies) |
-|  6  | alarm dust (sings when stepped on)                           |
-|  7  | liquid horse                                                 |
-|  8  | liquid oozeling                                              |
-|  9  | lead legs                                                    |
-| 10  | sleep                                                        |
-| 11  | reduce person                                                |
-| 12  | enlarge person                                               |
-| 13  | see invisibility                                             |
-| 14  | comprehend languages                                         |
-| 15  | feather fall                                                 |
-
-| d20 | Lesser Blue Brews                                                                    |
-|:---:| ------------------------------------------------------------------------------------ |
-|  1  | cure light wounds (heal 1d4)                                                         |
-|  2  | dash (Move twice as fast)                                                            |
-|  3  | restoration (heal 1 or if negative bring to 0)                                       |
-|  4  |                                                                                      |
-|  5  | hide from undead (undead ignore you)                                                 |
-|  6  | mind blank                                                                           |
-|  7  | endure elements (+2 to save against elements)                                        |
-|  8  | Darkvision (Don't count towards needed light, can't see details)                     |
-|  9  | minor invisibility (targets must be objects small enough to fit into your inventory) |
-| 10  | stasis                                                                               |
-| 11  | alchemical iron (cold iron)                                                          |
-|     | Toxin (Next attack is Bolstered, only green extract enemies)                         |
-| 12  | anti-petrification (also works on paralysis)                                         |
-| 13  | regeneration (Slow and requiring multiple doses)                                     |
-|     |                                                                                      |
-
-#### Greater Brews
-
-| d8  | Greater Red Brews                                          |
-|:---:| ---------------------------------------------------------- |
-|  1  | grenado (Throwable, 2d6, chance of exploding as bomb Brew) |
-|  2  | faerie fire                                                |
-|  3  | incendiary cloud (Throwable, 1d6)                          |
-|  4  | Stink cloud (Throwable)                                    |
-|  5  | Rapid Acid                                                 |
-|  6  | big frost bomb                                             |
-|  7  | Jekylyde (+3 Brawn, -3 Cunning, Become mean)               |
-|  8  | dispel magic                                               |
-
-| d8  | Greater Green Brews                 |
-|:---:| ------------------------------------- |
-|  1  | invisibility                          |
-|  2  | webbing (as web)                      |
-|  3  | animate object                        |
-|  4  | mirror image                          |
-|  5  | fusion Brew (requires two drinkers) |
-|  6  | water breathing                       |
-
-| d8  | Greater Blue Brews                                     |
-|:---:| -------------------------------------------------------- |
-|  1  | protection from fire                                     |
-|  2  | protection from cold                                     |
-|  3  | escape (freedom of movement 1 round)                     |
-|  4  | cure moderate (2d6)                                      |
-|  5  | inflict moderate (2d6)                                   |
-|  6  | restoration                                              |
-|  7  | shared blood (allows two people to pool their HP as one) |
-
-
-## Rat King
-Starting Equipment: Icon of the Rat King, Sling, Cheese (3), LockPicks
-- You get an additional max rat at B and D.
-- **A:** Rat Friend, Call Rat  
-- **B:** Throw Rat, Rat Mapping
-- **C:** Rat Bullet, Dire Rat
-- **D:** Transfer Affliction
-
-**A: Rat Friend**  
-You begin play with a variant of Faelul called Ratspat. You can use it to speak freely with all rodents and unlike faelul they may respond, though in broken tongue.
-
-Additionally all rodents recognize you as the beloved rat king, and will improve their starting attitude toward you one step. This protection doesn't extend to your friends.
-
-**A: Call Rat**
-You tap on a walls, sing a song, or emit a high-pitched squeak. If there are rats nearby (and there are nearly always rats) a rat who is loyal to the rat king will emerge from somewhere nearby and join you. Calling a rat incurs a roll on the Underworld Die.
-
-Rats who are loyal, obey you because they are _terrified_ to disobey the rat king for reasons they struggle to explain. They obey you unhesitatingly, although they require a slice of cheese if given obviously suicidal orders.
-
-The maximum number of rats that you can summon per day is equal to 3 times your level. However, the maximum number of rats you can have under your control is equal to your level, with an additional at B and D. Rats who are out on missions for you (such as carrying messages or mapping) still count towards this limit.
-
-**B: Throw Rat**  
-You can throw your rats as weapons. Save Cunning, on a hit, the rat becomes attached.
-
-Each attached rat does 1 point of damage per turn. A rat can be pulled off and held with +4 Brawn Save. A held rat can be crushed in your hand as a free action.
-
-Attached rats can also be attacked. On a hit, the rat is instantly killed. On a miss, the rat is instantly killed, and any damage in excess of the rat's single hit point "rolls over" onto the person it was attached to. 
-
-**B: Rat Mapping**
-You can send your rats into a dungeon to map it. This takes 20 minutes per room explored, but is relatively low risk. Choose how many rats you want to send in, and remember that you are still limited by how many rats you can control at once.
-
-Rooms are described primarily through smells as well as a general sense of "good place", "bad place", or "indifferent" based on whether or not the room contains anything of interest to a rat. Because rats are stupid, lazy, easily confused, and really bad at passing messages along.
-	Rats enjoy food, water, safety, warmth, and an abundance of places to hide (such as furniture debris or dirty straw).  Rats don't enjoy fire, noise, large creatures moving around, people talking, or a complete lack of places to hide.
-
-So the map is just a list of circles with lines drawn between them, labeled with the predominant smell of that room (if any), with occasional smiley faces and sad faces, depending on whether the rats did or didn't like the room. 
-
-Rats find all obvious exits to a room.  They have a 2-in-6 chance of finding secret passages. Even if they can't enter it, they can still detect it, and tell you about it.
-
-Your DM will draw your rat map as follows: Get a d6 for every rat sent. Assume that all the rats move into the first room and roll all the d6s. So if you sent in 4 rats, roll 4d6 for the first room.
-
-A result of a 1 or 2 indicates that rat has died, gotten bored, or wandered off.
-
-If you have at least two dice that show a '6', the rats have paid especially good attention to this room, and return with a more useful description of the room. They actually return with a description closer to what a person would describe. They are limited by their language. They have names for all the common monsters, though you may not know them yet.
-
-You don't get to cross-examine the rat about the description.
-
-Then pick up all of the remaining d6s, pick an unexplored path (from any room), and then go through it. Repeat this process for the next room.
-
-[![](https://4.bp.blogspot.com/-AoYdlgstvK8/Vm6U8X1cBUI/AAAAAAAAItw/peaCB_Dj1-E/s320/rat%2Bmap.png)](https://4.bp.blogspot.com/-AoYdlgstvK8/Vm6U8X1cBUI/AAAAAAAAItw/peaCB_Dj1-E/s1600/rat%2Bmap.png)
-- an example of what the rat mapping function will return  
-- notice that they must have gotten at least two 6s on the first room
-- also notice that they have an equal chance of exploring any unexplored room
-
-You can use this ability from within a dungeon, too. Just remember that you're to eat away at the Underclock while you sit there waiting for the stupid rats to come back.
-
-Rats that you use in this way wander off. Mechanically this is the same as all rats used in this way dying.
-
-**C: Rat Bullet**
-When you throw a rat you can choose to instead focus on impact. The rat deals 2d4 damage and dies on impact.
-
-**C: Dire Rat**
-When you Call Rats you may instead call a dire rat. This counts as 4 rats for the sake of the maximum you can command. This dire rat cannot be thrown or map dungeons but does have the combat prowess to act on their own. You can command them as a free action on your turn but they always go after you and after the enemies. 
-
-**D: Transfer Affliction**
-Once per day, you can transfer a disease, poison, or curse onto a willing rat. Your loyal rats always count as willing (although they may curse your name or haunt you).
 # Workshop
 ## Fighter
 Starting Equipment: leather armor, sword, bow, 20 arrows
@@ -610,128 +438,5 @@ Alchemists hotly contest claims that they are merely hiring small ugly(er) gobli
 But what does it do?!? Some say that when crushed and mixed with a pound of lead, it will generate a pound of gold. Some say that if put in the mouth of a creature that recently died (no more than a week ago), the creature will be resurrected. Some say that if shallowed by a dragon, the stone will allow it to assume human form for [sum] days, and that dragons will grant anyone bringing them such a stone a wish. Some say that that if dissolved in a perfect alcohol then drunk, it will instantly grant a wizard template to the drinker.
 
 ---
-
-
-## Deserter
-Starting Equipment: Light armour, a shield bearing your former affiliation, a hefty weapon, a weight on your conscience, good boots, an extra 10 coins.
-- You get an additional +1 HP at A and C.
-- **A:** Fleet of Foot, Basic Training, Parry  
-- **B:** Well-Travelled, Notches
-- **C:** Unperturbed, Good Boots
-- **D:** Danger Sense
-
-**Parry**: You may raise any weapon as a shield. Reducing damage with the weapons die the weapon breaking on a maximum roll. When a Magic Weapon would break in this way make an Allure Save to attempt to save it.
-
-**Fleet of Foot:** When running away from a fight you suffer half Fatigue. 
-
-**Basic Training:** You have advantage on rolls during combat to do things other than directly attack.
-
-**Notches**: Each time you attain a total of 10, 20, 30, and 50 kills with a weapon type (such as 10 kills with a dagger), you unlock a new ability for that weapon, chosen from the list below.
-
-- +1 Damage
-- Expanded critical range (+1)
-- Special ability (negotiated with GM, one per weapon). Examples: ability to draw the weapon from any slot, knock a target prone on a critical, wield a two-handed weapon in one hand, gain a bonus to use the weapon as a tool, etc.
-
-**Well-Travelled:** You've been everywhere since you ran away. You can read road signs in any language, and have a 2-in-6 chance of knowing a single fact about any object, creature, or person of importance that you encounter.
-
-**Unperturbed:** You've seen a lot, both before and after you defected. You have advantage on saves against fear, and so do your allies if you roll and succeed first.
-
-**Good Boots**: You also suffer 1 less Stress as if you where on a mount, this does not stack if you have a mount.
-
-**Danger Sense:** You have a good nose for when things are about to go south. You can't be surprised, and can make a free attack at the start of combat at someone or something CLOSE, regardless of initiative.
-
-## Gun Priest
-**Starting equipment:** a copy of the Book, a vial of anointing oil, a long coat, a priest's shirt & collar, and a gun.
-- **A:** Ordained, Gunslinger, Holy Books  
-- **B:** Blessings on this House, Set Those Sinners Free  
-- **C:** Arbiter, Confessor's Gaze  
-- **D:** Anointing Ritual, Wrestle with G_d    
-- +1 to missfire score every 2 templates.
-
-**(A) Ordained**  
-You're a priest, and everyone knows it. You can wed couples, give the dead their last rites, bless newborns, administer rituals, hear confessions, create holy water or oil, open and close feast days, and pronounce religious judgement.
-
-If you're lost on the road, people will likely house and feed you for a night, and then give you directions the next morning. People will actively look to you for advice and counsel, and will usually listen when you offer it.  
-
-Most of the time, this just works; both the law and common people recognize you as a priest, so it's rare to get many questions. If there's a question or risk involved in your priestly duties—say, counselling a young couple to not get married too early, or declaring a much-loved townsperson to be a sinner—you have a 3-in-6 chances of success, which increases by +1-in-6 per additional template.  
-
-This also means that unless you take specific measures otherwise, pretty much everyone (like, say, a heretical Inquisition, or a demon in disguise) will spot you as a priest instantaneously.  
-
-**(A) Calculated**
-Spend and action aiming and calculating your shot. Next time you attack with a firearm the first damage dice explode on a 1-2. Aimed shot may be stacked up to a 1-4.
-
-**(A) Holy Books**  
-Every template, you learn one of the randomly-chosen Holy Books contained within the Book itself. This provides some benefit on its own, but it also means that if you're ever in a theological debate that concerns, that Holy Book, you have a significant advantage.  
-  
-If you roll a duplicate, choose the Book above or below it.  
-
-**(B) Set Those Sinners Free**
-You may inscribe a bullet with a sin. Bullets inscribed in this way deal an additional 1d8 (doesn't explode) and doesn't allow bolstered damage. These bullets take up 4 per slot.
-
-Inscribed bullets can kill creatures that are normally immune to mundane death (Ghosts, demon, undead.)
-
-**Piercing Shot**
-Whenever a damage die would explode you can forgo adding it to the current damage and instead deal damage to someone behind your target.
-
-**(C) Arbiter**
-Fire a shot off into the air. As long as this is the first firearm shot of the combat you force all enemies to make a moral check. If the leader of the enemies fails a check you can demand parley instead of them fleeing.
-
-**(C) Confessor's Gaze**
-You may stare down an sapient creature you suspect of sin. Make an Allure save minus the creature HD. If you succeed you break them, they confess. If you fail they become frustrated with you. This could close doors or lead to fights.
-
-**(D) Anointing Ritual**  
-You can ritually anoint your gun. This ritual takes six hours, and requires the following things:  
-- Your gun
-- An inscribed bullet
-- A circle of salt
-- Anointing oil, enough for your gun, hands, and head
-- The bones of a saint
-- A complete chapter of the Book, memorized
-- The light of the full moon, or the dark of no moon
-
-After being ritually anointed, if the first shot fired from your gun is the inscribed bullet hitting its target, that target instantly dies. If you fire a shot before then, or if you miss, or if you reach a full moon or no moon without firing, the ritual's power is lost. 
-
-**(D) Wrestle with God**
-When you spend an hour praying for guidance. When you do, roll Allure, on a success a divine agent (disguised as a bum) approaches and engages you in an unarmed fight. If you win the fight, unarmed, you get the answer to you question.
-
-#### Holy Books
-These are just twelve of the Holy Books contained within the Book itself. Included with each is a sample verse.
-
-1. **The Book of St. Uriathas.** _"Uriathas cried out, for his three daughters lay dead around him. After one hour had passed and Uriathas yet wept, G_d sent the ghosts of his daughters to comfort him in the time of his mourning. Upon seeing them, Uriathas wept all the more, for he felt as though his life had lost its purpose."_  
-        --Uriathas 6:4–6  
-    When you kill a sinner, you learn one memory of theirs relating to the sin you killed them for.
-2. **The Book of Exhortations.** _"Do not suffer the liars and charlatans in your towns. When you encounter a liar, take his tongue from his mouth and nail it to his left hand."_  
-        --Exhortations 11:2  
-    You know a lie when you hear it.
-3. **The Epistle to the Brevant.** _"If a friend comes to your door in the darkest hour of night begging for food and water, do you turn them away? No! You open your door and feed your friend. This is how you should treat all those who come to you, no matter their cloth."_  
-        --Brevant 10:24  
-    Once per 1d6 days, you can bless a meal to feed ten times the number of people it should.
-4. **The Book of Belisaria.** _"And Belisaria touched the leper with her second and fifth fingers, and the leprosy was removed from his body. At that same moment, his eyes burst with flame, and his palms became like a furnace, and all the crowd around him ran with fear."_  
-        --Belisaria 20:16–17  
-    When you heal (from magic or rest), heal [templates] extra HP.
-5. **The Book of St. Khoresh.** _"'Speak not unto me!' he said with a loud voice. And as he did so, the roof of the house they were in began to quake and tremble, and all the multitudes wailed, for they thought they would surely perish. "_  
-        --Khoresh 1:15  
-    When you need to, your voice can carry over nearly any distance; when you speak to a crowd, they all understand you, even if they don't speak your language.
-6. **The Books of 1st & 2nd Archons.** _"Trust in G_d. Do this, and you shall know peace, and all that you need shall be provided unto you."_  
-        --2 Archons 31:19  
-    If you have no more bullets and you desperately need one, there will be a single bullet in the chamber.
-7. **The Litany of Calaginosus.** _"'Woe unto the plague-bringers!' shouted Calaginosus. 'Woe unto the dwellers in our Mother's Hall! Woe unto all who defy the Prophets!'"_  
-        --Lit. Calaginosus 4:4  
-    When you blow someone's brains out, any opponents within earshot must immediately make a Morale check, suffering -2 to the 2d6 roll (or appropriate). 
-8. **The Book of St. Dunstan.** _"Remain ever vigilant and ever watching. Do not trust those who come to your house with smiles and delights, for they hide serpents in their robes."_  
-        --Dunstan 8:12  
-    You cannot be surprised in combat.
-9. **The Hymn of Karnassa.** _"Ash and oak, elm and fir, yew and alder. See all the bounty of the world that our divine G_d has given unto us? How can Hell stand against the might of Heaven and Earth?"_  
-        --H. of Karnassa 2:33  
-    You gain +2 to saves against fear and mind control.
-10. **The Book of the Cataclysm.** _"When the storms of G_d come, and fire and ice rain from the sky, then you shall know the words of the Prophets as true."_  
-        --Cataclysm 25:18  
-    So long as you have your priest's collar on, you have advantage against the effects of very cold and very hot weather.
-11. **The 1st & 2nd Epistle to the Synniots.** _"Hear me, Theophiloi, when I speak these words unto you: 'The works of G_d may seem impossible to you, but they are not. Through iron faith, all things may yet come to pass.' And the Synniots rejoiced upon reading these words, for their star had not yet abated."_  
-        --1 Synniots 14:8–9  
-    Once every 1d10 days, you can re-roll a single d20 roll.
-12. **The Book of St. Yrsa.** _"Do not dwell in darkness, but embrace the light of truth. Fear neither sun nor fire, but welcome both into your hearts."_  
-        --Yrsa 7:21  
-    After firing your gun, light hangs from where the muzzle flashed for 1 hour.
 
 
