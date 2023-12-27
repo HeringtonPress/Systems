@@ -218,6 +218,7 @@ Some Modifiers that can diversify the locks are below:
 - WEATHERED: Ignore the first time a lock would jam.
 - SECURED: The first wrong action causes the lock to jam.
 - SPIKED: Wrong actions deals d4 damage to the picker.
+
 ### Stealth
 Moving silently and unseen is a Save with a penalty equal to your total filled slots, excluding Quick-Slots, and a bonus equal to unfilled slots.
 
