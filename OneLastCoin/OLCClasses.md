@@ -142,7 +142,7 @@ Starting Equipment: Icon of the Rat King, Sling, Cheese (3), Lockpicks
 - **D:** Transfer Affliction
 
 **A: Rat Friend**  
-You begin play with a variant of Faelul called Ratspat. You can use it to speak freely with all rodents and unlike faelul they may respond, though in broken tongue.
+You begin play with a variant of Faelul called Ratspat. You can use it to speak freely with all rodents and unlike Faelul they may respond, though in broken tongue.
 
 Additionally all rodents recognize you as the beloved rat king, and will improve their starting attitude toward you one step. This protection doesn't extend to your friends.
 
@@ -156,7 +156,7 @@ The maximum number of rats that you can summon per day is equal to 3 times your 
 **B: Throw Rat**  
 You can throw your rats as weapons. The rat becomes attached.
 
-Each attached rat does 1 point of damage per turn. A rat can be pulled off and held with a +4 Save. A held rat can be crushed in your hand as a free action.
+Each attached rat does 1 point of damage per turn and gives a -1 to damage on attacks from the target. A rat can be pulled off and held with a +4 Save. A held rat can be crushed in your hand as a free action.
 
 **B: Rat Mapping**
 You can send your rats into a dungeon to map it. This takes 20 minutes per room explored, but is relatively low risk. Choose how many rats you want to send in, and remember that you are still limited by how many rats you can control at once.
